@@ -1,0 +1,269 @@
+sentence_number	study	item_name	item_type	response_has_qualifier_intensifier	source_text
+0	ESS_R08_2016	A1	REQUEST	0	Now some questions about the way society works.
+1	ESS_R04_2008	A1	REQUEST	0	I'm now going to ask you some questions about the social status that people in different age groups have in society.
+2	ESS_R04_2008	A1	REQUEST	0	By social status I mean prestige, social standing or position in society;
+3	ESS_R04_2008	A1	REQUEST	0	I do not mean participation in social groups or activities.
+4	ESS_R04_2008	A1	REQUEST	0	I'm interested in how you think most people in [country] view the status of people in their 20s, people in their 40s and people over 70.
+5	ESS_R04_2008	A1	REQUEST	0	Using this card please tell me where most people would place the status of...
+6	ESS_R04_2008	A1	REQUEST	0	...people in their 20s?
+7	ESS_R04_2008	A1	REQUEST	0	...people over 70?
+8	ESS_R04_2008	A1	RESPONSE	1	Extremely low status
+9	ESS_R04_2008	A1	RESPONSE	1	Extremely high status
+10	ESS_R04_2008	A1	RESPONSE	0	(Refusal)
+11	ESS_R04_2008	A1	RESPONSE	0	(Don't know)
+12	ESS_R04_2008	A2	REQUEST	0	Taking all things into account, please use this card to say how you see people in their 20s and people over 70 in [country] today?
+13	ESS_R04_2008	A2	REQUEST	0	I see those in their 20s and over 70 as:
+14	ESS_R04_2008	A2	RESPONSE	0	One group
+15	ESS_R04_2008	A2	RESPONSE	0	Two separate groups who are part of the same community
+16	ESS_R04_2008	A2	RESPONSE	0	Two separate groups who are not part of the same community
+17	ESS_R04_2008	A2	RESPONSE	0	Only as individuals rather than groups
+18	ESS_R04_2008	A2	RESPONSE	0	(Refusal)
+19	ESS_R04_2008	A2	RESPONSE	0	(Don't know)
+20	ESS_R07_2014	A3	REQUEST	0	In the last 12 months , that is since [MONTH, YEAR], were you ever unable to get a medical consultation or the treatment you needed for any of the reasons listed on this card?
+21	ESS_R07_2014	A3	INSTRUCTION	0	INTERVIEWER: Refer to the same month as the interview but of the previous year.
+22	ESS_R07_2014	A3	INSTRUCTION	0	For example, if the interview takes place in September 2014, use [September 2013].
+23	ESS_R07_2014	A3	RESPONSE	0	Could not pay for it
+24	ESS_R07_2014	A3	RESPONSE	0	Could not take the time off work
+25	ESS_R07_2014	A3	RESPONSE	0	Had other commitments
+26	ESS_R07_2014	A3	RESPONSE	0	The treatment you needed was not available where you live or nearby
+27	ESS_R07_2014	A3	RESPONSE	0	The waiting list was too long
+28	ESS_R07_2014	A3	RESPONSE	0	There were no appointments available
+29	ESS_R07_2014	A3	RESPONSE	0	Other reason
+30	ESS_R07_2014	A3	RESPONSE	0	Yes
+31	ESS_R07_2014	A3	RESPONSE	0	No
+32	ESS_R07_2014	A3	RESPONSE	0	(Refusal)
+33	ESS_R07_2014	A3	RESPONSE	0	(Don't know)
+34	ESS_R08_2016	A4	REQUEST	0	I am now going to ask you about the effect of social benefits and services on different areas of life in [country].
+35	ESS_R08_2016	A4	REQUEST	0	By social benefits and services we are thinking about things like health care, pensions and social security.
+36	ESS_R08_2016	A4	REQUEST	0	Using this card, please tell me to what extent you agree or disagree that social benefits and services in [country]...
+37	ESS_R08_2016	A4	INSTRUCTION	0	READ OUT…
+38	ESS_R08_2016	A4	REQUEST	0	…place too great a strain on the economy?
+39	ESS_R08_2016	A4	REQUEST	0	…lead to a more equal society?
+40	ESS_R08_2016	A4	RESPONSE	1	Agree strongly
+41	ESS_R08_2016	A4	RESPONSE	1	Agree
+42	ESS_R08_2016	A4	RESPONSE	1	Neither agree nor disagree
+43	ESS_R08_2016	A4	RESPONSE	1	Disagree
+44	ESS_R08_2016	A4	RESPONSE	1	Disagree strongly
+45	ESS_R08_2016	A4	RESPONSE	0	(Refusal)
+46	ESS_R08_2016	A4	RESPONSE	0	(Don’t know)
+47	ESS_R08_2016	A5	REQUEST	0	Imagine someone in their 50s who is unemployed and looking for work.
+48	ESS_R08_2016	A5	REQUEST	0	This person was previously working but lost their job and is now receiving unemployment benefit.
+49	ESS_R08_2016	A5	REQUEST	0	What do you think should happen to this person’s unemployment benefit if…
+50	ESS_R08_2016	A5	INSTRUCTION	0	READ OUT…
+51	ESS_R08_2016	A5	REQUEST	0	…they turn down a job because it pays a lot less than they earned previously?
+52	ESS_R08_2016	A5	REQUEST	0	…they refuse to regularly carry out unpaid work in the area where they live in return for unemployment benefit?
+53	ESS_R08_2016	A5	RESPONSE	0	This person should lose all their unemployment benefit
+54	ESS_R08_2016	A5	RESPONSE	0	This person should lose about half of their unemployment benefit
+55	ESS_R08_2016	A5	RESPONSE	0	This person should lose a small part of their unemployment benefit
+56	ESS_R08_2016	A5	RESPONSE	0	This person should be able to keep all their unemployment benefit
+57	ESS_R08_2016	A5	RESPONSE	0	(Refusal)
+58	ESS_R08_2016	A5	RESPONSE	0	(Don’t know)
+59	EVS_R03_1999	A6	REQUEST	0	Please look carefully at the following list of voluntary organisations and activities and say which, if any, do you belong to?
+60	EVS_R03_1999	A6	INSTRUCTION	0	Code all mentioned.
+61	EVS_R03_1999	A6	RESPONSE	0	Religious or church organisations
+62	EVS_R03_1999	A6	RESPONSE	0	Trade unions
+63	EVS_R03_1999	A6	RESPONSE	0	Professional associations
+64	EVS_R03_1999	A6	RESPONSE	0	None
+65	EVS_R03_1999	A6	RESPONSE	0	(Refusal)
+66	EVS_R03_1999	A6	RESPONSE	0	(Don’t know)
+67	EVS_R03_1999	A7	REQUEST	0	I'm going to ask how often you do certain things.
+68	EVS_R03_1999	A7	REQUEST	0	For each activity, would you say you do them every week or nearly every week, once or twice a month, only a few times a year, or not at all?
+69	EVS_R03_1999	A7	INSTRUCTION	0	Interviewer: Code 'Not applicable' when respondent is not involved in work, church or club.
+70	EVS_R03_1999	A7	RESPONSE	0	Spend time with friends
+71	EVS_R03_1999	A7	RESPONSE	0	Spend time with colleagues from work or your profession outside the workplace
+72	EVS_R03_1999	A7	RESPONSE	0	Spend time with people at your church, mosque or synagogue
+73	EVS_R03_1999	A7	RESPONSE	0	Every week
+74	EVS_R03_1999	A7	RESPONSE	0	Once or twice a month
+75	EVS_R03_1999	A7	RESPONSE	0	A few times a year
+76	EVS_R03_1999	A7	RESPONSE	0	Not at all
+77	EVS_R03_1999	A7	RESPONSE	0	(Refusal)
+78	EVS_R03_1999	A7	RESPONSE	0	(Don’t know)
+79	EVS_R03_1999	A8	REQUEST	0	Generally speaking, do you think that your church is/the churches are giving, in your country, adequate answers to ...
+80	EVS_R03_1999	A8	INSTRUCTION	0	Read out and code one answer for each.
+81	EVS_R03_1999	A8	INSTRUCTION	0	NB: For those belonging to a church or a religious community, ask YOUR church/ religious community.
+82	EVS_R03_1999	A8	INSTRUCTION	0	For those not belonging to a church or religious community ask: THE churches.
+83	EVS_R03_1999	A8	REQUEST	0	The moral problems and needs of the individual
+84	EVS_R03_1999	A8	REQUEST	0	The problems of family life
+85	EVS_R03_1999	A8	RESPONSE	0	Yes
+86	EVS_R03_1999	A8	RESPONSE	0	No
+87	EVS_R03_1999	A8	RESPONSE	0	(Refusal)
+88	EVS_R03_1999	A8	RESPONSE	0	(Don’t know)
+89	EVS_R03_1999	A9	REQUEST	0	Which, if any, of the following do you believe in?
+90	EVS_R03_1999	A9	INSTRUCTION	0	Read out and code one answer for each.
+91	EVS_R03_1999	A9	REQUEST	0	God
+92	EVS_R03_1999	A9	REQUEST	0	Sin
+93	EVS_R03_1999	A9	RESPONSE	0	Yes
+94	EVS_R03_1999	A9	RESPONSE	0	No
+95	EVS_R03_1999	A9	RESPONSE	0	(Refusal)
+96	EVS_R03_1999	A9	RESPONSE	0	(Don’t know)
+97	EVS_R03_1999	A10	REQUEST	0	Which of these two statements comes closest to your own opinion?
+98	EVS_R03_1999	A10	REQUEST	0	A: I find that both freedom and equality are important. 
+99	EVS_R03_1999	A10	REQUEST	0	But if I were to choose one or the other, I would consider personal freedom more important, that is, everyone can live in freedom and develop without hindrance.
+100	EVS_R03_1999	A10	REQUEST	0	B: Certainly both freedom and equality are important.
+101	EVS_R03_1999	A10	REQUEST	0	But if I were to choose one or the other, I would consider equality more important, that is, that nobody is underprivileged and that social class differences are not so strong.
+102	EVS_R03_1999	A10	RESPONSE	0	Agree with statement A
+103	EVS_R03_1999	A10	RESPONSE	0	Agree with statement B
+104	EVS_R03_1999	A10	RESPONSE	0	Neither
+105	EVS_R03_1999	A10	RESPONSE	0	(Refusal)
+106	EVS_R03_1999	A10	RESPONSE	0	(Don’t know)
+107	EVS_R03_1999	A11	REQUEST	0	Now I'd like you to tell me your views on various issues.
+108	EVS_R03_1999	A11	REQUEST	0	How would you place your views on this scale?
+109	EVS_R03_1999	A11	RESPONSE	0	Individuals should take more responsibility for providing for themselves
+110	EVS_R03_1999	A11	RESPONSE	0	The state should take more responsibility to ensure that everyone is provided for
+111	EVS_R03_1999	A11	RESPONSE	0	(Refusal)
+112	EVS_R03_1999	A11	RESPONSE	0	(Don’t know)
+113	EVS_R03_1999	A12	REQUEST	0	On this card are three basic kinds of attitudes vis-à-vis the society we live in.
+114	EVS_R03_1999	A12	REQUEST	0	Please choose the one which best describes your own opinion.
+115	EVS_R03_1999	A12	INSTRUCTION	0	(Code one only) 
+116	EVS_R03_1999	A12	RESPONSE	0	The entire way our society is organised must be radically changed by revolutionary action
+117	EVS_R03_1999	A12	RESPONSE	0	Our society must be gradually improved by reforms
+118	EVS_R03_1999	A12	RESPONSE	0	Our present society must be valiantly defended against all subversive forces
+119	EVS_R03_1999	A12	RESPONSE	0	(Refusal)
+120	EVS_R03_1999	A12	RESPONSE	0	(Don’t know)
+121	ESS_R08_2016	A13	REQUEST	0	Using this card, please say how much you agree or disagree with the following statement.
+122	ESS_R08_2016	A13	INSTRUCTION	0	Read out the statement and code in grid
+123	ESS_R08_2016	A13	REQUEST	0	Large differences in people’s incomes are acceptable to properly reward differences in talents and efforts.
+124	ESS_R08_2016	A13	RESPONSE	1	Agree strongly
+125	ESS_R08_2016	A13	RESPONSE	1	Agree
+126	ESS_R08_2016	A13	RESPONSE	1	Neither agree nor disagree
+127	ESS_R08_2016	A13	RESPONSE	1	Disagree
+128	ESS_R08_2016	A13	RESPONSE	1	Disagree strongly
+129	ESS_R08_2016	A13	RESPONSE	0	(Refusal)
+130	ESS_R08_2016	A13	RESPONSE	0	(Don’t know)
+131	ESS_R08_2016	A14	REQUEST	0	To be a good citizen, how important would you say it is for a person to...
+132	ESS_R08_2016	A14	INSTRUCTION	0	READ OUT
+133	ESS_R08_2016	A14	REQUEST	0	...support people who are worse off than themselves?
+134	ESS_R08_2016	A14	REQUEST	0	...be active in politics?
+135	ESS_R08_2016	A14	RESPONSE	1	Extremely unimportant
+136	ESS_R08_2016	A14	RESPONSE	1	Extremely important
+137	ESS_R08_2016	A14	RESPONSE	0	(Refusal)
+138	ESS_R08_2016	A14	RESPONSE	0	(Don't know)
+139	EVS_R03_1999	A15	REQUEST	0	Now I'd like you to look at this card.
+140	EVS_R03_1999	A15	REQUEST	0	I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.
+141	EVS_R03_1999	A15	REQUEST	0	Signing a petition
+142	EVS_R03_1999	A15	REQUEST	0	Occupying buildings or factories
+143	EVS_R03_1999	A15	RESPONSE	0	Have done
+144	EVS_R03_1999	A15	RESPONSE	0	Might do
+145	EVS_R03_1999	A15	RESPONSE	0	Would never do
+146	EVS_R03_1999	A15	RESPONSE	0	(Refusal)
+147	EVS_R03_1999	A15	RESPONSE	0	(Don't know)
+148	EVS_R03_1999	A16	REQUEST	0	Can you tell me your opinion on each of the following statements?
+149	EVS_R03_1999	A16	REQUEST	0	If someone has information that may help justice be done, generally he or she should give it to authorities
+150	EVS_R03_1999	A16	REQUEST	0	People should stick to their own affairs and not show too much interest in what others say or do
+151	EVS_R03_1999	A16	RESPONSE	1	Agree strongly
+152	EVS_R03_1999	A16	RESPONSE	1	Agree
+153	EVS_R03_1999	A16	RESPONSE	1	Neither agree nor disagree
+154	EVS_R03_1999	A16	RESPONSE	1	Disagree
+155	EVS_R03_1999	A16	RESPONSE	1	Disagree strongly
+156	EVS_R03_1999	A16	RESPONSE	0	(Refusal)
+157	EVS_R03_1999	A16	RESPONSE	0	(Don't know)
+158	ESS_R05_2010	A17	REQUEST	0	Now some questions about things you might have done.
+159	ESS_R05_2010	A17	REQUEST	0	Using this card please tell me how often you have done each of these things in the last five years?
+160	ESS_R05_2010	A17	REQUEST	0	How often have you... 
+161	ESS_R05_2010	A17	INSTRUCTION	0	READ OUT …
+162	ESS_R05_2010	A17	REQUEST	0	...made an exaggerated or false insurance claim?
+163	ESS_R05_2010	A17	REQUEST	0	...committed a traffic offence like speeding or crossing a red light?
+164	ESS_R05_2010	A17	RESPONSE	0	Never
+165	ESS_R05_2010	A17	RESPONSE	0	Once
+166	ESS_R05_2010	A17	RESPONSE	0	Twice
+167	ESS_R05_2010	A17	RESPONSE	0	3 or 4 times
+168	ESS_R05_2010	A17	RESPONSE	0	5 times or more
+169	ESS_R05_2010	A17	RESPONSE	0	(Refusal)
+170	ESS_R05_2010	A17	RESPONSE	0	(Don't know)
+171	ESS_R05_2010	A18	REQUEST	0	Now suppose two people from different race or ethnic groups each appear in court, charged with an identical crime they did not commit.
+172	ESS_R05_2010	A18	REQUEST	0	Choose an answer from this card to show who you think would be more likely to be found guilty.
+173	ESS_R05_2010	A18	RESPONSE	0	The person from a different race or ethnic group than most [country] people is more likely to be found guilty
+174	ESS_R05_2010	A18	RESPONSE	0	The person from the same race or ethnic group as most [country] people is more likely to be found guilty
+175	ESS_R05_2010	A18	RESPONSE	0	They both have the same chance of being found guilty
+176	ESS_R05_2010	A18	RESPONSE	0	(Refusal)
+177	ESS_R05_2010	A18	RESPONSE	0	(Don't know)
+178	ESS_R02_2004	A19	REQUEST	0	Now look at this card.
+179	ESS_R02_2004	A19	REQUEST	0	When you and your husband/wife/partner make decisions about the following, who generally gets their way on...
+180	ESS_R02_2004	A19	INSTRUCTION	0	READ OUT…
+181	ESS_R02_2004	A19	REQUEST	0	… occasional more expensive purchases for the household?
+182	ESS_R02_2004	A19	RESPONSE	1	Always me
+183	ESS_R02_2004	A19	RESPONSE	1	Usually me
+184	ESS_R02_2004	A19	RESPONSE	1	About equal or both together
+185	ESS_R02_2004	A19	RESPONSE	1	Usually my spouse/ partner
+186	ESS_R02_2004	A19	RESPONSE	1	Always my spouse/ partner
+187	ESS_R02_2004	A19	RESPONSE	1	Always or usually someone else
+188	ESS_R02_2004	A19	RESPONSE	0	(Refusal)
+189	ESS_R02_2004	A19	RESPONSE	0	(Don't know)
+190	EVS_R03_1999	A20	REQUEST	0	Here is a list of things which some people think make for a successful marriage.
+191	EVS_R03_1999	A20	REQUEST	0	Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?
+192	EVS_R03_1999	A20	INSTRUCTION	0	(Read out each item)
+193	EVS_R03_1999	A20	REQUEST	0	Faithfulness
+194	EVS_R03_1999	A20	REQUEST	0	An adequate income
+195	EVS_R03_1999	A20	REQUEST	0	Being willing to discuss the problems that come up between husband and wife
+196	EVS_R03_1999	A20	RESPONSE	0	Very
+197	EVS_R03_1999	A20	RESPONSE	0	Rather
+198	EVS_R03_1999	A20	RESPONSE	0	Not
+199	EVS_R03_1999	A20	RESPONSE	0	(Refusal)
+200	EVS_R03_1999	A20	RESPONSE	0	(Don't know)
+201	ESS_R02_2004	A21	REQUEST	0	Including any time spent on maternity or parental leave, around how long in total have you spent full-time at home because you were caring for your child(ren)?
+202	ESS_R02_2004	A21	INSTRUCTION	0	Please use this card.
+203	ESS_R02_2004	A21	RESPONSE	0	No time at home full-time because of children
+204	ESS_R02_2004	A21	RESPONSE	0	Up to six months
+205	ESS_R02_2004	A21	RESPONSE	0	More than 6 months, up to 12 months
+206	ESS_R02_2004	A21	RESPONSE	0	More than a year, but up to 2 years
+207	ESS_R02_2004	A21	RESPONSE	0	More than 2 years, but up to 4 years
+208	ESS_R02_2004	A21	RESPONSE	0	More than 4 years, but up to 10 years
+209	ESS_R02_2004	A21	RESPONSE	0	More than 10 years
+210	ESS_R02_2004	A21	RESPONSE	0	(Refusal)
+211	ESS_R02_2004	A21	RESPONSE	0	(Don't know)
+212	ESS_R06_2012	A22	INSTRUCTION	0	I will now read out a list of the ways you might have felt or behaved during the past week.
+213	ESS_R06_2012	A22	REQUEST	0	Using this card, please tell me how much of the time during the past week…
+214	ESS_R06_2012	A22	INSTRUCTION	0	READ OUT…
+215	ESS_R06_2012	A22	REQUEST	0	...you felt depressed?
+216	ESS_R06_2012	A22	REQUEST	0	...you felt that everything you did was an effort?
+217	ESS_R06_2012	A22	INSTRUCTION	0	READ OUT
+218	ESS_R06_2012	A22	RESPONSE	1	None or almost none of the time
+219	ESS_R06_2012	A22	RESPONSE	1	Some of the time
+220	ESS_R06_2012	A22	RESPONSE	1	Most of the time
+221	ESS_R06_2012	A22	RESPONSE	1	All or almost all of the time
+222	ESS_R06_2012	A22	RESPONSE	0	(Refusal)
+223	ESS_R03_2006	A23	RESPONSE	0	(Don't know)
+224	ESS_R03_2006	A23	REQUEST	0	Using this card, please tell me to what extent you agree or disagree with the following statement.
+225	ESS_R03_2006	A23	RESPONSE	0	Most days I feel a sense of accomplishment from what I do.
+226	ESS_R03_2006	A23	RESPONSE	1	Agree strongly
+227	ESS_R03_2006	A23	RESPONSE	1	Agree
+228	ESS_R03_2006	A23	RESPONSE	1	Neither agree nor disagree
+229	ESS_R03_2006	A23	RESPONSE	1	Disagree
+230	ESS_R03_2006	A23	RESPONSE	1	Disagree strongly
+231	ESS_R03_2006	A23	RESPONSE	0	(Refusal)
+232	ESS_R03_2006	A23	RESPONSE	0	(Don't know)
+233	ESS_R01_2002	A24	REQUEST	0	I am going to read out a list of things about your working life.
+234	ESS_R01_2002	A24	REQUEST	0	Using this card, please say how much the management at your work allows you...
+235	ESS_R01_2002	A24	INSTRUCTION	0	READ OUT
+236	ESS_R01_2002	A24	REQUEST	0	... to be flexible in your working hours?
+237	ESS_R01_2002	A24	REQUEST	0	...to influence your environment?
+238	ESS_R01_2002	A24	RESPONSE	0	I have no influence
+239	ESS_R01_2002	A24	RESPONSE	0	I have complete control
+240	ESS_R01_2002	A24	RESPONSE	0	(Refusal)
+241	ESS_R01_2002	A24	RESPONSE	0	(Don't know)
+242	ESS_R01_2002	A25	REQUEST	0	Using this card, please say to what extent you agree or disagree with the following statement.
+243	ESS_R01_2002	A25	REQUEST	0	Employees need strong trade unions to protect their working conditions and wages
+244	ESS_R01_2002	A25	RESPONSE	1	Agree strongly
+245	ESS_R01_2002	A25	RESPONSE	1	Agree
+246	ESS_R01_2002	A25	RESPONSE	1	Neither agree nor disagree
+247	ESS_R01_2002	A25	RESPONSE	1	Disagree
+248	ESS_R01_2002	A25	RESPONSE	1	Disagree strongly
+249	ESS_R01_2002	A25	RESPONSE	0	(Refusal)
+250	ESS_R01_2002	A25	RESPONSE	0	(Don't know)
+251	EVS_R03_1999	A26	REQUEST	0	What is your job?
+252	EVS_R03_1999	A26	INSTRUCTION	0	Write in and code below
+253	EVS_R03_1999	A26	RESPONSE	0	Employer/manager of establishment with 10 or more employees
+254	EVS_R03_1999	A26	RESPONSE	0	Employer/manager of establishment with less then 10 employees
+255	EVS_R03_1999	A26	RESPONSE	0	Professional worker (lawyer, accountant, teacher etc.)
+256	EVS_R03_1999	A26	RESPONSE	0	Middle level non-manual - office worker etc.
+257	EVS_R03_1999	A26	RESPONSE	0	Junior level non-manual - office worker etc.
+258	EVS_R03_1999	A26	RESPONSE	0	Foreman and supervisor
+259	EVS_R03_1999	A26	RESPONSE	0	Skilled manual worker
+260	EVS_R03_1999	A26	RESPONSE	0	Semi-skilled manual worker
+261	EVS_R03_1999	A26	RESPONSE	0	Unskilled manual worker
+262	EVS_R03_1999	A26	RESPONSE	0	Farmer: employer, manager or own account
+263	EVS_R03_1999	A26	RESPONSE	0	Agricultural worker
+264	EVS_R03_1999	A26	RESPONSE	0	Member of armed forces
+265	EVS_R03_1999	A26	RESPONSE	0	Never had a job
+266	EVS_R03_1999	A26	RESPONSE	0	(Refusal)
+267	EVS_R03_1999	A26	RESPONSE	0	(Don't know)

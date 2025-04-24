@@ -1,0 +1,773 @@
+source_survey_itemID	target_survey_itemID	Study	module	item_type	item_name	item_value	source_text	target_text
+EVS_R04_2008_ENG_GB_2950	EVS_R04_2008_GER_DE_2976	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q137		Date of the interview:	Datum des Interviews:
+EVS_R04_2008_ENG_GB_2951	EVS_R04_2008_GER_DE_2977	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q137		day	Tag:
+EVS_R04_2008_ENG_GB_2952	EVS_R04_2008_GER_DE_2978	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q137		month	Monat:
+EVS_R04_2008_ENG_GB_2953	EVS_R04_2008_GER_DE_2979	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q137		year	Jahr:
+EVS_R04_2008_ENG_GB_2954	EVS_R04_2008_GER_DE_2980	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q139		During the interview the respondent was ...	Während des Interviews war der/die Befragte...
+EVS_R04_2008_ENG_GB_2960	EVS_R04_2008_GER_DE_2986	EVS_R04_2008	Administrative/Protocol Variables	INSTRUCTION	Q140		CODING INSTRUCTION: USE PRE-SPECIFIED ISO 639-1 CODES FOR ALL LANGUAGES THAT QUESTIONNAIRE IS TRANSLATED INTO	KODIERANWEISUNG: FESTGELEGTE ISO 639-1 CODES FÜR ALLE SPRACHEN VERWENDEN, IN DIE DER FRAGEBOGEN ÜBERSETZT WURDE
+EVS_R04_2008_ENG_GB_2958	EVS_R04_2008_GER_DE_2984	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q140		In which language was the interview conducted?	In welcher Sprache wurde das Interview geführt?
+EVS_R04_2008_ENG_GB_2959	EVS_R04_2008_GER_DE_2985	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q140		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2961	EVS_R04_2008_GER_DE_2987	EVS_R04_2008	Administrative/Protocol Variables	REQUEST	Q140		Code	Code:
+EVS_R04_2008_ENG_GB_2202	EVS_R04_2008_GER_DE_2174	EVS_R04_2008	Environment	INSTRUCTION	Q85		SHOW CARD 85 - READ OUT AND CODE ONE ANSWER PER LINE!	LISTE 85 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN!
+EVS_R04_2008_ENG_GB_2203	EVS_R04_2008_GER_DE_2175	EVS_R04_2008	Environment	REQUEST	Q85		I am now going to read out some statements about the environment.	Ich werde Ihnen nun einige Aussagen zum Thema Umwelt vorlesen.
+EVS_R04_2008_ENG_GB_2204	EVS_R04_2008_GER_DE_2176	EVS_R04_2008	Environment	REQUEST	Q85		For each one, can you tell me whether you agree strongly, agree, disagree or strongly disagree with it?	Bitte sagen Sie mir jedesmal, ob Sie voll und ganz zustimmen, zustimmen, ablehnen oder stark ablehnen.
+EVS_R04_2008_ENG_GB_2205	EVS_R04_2008_GER_DE_2177	EVS_R04_2008	Environment	REQUEST	Q85a		I would give part of my income if I were certain that the money would be used to prevent environmental pollution	Ich würde auf einen Teil meines Einkommens verzichten, wenn ich sicher sein könnte, dass dieses Geld dazu verwendet wird, Umweltverschmutzung zu verhindern
+EVS_R04_2008_ENG_GB_2212	EVS_R04_2008_GER_DE_2184	EVS_R04_2008	Environment	REQUEST	Q85b		We are approaching the limit of the number of people the earth can support	Wir erreichen die Obergrenze an Menschen, die die Erde ernähren kann
+EVS_R04_2008_ENG_GB_2219	EVS_R04_2008_GER_DE_2191	EVS_R04_2008	Environment	REQUEST	Q85c		When humans interfere with nature it often  produces disastrous consequences	Wenn Menschen in die Natur eingreifen, hat dies oft katastrophale Folgen
+EVS_R04_2008_ENG_GB_2226	EVS_R04_2008_GER_DE_2198	EVS_R04_2008	Environment	REQUEST	Q85d		Human creativity will ensure that the earth remains fit to live in	Menschlicher Erfindungsreichtum wird sicherstellen, dass die Erde bewohnbar bleibt
+EVS_R04_2008_ENG_GB_2233	EVS_R04_2008_GER_DE_2205	EVS_R04_2008	Environment	REQUEST	Q85e		The balance of nature is strong enough to cope with the impacts of modern industrial nations	Das Gleichgewicht der Natur ist stark genug, um mit den Einflüssen moderner Industrienationen fertig zu werden
+EVS_R04_2008_ENG_GB_2240	EVS_R04_2008_GER_DE_2212	EVS_R04_2008	Environment	REQUEST	Q85f		Humans were meant to rule over the rest of nature	Die Menschen sind dazu bestimmt, über die Natur zu herrschen
+EVS_R04_2008_ENG_GB_2247	EVS_R04_2008_GER_DE_2219	EVS_R04_2008	Environment	REQUEST	Q85g		If things continue on their present course, we will soon experience a major ecological catastrophe	Wenn es so weitergeht wie bisher, werden wir bald eine große ökologische Katastrophe erleben
+EVS_R04_2008_ENG_GB_971	EVS_R04_2008_GER_DE_898	EVS_R04_2008	Family	INTRODUCTION	Q42		THE FOLLOWING QUESTIONS ARE ABOUT FAMILY LIFE AND MARRIAGE	Nun folgen einige Fragen über Familienleben und Ehe.
+EVS_R04_2008_ENG_GB_972	EVS_R04_2008_GER_DE_899	EVS_R04_2008	Family	INSTRUCTION	Q42		SHOW CARD 42 - READ OUT AND CODE ONE ANSWER PER LINE!	LISTE 42 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_973	EVS_R04_2008_GER_DE_900	EVS_R04_2008	Family	REQUEST	Q42		Here is a list of things which some people think make for a successful marriage.	Hier auf dieser Liste steht Verschiedenes, was manche für eine gute Ehe für wichtig halten.
+EVS_R04_2008_ENG_GB_974	EVS_R04_2008_GER_DE_901	EVS_R04_2008	Family	REQUEST	Q42		Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?	Unabhängig davon, ob Sie verheiratet sind oder nicht: Sagen Sie mir bitte für jeden Punkt, ob Sie meinen, daß dieser für eine gute Ehe sehr wichtig, ziemlich wichtig oder nicht besonders wichtig ist?
+EVS_R04_2008_ENG_GB_975	EVS_R04_2008_GER_DE_902	EVS_R04_2008	Family	REQUEST	Q42a		Faithfulness	Treue
+EVS_R04_2008_ENG_GB_981	EVS_R04_2008_GER_DE_908	EVS_R04_2008	Family	REQUEST	Q42b		An adequate income	Angemessenes Einkommen
+EVS_R04_2008_ENG_GB_987	EVS_R04_2008_GER_DE_914	EVS_R04_2008	Family	REQUEST	Q42c		Being of the same social background	Gleiche soziale Herkunft
+EVS_R04_2008_ENG_GB_993	EVS_R04_2008_GER_DE_920	EVS_R04_2008	Family	REQUEST	Q42d		Shared religious beliefs	Gemeinsame religiöse Überzeugungen
+EVS_R04_2008_ENG_GB_999	EVS_R04_2008_GER_DE_926	EVS_R04_2008	Family	REQUEST	Q42e		Good housing	Gute Wohnverhältnisse
+EVS_R04_2008_ENG_GB_1005	EVS_R04_2008_GER_DE_932	EVS_R04_2008	Family	REQUEST	Q42f		Agreement on politics	Übereinstimmung in politischen Fragen
+EVS_R04_2008_ENG_GB_1011	EVS_R04_2008_GER_DE_938	EVS_R04_2008	Family	REQUEST	Q42g		Living apart from your in-laws	Von den Schwiegereltern getrennt leben
+EVS_R04_2008_ENG_GB_1017	EVS_R04_2008_GER_DE_944	EVS_R04_2008	Family	REQUEST	Q42h		Happy sexual relationship	Glückliche sexuelle Beziehungen
+EVS_R04_2008_ENG_GB_1023	EVS_R04_2008_GER_DE_950	EVS_R04_2008	Family	REQUEST	Q42i		Sharing household chores	Die Hausarbeit teilen
+EVS_R04_2008_ENG_GB_1029	EVS_R04_2008_GER_DE_956	EVS_R04_2008	Family	REQUEST	Q42j		Children	Kinder
+EVS_R04_2008_ENG_GB_1035	EVS_R04_2008_GER_DE_962	EVS_R04_2008	Family	REQUEST	Q42k		Being willing to discuss the problems that come up between husband and wife	Bereitschaft zur Diskussion über Probleme in der Partnerschaft
+EVS_R04_2008_ENG_GB_1041	EVS_R04_2008_GER_DE_968	EVS_R04_2008	Family	REQUEST	Q42l		Having some time for one's own friends and for personal hobbies/activities	Zeit haben für eigene Freunde und eigene Hobbies/Aktivitäten
+EVS_R04_2008_ENG_GB_1047	EVS_R04_2008_GER_DE_974	EVS_R04_2008	Family	REQUEST	Q43		If someone says a child needs a home with both a father and a mother to grow up happily, would you tend to agree or disagree?	"Wenn jemand sagt: ""Ein Kind braucht ein Heim mit beiden, Vater und Mutter, um glücklich aufzuwachsen""."
+	EVS_R04_2008_GER_DE_975	EVS_R04_2008	Family	REQUEST	Q43			Würden Sie da eher zustimmen oder eher nicht zustimmen?
+EVS_R04_2008_ENG_GB_1052	EVS_R04_2008_GER_DE_980	EVS_R04_2008	Family	REQUEST	Q44		Do you think that a woman has to have children in order to be fulfilled?	Glauben Sie, daß eine Frau Kinder haben muß, um ein erfülltes Leben zu haben, oder ist das nicht nötig?
+EVS_R04_2008_ENG_GB_1057	EVS_R04_2008_GER_DE_985	EVS_R04_2008	Family	REQUEST	Q45		Do you agree or disagree with the following statement?	"Wenn jemand sagt: ""Die Ehe ist eine überholte Einrichtung""."
+EVS_R04_2008_ENG_GB_1058	EVS_R04_2008_GER_DE_986	EVS_R04_2008	Family	REQUEST	Q45		Marriage is an outdated institution	Würden Sie da eher zustimmen oder eher nicht zustimmen?
+EVS_R04_2008_ENG_GB_1063	EVS_R04_2008_GER_DE_991	EVS_R04_2008	Family	REQUEST	Q46		If a woman wants to have a child as a single parent, but she doesn't want to have a stable relationship with a man, do you approve or disapprove?	Wenn eine Frau ein Kind haben will, ohne eine feste Beziehung zu einem Mann zu haben: Würden Sie das gutheißen oder nicht?
+EVS_R04_2008_ENG_GB_1069	EVS_R04_2008_GER_DE_997	EVS_R04_2008	Family	INSTRUCTION	Q47		Show card 47 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 47 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+	EVS_R04_2008_GER_DE_998	EVS_R04_2008	Family	REQUEST	Q47			Wie denken Sie über die folgenden Aussagen?
+EVS_R04_2008_ENG_GB_1070	EVS_R04_2008_GER_DE_999	EVS_R04_2008	Family	REQUEST	Q47		From this card, how much do you agree or disagree with the following statements?	Sagen Sie mir bitte, ob Sie voll und ganz zustimmen, zustimmen, nicht zustimmen oder überhaupt nicht zustimmen.
+EVS_R04_2008_ENG_GB_1071	EVS_R04_2008_GER_DE_1000	EVS_R04_2008	Family	REQUEST	Q47a		A man has to have children in order to be fulfilled	Ein Mann muß Kinder haben, um ein erfülltes Leben zu haben
+EVS_R04_2008_ENG_GB_1079	EVS_R04_2008_GER_DE_1008	EVS_R04_2008	Family	REQUEST	Q47b		A marriage or a long-term stable relationship is necessary to be happy	Um glücklich zu sein, ist es notwendig, in einer Ehe oder einer dauerhaften, festen Beziehung zu leben
+EVS_R04_2008_ENG_GB_1087	EVS_R04_2008_GER_DE_1016	EVS_R04_2008	Family	REQUEST	Q47c		Homosexual couples should be able to adopt children	Homosexuelle Paare sollten Kinder adoptieren können
+EVS_R04_2008_ENG_GB_1095	EVS_R04_2008_GER_DE_1024	EVS_R04_2008	Family	REQUEST	Q47d		It is alright for two people to live together without getting married	Es ist in Ordnung, wenn ein Paar zusammenlebt, ohne zu heiraten
+EVS_R04_2008_ENG_GB_1103	EVS_R04_2008_GER_DE_1032	EVS_R04_2008	Family	REQUEST	Q47e		It is a duty to society to have children	Kinder zu haben ist eine Pflicht gegenüber der Gesellschaft
+EVS_R04_2008_ENG_GB_1111	EVS_R04_2008_GER_DE_1040	EVS_R04_2008	Family	REQUEST	Q47f		People should have children only if they want to.	Jeder sollte für sich selbst entscheiden, Kinder zu haben will oder nicht
+EVS_R04_2008_ENG_GB_1119	EVS_R04_2008_GER_DE_1048	EVS_R04_2008	Family	REQUEST	Q47g		When a parent is seriously ill or fragile, it is mainly the adult child's duty to take care of him/her	Wenn ein Elternteil schwer krank oder gebrechlich ist, ist es in erster Linie die Pflicht erwachsener Kinder für sie oder ihn zu sorgen
+EVS_R04_2008_ENG_GB_1127	EVS_R04_2008_GER_DE_1056	EVS_R04_2008	Family	INSTRUCTION	Q48		Show card 48 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 48 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1128	EVS_R04_2008_GER_DE_1057	EVS_R04_2008	Family	REQUEST	Q48		People talk about the changing roles of men and women today.	Man spricht ja oft davon, daß sich heutzutage die Rollen von Mann und Frau verändern.
+EVS_R04_2008_ENG_GB_1129	EVS_R04_2008_GER_DE_1058	EVS_R04_2008	Family	REQUEST	Q48		For each of the following statements I read out, can you tell me how much you agree with each.	Ich lese Ihnen jetzt Verschiedenes vor, und Sie sagen mir bitte zu jedem Punkt, wie sehr Sie zustimmen.
+EVS_R04_2008_ENG_GB_1130	EVS_R04_2008_GER_DE_1059	EVS_R04_2008	Family	REQUEST	Q48		Please use the responses on this card.	Bitte nutzen Sie die Antwortvorgaben von der Liste
+EVS_R04_2008_ENG_GB_1131	EVS_R04_2008_GER_DE_1060	EVS_R04_2008	Family	REQUEST	Q48a		A working mother can establish just as warm and secure a relationship with her children as a mother who does not work	Eine berufstätige Mutter kann ihrem Kind genauso viel Wärme und Sicherheit geben wie eine Mutter, die nicht arbeitet
+EVS_R04_2008_ENG_GB_1138	EVS_R04_2008_GER_DE_1067	EVS_R04_2008	Family	REQUEST	Q48b		A pre-school child is likely to suffer if his or her mother works	Ein Kleinkind wird wahrscheinlich darunter leiden, wenn die Mutter berufstätig ist
+EVS_R04_2008_ENG_GB_1145	EVS_R04_2008_GER_DE_1074	EVS_R04_2008	Family	REQUEST	Q48c		A job is alright but what most women really want is a home and children	Ein Beruf ist gut, aber was die meisten Frauen wirklich wollen, ist ein Heim und Kinder
+EVS_R04_2008_ENG_GB_1152	EVS_R04_2008_GER_DE_1081	EVS_R04_2008	Family	REQUEST	Q48d		Being a housewife is just as fulfilling as working for pay	Hausfrau zu sein ist genauso befriedigend wie eine Berufstätigkeit
+EVS_R04_2008_ENG_GB_1159	EVS_R04_2008_GER_DE_1088	EVS_R04_2008	Family	REQUEST	Q48e		Having a job is the best way for a woman to be an independent person	Berufstätigkeit ist der beste Weg für eine Frau, um unabhängig zu sein
+EVS_R04_2008_ENG_GB_1166	EVS_R04_2008_GER_DE_1095	EVS_R04_2008	Family	REQUEST	Q48f		Both husband and wife should contribute to household income	Beide, Mann und Frau, sollten zum Haushaltseinkommen beitragen
+EVS_R04_2008_ENG_GB_1173	EVS_R04_2008_GER_DE_1102	EVS_R04_2008	Family	REQUEST	Q48g		In general, fathers are as well suited to looking after their children as mothers	Im allgemeinen sind Väter genauso geeignet, sich um die Kinder zu kümmern wie Mütter
+EVS_R04_2008_ENG_GB_1180	EVS_R04_2008_GER_DE_1109	EVS_R04_2008	Family	REQUEST	Q48h		Men should take as much responsibility as women for the home and children	Männer sollten für das zu Hause und für die Kinder genauso viel Verantwortung übernehmen, wie Frauen
+EVS_R04_2008_ENG_GB_2452	EVS_R04_2008_GER_DE_2456	EVS_R04_2008	Life Experiences	REQUEST	Q108a		Have you ever experienced any of the following events?	Haben Sie die folgenden Ereignisse schon einmal erlebt?
+EVS_R04_2008_ENG_GB_2453	EVS_R04_2008_GER_DE_2457	EVS_R04_2008	Life Experiences	REQUEST	Q108a		If yes, what age were you when you experienced it?	Wenn ja, in welchem Alter haben Sie sie das erste Mal erlebt?
+EVS_R04_2008_ENG_GB_2454		EVS_R04_2008	Life Experiences	REQUEST	Q108a		(For any event which has happened more than once, please tell me at what age you first experienced it.)	
+EVS_R04_2008_ENG_GB_2455	EVS_R04_2008_GER_DE_2458	EVS_R04_2008	Life Experiences	REQUEST	Q108v329a		The death of one of your children?	Den Tod eines Ihrer Kinder?
+EVS_R04_2008_ENG_GB_2460	EVS_R04_2008_GER_DE_2463	EVS_R04_2008	Life Experiences	REQUEST	Q108b		Have you ever experienced any of the following events?	Haben Sie die folgenden Ereignisse schon einmal erlebt?
+EVS_R04_2008_ENG_GB_2461	EVS_R04_2008_GER_DE_2464	EVS_R04_2008	Life Experiences	REQUEST	Q108b		If yes, what age were you when you experienced it?	Wenn ja, in welchem Alter haben Sie sie das erste Mal erlebt?
+EVS_R04_2008_ENG_GB_2462		EVS_R04_2008	Life Experiences	REQUEST	Q108b		(For any event which has happened more than once, please tell me at what age you first experienced it.)	
+EVS_R04_2008_ENG_GB_2463	EVS_R04_2008_GER_DE_2465	EVS_R04_2008	Life Experiences	REQUEST	Q108b		IF YES: age	WENN JA: Alter
+EVS_R04_2008_ENG_GB_2464	EVS_R04_2008_GER_DE_2466	EVS_R04_2008	Life Experiences	REQUEST	Q108v329b		The death of one of your children?	Den Tod eines Ihrer Kinder?
+EVS_R04_2008_ENG_GB_2468	EVS_R04_2008_GER_DE_2470	EVS_R04_2008	Life Experiences	REQUEST	Q108v330a		The divorce of one of your children?	Die Scheidung eines Ihrer Kinder?
+EVS_R04_2008_ENG_GB_2473	EVS_R04_2008_GER_DE_2475	EVS_R04_2008	Life Experiences	REQUEST	Q108v330b		The divorce of one of your children?	Die Scheidung eines Ihrer Kinder?
+EVS_R04_2008_ENG_GB_2477	EVS_R04_2008_GER_DE_2479	EVS_R04_2008	Life Experiences	REQUEST	Q108v331a		The divorce of your parents	Die Scheidung Ihrer Eltern?
+EVS_R04_2008_ENG_GB_2482	EVS_R04_2008_GER_DE_2484	EVS_R04_2008	Life Experiences	REQUEST	Q108v331b		The divorce of your parents	Die Scheidung Ihrer Eltern?
+EVS_R04_2008_ENG_GB_2486	EVS_R04_2008_GER_DE_2488	EVS_R04_2008	Life Experiences	REQUEST	Q108v332a		The divorce of another relative	Die Scheidung eines anderen Verwandten?
+EVS_R04_2008_ENG_GB_2491	EVS_R04_2008_GER_DE_2493	EVS_R04_2008	Life Experiences	REQUEST	Q108v332b		The divorce of another relative	Die Scheidung eines anderen Verwandten?
+EVS_R04_2008_ENG_GB_2495	EVS_R04_2008_GER_DE_2497	EVS_R04_2008	Life Experiences	REQUEST	Q108v333a		The death of your father	Den Tod Ihres Vaters?
+EVS_R04_2008_ENG_GB_2500	EVS_R04_2008_GER_DE_2502	EVS_R04_2008	Life Experiences	REQUEST	Q108v333b		The death of your father	Den Tod Ihres Vaters?
+EVS_R04_2008_ENG_GB_2504	EVS_R04_2008_GER_DE_2506	EVS_R04_2008	Life Experiences	REQUEST	Q108v334a		The death of your mother	Den Tod Ihrer Mutter?
+EVS_R04_2008_ENG_GB_2509	EVS_R04_2008_GER_DE_2511	EVS_R04_2008	Life Experiences	REQUEST	Q108v334b		The death of your mother	Den Tod Ihrer Mutter?
+EVS_R04_2008_ENG_GB_1807	EVS_R04_2008_GER_DE_1773	EVS_R04_2008	National Identity	INSTRUCTION	Q69		SHOW CARD 69 - CODE ONE ANSWER ONLY FOR Q69	LISTE 69 VORLEGEN – NUR EINE NENNUNG MÖGLICH
+EVS_R04_2008_ENG_GB_1808	EVS_R04_2008_GER_DE_1774	EVS_R04_2008	National Identity	REQUEST	Q69		Which of these geographical groups would you say you belong to first of all?	Welcher dieser geographischen Einheiten auf dieser Liste hier fühlen Sie sich am meisten zugehörig?
+	EVS_R04_2008_GER_DE_1775	EVS_R04_2008	National Identity	REQUEST	Q69			Nennen Sie mir bitte den entsprechenden Kennbuchstaben von der Liste.
+EVS_R04_2008_ENG_GB_1816	EVS_R04_2008_GER_DE_1783	EVS_R04_2008	National Identity	INSTRUCTION	Q70		KEEP USING CARD 69 - CODE ONE ANSWER ONLY FOR Q70	LISTE 69 LIEGEN LASSEN – NUR EINE NENNUNG MÖGLICH
+EVS_R04_2008_ENG_GB_1817	EVS_R04_2008_GER_DE_1784	EVS_R04_2008	National Identity	REQUEST	Q70		And secondly?	Und welcher fühlen Sie sich an zweiter Stelle zugehörig?
+EVS_R04_2008_ENG_GB_1825	EVS_R04_2008_GER_DE_1792	EVS_R04_2008	National Identity	REQUEST	Q71		Are you a citizen of Great Britain?	Haben Sie die deutsche Staatsbürgerschaft?
+EVS_R04_2008_ENG_GB_1831		EVS_R04_2008	National Identity	INSTRUCTION	Q72		READ OUT	
+EVS_R04_2008_ENG_GB_1830	EVS_R04_2008_GER_DE_1797	EVS_R04_2008	National Identity	REQUEST	Q72		How proud are you to be a British citizen?	Wie stolz sind Sie darauf, daß Sie die deutsche Staatsbürgerschaft haben?
+	EVS_R04_2008_GER_DE_1798	EVS_R04_2008	National Identity	REQUEST	Q72			Sind Sie.
+	EVS_R04_2008_GER_DE_1799	EVS_R04_2008	National Identity	REQUEST	Q72			..
+EVS_R04_2008_ENG_GB_1839	EVS_R04_2008_GER_DE_1807	EVS_R04_2008	National Identity	INSTRUCTION	Q73		SHOW CARD 73 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 73 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1840	EVS_R04_2008_GER_DE_1808	EVS_R04_2008	National Identity	REQUEST	Q73		Some people may have fears about the European Union.	Einige Menschen mögen Angst vor dem Ausbau der Europäischen Union haben.
+EVS_R04_2008_ENG_GB_1841	EVS_R04_2008_GER_DE_1809	EVS_R04_2008	National Identity	REQUEST	Q73		I am going to read a number of things which people say they are afraid of.	Ich werde jetzt ein paar Dinge vorlesen, von denen Menschen sagen, dass sie sich vor ihnen fürchten.
+EVS_R04_2008_ENG_GB_1842	EVS_R04_2008_GER_DE_1810	EVS_R04_2008	National Identity	REQUEST	Q73		For each tell me if you - personally - are currently afraid of:	Sagen Sie mir bitte für jedes dieser Dinge, ob Sie sich persönlich davor fürchten:
+EVS_R04_2008_ENG_GB_1843	EVS_R04_2008_GER_DE_1811	EVS_R04_2008	National Identity	REQUEST	Q73a		The loss of social security	Der Verlust von Leistungen aus der sozialen Sicherung
+EVS_R04_2008_ENG_GB_1856	EVS_R04_2008_GER_DE_1824	EVS_R04_2008	National Identity	REQUEST	Q73b		The loss of national identity and culture	Der Verlust nationaler Identität und Kultur
+EVS_R04_2008_ENG_GB_1861	EVS_R04_2008_GER_DE_1829	EVS_R04_2008	National Identity	REQUEST	Q73c		Our country paying more and more to the European Union	Dass unser Land immer mehr in die Europäische Union einzahlt
+EVS_R04_2008_ENG_GB_1866	EVS_R04_2008_GER_DE_1834	EVS_R04_2008	National Identity	REQUEST	Q73d		A loss of power in the world for Great Britain	Dass Deutschland an Einfluss in der Welt verliert
+EVS_R04_2008_ENG_GB_1871	EVS_R04_2008_GER_DE_1839	EVS_R04_2008	National Identity	REQUEST	Q73e		The loss of jobs in Great Britain	Der Verlust von Arbeitsplätzen in Deutschland
+EVS_R04_2008_ENG_GB_1876	EVS_R04_2008_GER_DE_1844	EVS_R04_2008	National Identity	INSTRUCTION	Q74		SHOW CARD 74	LISTE 74 VORLEGEN
+EVS_R04_2008_ENG_GB_1877	EVS_R04_2008_GER_DE_1845	EVS_R04_2008	National Identity	REQUEST	Q74		Some say that the European Union enlargement should go further.	Manche meinen, dass die Erweiterung der Europäischen Union weiter gehen soll.
+EVS_R04_2008_ENG_GB_1878	EVS_R04_2008_GER_DE_1846	EVS_R04_2008	National Identity	REQUEST	Q74		Others say it has already gone too far.	Andere dagegen sagen, sie sei bereits zu weit gegangen.
+EVS_R04_2008_ENG_GB_1879	EVS_R04_2008_GER_DE_1847	EVS_R04_2008	National Identity	REQUEST	Q74		"Using this card, which number best describes your position, where ‘1' means  ""should go further"", and ‘10' means ""has already gone too far""?"	"Sagen Sie es mir bitte anhand dieser Liste: 1 meint ""sie sollte weiter gehen"", 10 meint ""sie ist bereits zu weit gegangen""."
+EVS_R04_2008_ENG_GB_1942	EVS_R04_2008_GER_DE_1913	EVS_R04_2008	National Identity	INSTRUCTION	Q78a		SHOW CARD 78 – READ OUT	LISTE 78 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1943	EVS_R04_2008_GER_DE_1914	EVS_R04_2008	National Identity	REQUEST	Q78a		Please look at the following statements and indicate where you would place your views on this scale.	Bitte lesen Sie sich die folgenden Aussagen durch, und sagen Sie mir anhand dieser Skala, wo Sie Ihre Meinung dazu einordnen würden.
+EVS_R04_2008_ENG_GB_1956	EVS_R04_2008_GER_DE_1927	EVS_R04_2008	National Identity	INSTRUCTION	Q78b		SHOW CARD 78 – READ OUT	LISTE 78 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1957	EVS_R04_2008_GER_DE_1928	EVS_R04_2008	National Identity	REQUEST	Q78b		Please look at the following statements and indicate where you would place your views on this scale.	Bitte lesen Sie sich die folgenden Aussagen durch, und sagen Sie mir anhand dieser Skala, wo Sie Ihre Meinung dazu einordnen würden.
+EVS_R04_2008_ENG_GB_1970	EVS_R04_2008_GER_DE_1941	EVS_R04_2008	National Identity	INSTRUCTION	Q78c		SHOW CARD 78 – READ OUT	LISTE 78 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1971	EVS_R04_2008_GER_DE_1942	EVS_R04_2008	National Identity	REQUEST	Q78c		Please look at the following statements and indicate where you would place your views on this scale.	Bitte lesen Sie sich die folgenden Aussagen durch, und sagen Sie mir anhand dieser Skala, wo Sie Ihre Meinung dazu einordnen würden.
+EVS_R04_2008_ENG_GB_1984	EVS_R04_2008_GER_DE_1955	EVS_R04_2008	National Identity	INSTRUCTION	Q78d		SHOW CARD 78 – READ OUT	LISTE 78 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1985	EVS_R04_2008_GER_DE_1956	EVS_R04_2008	National Identity	REQUEST	Q78d		Please look at the following statements and indicate where you would place your views on this scale.	Bitte lesen Sie sich die folgenden Aussagen durch, und sagen Sie mir anhand dieser Skala, wo Sie Ihre Meinung dazu einordnen würden.
+EVS_R04_2008_ENG_GB_1998	EVS_R04_2008_GER_DE_1969	EVS_R04_2008	National Identity	INSTRUCTION	Q78e		SHOW CARD 78 – READ OUT	LISTE 78 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1999	EVS_R04_2008_GER_DE_1970	EVS_R04_2008	National Identity	REQUEST	Q78e		Please look at the following statements and indicate where you would place your views on this scale.	Bitte lesen Sie sich die folgenden Aussagen durch, und sagen Sie mir anhand dieser Skala, wo Sie Ihre Meinung dazu einordnen würden.
+EVS_R04_2008_ENG_GB_2012	EVS_R04_2008_GER_DE_1983	EVS_R04_2008	National Identity	INSTRUCTION	Q78f		SHOW CARD 78 – READ OUT	LISTE 78 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_2013	EVS_R04_2008_GER_DE_1984	EVS_R04_2008	National Identity	REQUEST	Q78f		Please look at the following statements and indicate where you would place your views on this scale.	Bitte lesen Sie sich die folgenden Aussagen durch, und sagen Sie mir anhand dieser Skala, wo Sie Ihre Meinung dazu einordnen würden.
+EVS_R04_2008_ENG_GB_2026	EVS_R04_2008_GER_DE_1997	EVS_R04_2008	National Identity	INSTRUCTION	Q79		SHOW CARD 79	LISTE 79 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_2027	EVS_R04_2008_GER_DE_1998	EVS_R04_2008	National Identity	REQUEST	Q79		Please indicate to what extent you agree or disagree with each of the following statements regarding immigrants living in your country:	Bitte geben Sie an, inwieweit Sie den folgenden Aussagen zu Ausländern, die in unserem Land leben, zustimmen oder Sie sie ablehnen.
+EVS_R04_2008_ENG_GB_2028	EVS_R04_2008_GER_DE_1999	EVS_R04_2008	National Identity	REQUEST	Q79a		Because of the number of immigrants in Great Britain, I sometimes feel like a stranger	Aufgrund der Anzahl der Ausländer in Deutschland fühle ich mich manchmal wie ein Fremder
+EVS_R04_2008_ENG_GB_2036	EVS_R04_2008_GER_DE_2007	EVS_R04_2008	National Identity	REQUEST	Q79b		Today in Great Britain, there are too many immigrants	Heutzutage gibt es in Deutschland zu viele Ausländer
+EVS_R04_2008_ENG_GB_2044	EVS_R04_2008_GER_DE_2015	EVS_R04_2008	National Identity	INSTRUCTION	Q80		SHOW CARD 80	LISTE 80 VORLEGEN
+EVS_R04_2008_ENG_GB_2045	EVS_R04_2008_GER_DE_2016	EVS_R04_2008	National Identity	REQUEST	Q80		Some people say the following things are important for being truly British.	Einige Menschen sagen die folgenden Dinge seien wichtig, um wirklich deutsch zu sein.
+EVS_R04_2008_ENG_GB_2046	EVS_R04_2008_GER_DE_2017	EVS_R04_2008	National Identity	REQUEST	Q80		Others say they are not important.	Andere dagegen sagen, sie seien nicht wichtig.
+EVS_R04_2008_ENG_GB_2047	EVS_R04_2008_GER_DE_2018	EVS_R04_2008	National Identity	REQUEST	Q80		How important do you think each of the following is?	Was meinen Sie wie wichtig jedes dieser Dinge ist?
+EVS_R04_2008_ENG_GB_2048	EVS_R04_2008_GER_DE_2019	EVS_R04_2008	National Identity	REQUEST	Q80a		To have been born in Great Britain	In Deutschland geboren zu sein
+EVS_R04_2008_ENG_GB_2055	EVS_R04_2008_GER_DE_2026	EVS_R04_2008	National Identity	REQUEST	Q80b		To respect Great Britain's political institutions and laws	Deutschlands politische Institutionen und Gesetze zu respektieren
+EVS_R04_2008_ENG_GB_2062	EVS_R04_2008_GER_DE_2033	EVS_R04_2008	National Identity	REQUEST	Q80c		To have Great Britain's ancestry	Deutsche Vorfahren zu haben
+EVS_R04_2008_ENG_GB_2069	EVS_R04_2008_GER_DE_2040	EVS_R04_2008	National Identity	REQUEST	Q80d		To be able to speak English	Deutsch zu sprechen
+EVS_R04_2008_ENG_GB_2076	EVS_R04_2008_GER_DE_2047	EVS_R04_2008	National Identity	REQUEST	Q80e		To have lived for a long time in Great Britain	Lange Zeit in Deutschland gelebt zu haben
+EVS_R04_2008_ENG_GB_0	EVS_R04_2008_GER_DE_0	EVS_R04_2008	Perceptions of Life	INTRODUCTION	Q1		WE START WITH SOME QUESTIONS ABOUT LIFE IN GENERAL, LEISURE TIME ACTIVITIES AND WORK.	WIR STARTEN MIT EINIGEN FRAGEN ÜBER DAS LEBEN IM ALLGEMEINEN, FREIZEITBESCHÄFTIGUNGEN UND DAS ARBEITSLEBEN.
+EVS_R04_2008_ENG_GB_1	EVS_R04_2008_GER_DE_1	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q1		Show card 1	LISTE 1 VORLEGEN
+EVS_R04_2008_ENG_GB_2	EVS_R04_2008_GER_DE_2	EVS_R04_2008	Perceptions of Life	REQUEST	Q1		Please say, for each of the following, how important it is in your life.	Ich möchte Ihnen jetzt verschiedene Bereiche vorlesen und Sie fragen, wie wichtig sie in Ihrem Leben sind.
+	EVS_R04_2008_GER_DE_3	EVS_R04_2008	Perceptions of Life	REQUEST	Q1			Bitte sagen Sie mir für jeden Bereich, ob er Ihnen sehr wichtig, ziemlich wichtig, nicht sehr wichtig oder überhaupt nicht wichtig ist
+	EVS_R04_2008_GER_DE_4	EVS_R04_2008	Perceptions of Life	REQUEST	Q1a			Wie ist es mit der Arbeit?
+EVS_R04_2008_ENG_GB_3	EVS_R04_2008_GER_DE_5	EVS_R04_2008	Perceptions of Life	REQUEST	Q1a		Work	Wie wichtig ist Ihnen die?
+EVS_R04_2008_ENG_GB_10	EVS_R04_2008_GER_DE_12	EVS_R04_2008	Perceptions of Life	REQUEST	Q1b		Family	Und die Familie?
+EVS_R04_2008_ENG_GB_17	EVS_R04_2008_GER_DE_19	EVS_R04_2008	Perceptions of Life	REQUEST	Q1c		Friends and acquaintances	Freunde und Bekannte?
+EVS_R04_2008_ENG_GB_24	EVS_R04_2008_GER_DE_26	EVS_R04_2008	Perceptions of Life	REQUEST	Q1d		Leisure time	Freizeit?
+EVS_R04_2008_ENG_GB_31	EVS_R04_2008_GER_DE_33	EVS_R04_2008	Perceptions of Life	REQUEST	Q1e		Politics	Politik?
+EVS_R04_2008_ENG_GB_38	EVS_R04_2008_GER_DE_40	EVS_R04_2008	Perceptions of Life	REQUEST	Q1f		Religion	Religion?
+EVS_R04_2008_ENG_GB_45	EVS_R04_2008_GER_DE_47	EVS_R04_2008	Perceptions of Life	REQUEST	Q2		When you get together with your friends, would you say you discuss political matters frequently, occasionally or never?	Wenn Sie mit Freunden zusammen sind: Sprechen Sie dann öfter oder gelegentlich über Politik oder nie?
+EVS_R04_2008_ENG_GB_51	EVS_R04_2008_GER_DE_53	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q3		SHOW CARD 3	LISTE 3 VORLEGEN
+EVS_R04_2008_ENG_GB_52	EVS_R04_2008_GER_DE_54	EVS_R04_2008	Perceptions of Life	REQUEST	Q3		Taking all things together, would you say you are:	Ganz allgemein: Würden Sie sagen, Sie sind zur Zeit sehr glücklich, ziemlich glücklich, nicht sehr glücklich oder überhaupt nicht glücklich?
+EVS_R04_2008_ENG_GB_59	EVS_R04_2008_GER_DE_61	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q4		Show card 4	LISTE 4 VORLEGEN
+EVS_R04_2008_ENG_GB_60	EVS_R04_2008_GER_DE_62	EVS_R04_2008	Perceptions of Life	REQUEST	Q4		All in all, how would you describe your health these days?	Wie schätzen Sie - alles in allem - Ihren Gesundheitszustand ein?
+EVS_R04_2008_ENG_GB_61	EVS_R04_2008_GER_DE_63	EVS_R04_2008	Perceptions of Life	REQUEST	Q4		Would you say it is	Würden Sie sagen, er ist sehr gut, gut, durchschnittlich, schlecht oder sehr schlecht?
+EVS_R04_2008_ENG_GB_69	EVS_R04_2008_GER_DE_71	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q5a		Show card 5	LISTE 5 VORLEGEN
+EVS_R04_2008_ENG_GB_72	EVS_R04_2008_GER_DE_74	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q5a		CODE ALL MENTIONED UNDER (a)	ALLES ANKREUZEN, WAS UNTER 5A ZUTRIFFT
+EVS_R04_2008_ENG_GB_70	EVS_R04_2008_GER_DE_72	EVS_R04_2008	Perceptions of Life	REQUEST	Q5a		Please look carefully at the following list of voluntary organisations and activities and say ...	Wenn Sie sich einmal sorgfältig diese Liste mit verschiedenen Organisationen und Gruppen durchlesen und mir bitte sagen...
+EVS_R04_2008_ENG_GB_71	EVS_R04_2008_GER_DE_73	EVS_R04_2008	Perceptions of Life	REQUEST	Q5a		a) which, if any, do you belong to?	a) welcher davon Sie angehören?
+EVS_R04_2008_ENG_GB_73	EVS_R04_2008_GER_DE_75	EVS_R04_2008	Perceptions of Life	REQUEST	Q5aa		Social welfare services for elderly, handicapped or deprived people	Soziale Hilfsdienste für Alte, Behinderte und sozial Schwache
+EVS_R04_2008_ENG_GB_78	EVS_R04_2008_GER_DE_80	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ab		Religious or church organisations	Religiöse oder kirchliche Organisationen
+EVS_R04_2008_ENG_GB_83	EVS_R04_2008_GER_DE_85	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ac		Education, arts, music or cultural activities	Organisationen, Vereine für Bildung, Kunst, Musik und kulturelle Tätigkeiten
+EVS_R04_2008_ENG_GB_88	EVS_R04_2008_GER_DE_90	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ad		Trade unions	Gewerkschaften
+EVS_R04_2008_ENG_GB_93	EVS_R04_2008_GER_DE_95	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ae		Political parties or groups	Parteien oder politische Gruppen
+EVS_R04_2008_ENG_GB_98	EVS_R04_2008_GER_DE_100	EVS_R04_2008	Perceptions of Life	REQUEST	Q5af		Local community action on issues like poverty, employment, housing, racial equality	Initiativen zu Problemen wie Armut, Arbeitslosigkeit und schlechten Wohnbedingungen
+EVS_R04_2008_ENG_GB_103	EVS_R04_2008_GER_DE_105	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ag		Third world development or human rights	Dritte Welt- oder Menschenrechtsgruppen
+EVS_R04_2008_ENG_GB_108	EVS_R04_2008_GER_DE_110	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ah		Conservation, the environment, ecology, animal rights	Ökologie- und Umweltgruppen, Tierschutzvereine, -gruppen
+EVS_R04_2008_ENG_GB_113	EVS_R04_2008_GER_DE_115	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ai		Professional associations	Berufsverbände
+EVS_R04_2008_ENG_GB_118	EVS_R04_2008_GER_DE_120	EVS_R04_2008	Perceptions of Life	REQUEST	Q5aj		Youth work (e.g., scouts, guides, youth clubs etc.)	Jugendarbeit (z.B. Pfadfinder, Jugendclubs)
+EVS_R04_2008_ENG_GB_123	EVS_R04_2008_GER_DE_125	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ak		Sports or recreation	Sport- und Freizeitverbände
+EVS_R04_2008_ENG_GB_128	EVS_R04_2008_GER_DE_130	EVS_R04_2008	Perceptions of Life	REQUEST	Q5al		Women's groups	Frauengruppen
+EVS_R04_2008_ENG_GB_133	EVS_R04_2008_GER_DE_135	EVS_R04_2008	Perceptions of Life	REQUEST	Q5am		Peace movement	Friedensbewegung
+EVS_R04_2008_ENG_GB_138	EVS_R04_2008_GER_DE_140	EVS_R04_2008	Perceptions of Life	REQUEST	Q5an		Voluntary organisations concerned with health	Hilfsorganisationen im Gesundheitsbereich
+EVS_R04_2008_ENG_GB_143	EVS_R04_2008_GER_DE_145	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ao		Other groups	Andere Gruppen
+EVS_R04_2008_ENG_GB_148	EVS_R04_2008_GER_DE_150	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ap		None (spontaneous)	Keine (spontan)
+EVS_R04_2008_ENG_GB_153	EVS_R04_2008_GER_DE_155	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q5b		Show card 5	LISTE 5 VORLEGEN
+EVS_R04_2008_ENG_GB_156	EVS_R04_2008_GER_DE_158	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q5b		CODE ALL MENTIONED UNDER (b)	ALLES ANKREUZEN, WAS UNTER 5B ZUTRIFFT
+EVS_R04_2008_ENG_GB_154	EVS_R04_2008_GER_DE_156	EVS_R04_2008	Perceptions of Life	REQUEST	Q5b		Please look carefully at the following list of voluntary organisations and activities and say ...	Wenn Sie sich einmal sorgfältig diese Liste mit verschiedenen Organisationen und Gruppen durchlesen und mir bitte sagen...
+EVS_R04_2008_ENG_GB_155	EVS_R04_2008_GER_DE_157	EVS_R04_2008	Perceptions of Life	REQUEST	Q5b		b) which, if any, are you currently doing unpaid voluntary work for?	b) bei welcher Sie zur Zeit ehrenamtlich, also ohne Bezahlung, tätig sind?
+EVS_R04_2008_ENG_GB_157	EVS_R04_2008_GER_DE_159	EVS_R04_2008	Perceptions of Life	REQUEST	Q5ba		Social welfare services for elderly, handicapped or deprived people	Soziale Hilfsdienste für Alte, Behinderte und sozial Schwache
+EVS_R04_2008_ENG_GB_162	EVS_R04_2008_GER_DE_164	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bb		Religious or church organisations	Religiöse oder kirchliche Organisationen
+EVS_R04_2008_ENG_GB_167	EVS_R04_2008_GER_DE_169	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bc		Education, arts, music or cultural activities	Organisationen, Vereine für Bildung, Kunst, Musik und kulturelle Tätigkeiten
+EVS_R04_2008_ENG_GB_172	EVS_R04_2008_GER_DE_174	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bd		Trade unions	Gewerkschaften
+EVS_R04_2008_ENG_GB_177	EVS_R04_2008_GER_DE_179	EVS_R04_2008	Perceptions of Life	REQUEST	Q5be		Political parties or groups	Parteien oder politische Gruppen
+EVS_R04_2008_ENG_GB_182	EVS_R04_2008_GER_DE_184	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bf		Local community action on issues like poverty, employment, housing, racial equality	Initiativen zu Problemen wie Armut, Arbeitslosigkeit und schlechten Wohnbedingungen
+EVS_R04_2008_ENG_GB_187	EVS_R04_2008_GER_DE_189	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bg		Third world development or human rights	Dritte Welt- oder Menschenrechtsgruppen
+EVS_R04_2008_ENG_GB_192	EVS_R04_2008_GER_DE_194	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bh		Conservation, the environment, ecology, animal rights	Ökologie- und Umweltgruppen, Tierschutzvereine, -gruppen
+EVS_R04_2008_ENG_GB_197	EVS_R04_2008_GER_DE_199	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bi		Professional associations	Berufsverbände
+EVS_R04_2008_ENG_GB_202	EVS_R04_2008_GER_DE_204	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bj		Youth work (e.g., scouts, guides, youth clubs etc.)	Jugendarbeit (z.B. Pfadfinder, Jugendclubs)
+EVS_R04_2008_ENG_GB_207	EVS_R04_2008_GER_DE_209	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bk		Sports or recreation	Sport- und Freizeitverbände
+EVS_R04_2008_ENG_GB_212	EVS_R04_2008_GER_DE_214	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bl		Women's groups	Frauengruppen
+EVS_R04_2008_ENG_GB_217	EVS_R04_2008_GER_DE_219	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bm		Peace movement	Friedensbewegung
+EVS_R04_2008_ENG_GB_222	EVS_R04_2008_GER_DE_224	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bn		Voluntary organisations concerned with health	Hilfsorganisationen im Gesundheitsbereich
+EVS_R04_2008_ENG_GB_227	EVS_R04_2008_GER_DE_229	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bo		Other groups	Andere Gruppen
+EVS_R04_2008_ENG_GB_232	EVS_R04_2008_GER_DE_230	EVS_R04_2008	Perceptions of Life	REQUEST	Q5bp		None (spontaneous)	Keine (spontan)
+EVS_R04_2008_ENG_GB_237	EVS_R04_2008_GER_DE_235	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q6		SHOW CARD 6 - Code all mentioned	LISTE 6 VORLEGEN – ALLES ANKREUZEN, WAS ZUTRIFFT
+EVS_R04_2008_ENG_GB_238	EVS_R04_2008_GER_DE_236	EVS_R04_2008	Perceptions of Life	REQUEST	Q6		On this list are various groups of people.	Auf dieser Liste stehen eine Reihe ganz verschiedener Personengruppen.
+EVS_R04_2008_ENG_GB_239	EVS_R04_2008_GER_DE_237	EVS_R04_2008	Perceptions of Life	REQUEST	Q6		Could you please tell me any that you would not, generally speaking, like to have as neighbours?	Könnten Sie einmal alle heraussuchen, die Sie nicht gern als Nachbarn hätten?
+EVS_R04_2008_ENG_GB_240	EVS_R04_2008_GER_DE_238	EVS_R04_2008	Perceptions of Life	REQUEST	Q6a		People with a criminal record	Personen, die vorbestraft sind
+EVS_R04_2008_ENG_GB_245	EVS_R04_2008_GER_DE_243	EVS_R04_2008	Perceptions of Life	REQUEST	Q6b		People of a different race	Menschen anderer Hautfarbe
+EVS_R04_2008_ENG_GB_250	EVS_R04_2008_GER_DE_248	EVS_R04_2008	Perceptions of Life	REQUEST	Q6c		Left wing extremists	Linksextremisten
+EVS_R04_2008_ENG_GB_255	EVS_R04_2008_GER_DE_253	EVS_R04_2008	Perceptions of Life	REQUEST	Q6d		Heavy drinkers	Leute, die oft betrunken sind
+EVS_R04_2008_ENG_GB_260	EVS_R04_2008_GER_DE_258	EVS_R04_2008	Perceptions of Life	REQUEST	Q6e		Right wing extremists	Rechtsextremisten
+EVS_R04_2008_ENG_GB_265	EVS_R04_2008_GER_DE_263	EVS_R04_2008	Perceptions of Life	REQUEST	Q6f		People with large families	Leute mit vielen Kindern
+EVS_R04_2008_ENG_GB_270	EVS_R04_2008_GER_DE_268	EVS_R04_2008	Perceptions of Life	REQUEST	Q6g		Emotionally unstable people	seelisch labile Menschen
+EVS_R04_2008_ENG_GB_275	EVS_R04_2008_GER_DE_273	EVS_R04_2008	Perceptions of Life	REQUEST	Q6h		Muslims	Moslems
+EVS_R04_2008_ENG_GB_280	EVS_R04_2008_GER_DE_278	EVS_R04_2008	Perceptions of Life	REQUEST	Q6i		Immigrants/foreign workers	Ausländer/Gastarbeiter
+EVS_R04_2008_ENG_GB_285	EVS_R04_2008_GER_DE_283	EVS_R04_2008	Perceptions of Life	REQUEST	Q6j		People who have AIDS	Leute, die AIDS haben
+EVS_R04_2008_ENG_GB_290	EVS_R04_2008_GER_DE_288	EVS_R04_2008	Perceptions of Life	REQUEST	Q6k		Drug addicts	Drogenabhängige
+EVS_R04_2008_ENG_GB_295	EVS_R04_2008_GER_DE_293	EVS_R04_2008	Perceptions of Life	REQUEST	Q6l		Homosexuals	Homosexuelle
+EVS_R04_2008_ENG_GB_300	EVS_R04_2008_GER_DE_298	EVS_R04_2008	Perceptions of Life	REQUEST	Q6m		Jews	Juden
+EVS_R04_2008_ENG_GB_305	EVS_R04_2008_GER_DE_303	EVS_R04_2008	Perceptions of Life	REQUEST	Q6n		Gypsies	Zigeuner
+EVS_R04_2008_ENG_GB_310	EVS_R04_2008_GER_DE_308	EVS_R04_2008	Perceptions of Life	REQUEST	Q6o		Christians	Christen
+EVS_R04_2008_ENG_GB_315	EVS_R04_2008_GER_DE_313	EVS_R04_2008	Perceptions of Life	REQUEST	Q7		Generally speaking, would you say that most people can be trusted or that you can't be too careful in dealing with people?	Würden Sie ganz allgemein sagen, daß man den meisten Menschen vertrauen kann, oder daß man da nicht vorsichtig genug sein kann?
+EVS_R04_2008_ENG_GB_320	EVS_R04_2008_GER_DE_318	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q8		SHOW CARD 8	LISTE 8 VORLEGEN
+	EVS_R04_2008_GER_DE_319	EVS_R04_2008	Perceptions of Life	REQUEST	Q8			Bitte benutzen Sie Liste 8.
+EVS_R04_2008_ENG_GB_321	EVS_R04_2008_GER_DE_320	EVS_R04_2008	Perceptions of Life	REQUEST	Q8		Do you think that most people would try to take advantage of you if they got the chance, or would they try to be fair?	Glauben Sie, dass die meisten Menschen versuchen, Sie auszunutzen, wenn Sie die Gelegenheit dazu haben, oder versuchen die meisten Menschen, sich fair zu verhalten?
+EVS_R04_2008_ENG_GB_322	EVS_R04_2008_GER_DE_321	EVS_R04_2008	Perceptions of Life	REQUEST	Q8		Where would you place your view on this scale?	Wo würden Sie Ihre Ansicht auf dieser Skala einordnen?
+EVS_R04_2008_ENG_GB_335	EVS_R04_2008_GER_DE_334	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q9		SHOW CARD 9	LISTE 9 VORLEGEN
+EVS_R04_2008_ENG_GB_336	EVS_R04_2008_GER_DE_335	EVS_R04_2008	Perceptions of Life	REQUEST	Q9		Would you say that most of the time people try to be helpful, or that they are mostly looking out for themselves?	Glauben Sie, dass die meisten Menschen versuchen, hilfsbereit zu sein, oder dass die Menschen meistens auf den eigenen Vorteil bedacht sind?
+EVS_R04_2008_ENG_GB_337	EVS_R04_2008_GER_DE_336	EVS_R04_2008	Perceptions of Life	REQUEST	Q9		Please choose one of the responses on this card.	Bitte sagen Sie es mir anhand dieser Skala.
+EVS_R04_2008_ENG_GB_350	EVS_R04_2008_GER_DE_349	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q10		Show card 10	LISTE 10 VORLEGEN
+EVS_R04_2008_ENG_GB_351	EVS_R04_2008_GER_DE_350	EVS_R04_2008	Perceptions of Life	REQUEST	Q10		Some people feel they have completely free choice and control over their lives, and other people feel that what they do has no real effect on what happens to them.	Einige Leute meinen, daß sie ihr Leben völlig frei selbst bestimmen, andere meinen, daß sie nur wenig Einfluß darauf haben, was mit ihnen geschieht.
+EVS_R04_2008_ENG_GB_352	EVS_R04_2008_GER_DE_351	EVS_R04_2008	Perceptions of Life	REQUEST	Q10		Please use the scale to indicate how much freedom of choice and control you feel you have over the way your life turns out?	Wie sehen Sie das für sich selbst, wieviel Freiheit haben Sie bei Entscheidungen darüber, wie Ihr weiteres Leben abläuft?
+EVS_R04_2008_ENG_GB_365	EVS_R04_2008_GER_DE_364	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q11		Show card 11	LISTE 11 VORLEGEN
+EVS_R04_2008_ENG_GB_366	EVS_R04_2008_GER_DE_365	EVS_R04_2008	Perceptions of Life	REQUEST	Q11		All things considered, how satisfied are you with your life as a whole these days?	Wenn Sie einmal alles in allem nehmen: Wie zufrieden sind Sie insgesamt zur Zeit mit Ihrem Leben?
+EVS_R04_2008_ENG_GB_367	EVS_R04_2008_GER_DE_366	EVS_R04_2008	Perceptions of Life	REQUEST	Q11		Please use this card to help with your answer.	Sagen Sie es doch bitte nach dieser Skala hier.
+EVS_R04_2008_ENG_GB_569	EVS_R04_2008_GER_DE_570	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q19		SHOW CARD 19 - READ OUT EACH ITEM AND CODE AN ANSWER FOR EACH	LISTE 19 VORLEGEN!
+EVS_R04_2008_ENG_GB_572	EVS_R04_2008_GER_DE_571	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q19		DEFINE LEISURE TIME: TIME NOT SPENT IN PAID JOB OR HOUSEWORK	– JEDE VORGABE VORLESEN UND PRO VORGABE EINE ANTWORT ANKREUZEN!
+	EVS_R04_2008_GER_DE_574	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q19			DEFINIEREN SIE FREIZEIT: ZEIT, DIE NICHT MIT BEZAHLTER ARBEIT ODER HAUSARBEIT VERBRACHT WIRD
+EVS_R04_2008_ENG_GB_570	EVS_R04_2008_GER_DE_572	EVS_R04_2008	Perceptions of Life	REQUEST	Q19		I am going to read to you some aspects of leisure time that some people say are important.	Ich lese Ihnen nun einige Freizeitbeschäftigungen vor, von denen man sagt, dass sie wichtig seien.
+EVS_R04_2008_ENG_GB_571	EVS_R04_2008_GER_DE_573	EVS_R04_2008	Perceptions of Life	REQUEST	Q19		Please tell me for each one how important it is for you personally.	Bitte sagen Sie mir für jede, wie wichtig sie Ihnen persönlich ist.
+EVS_R04_2008_ENG_GB_573	EVS_R04_2008_GER_DE_575	EVS_R04_2008	Perceptions of Life	REQUEST	Q19a		Meeting nice people	Nette Leute treffen
+EVS_R04_2008_ENG_GB_580	EVS_R04_2008_GER_DE_582	EVS_R04_2008	Perceptions of Life	REQUEST	Q19b		Relaxing	Entspannen
+EVS_R04_2008_ENG_GB_587	EVS_R04_2008_GER_DE_589	EVS_R04_2008	Perceptions of Life	REQUEST	Q19c		Doing as I want	Zu tun und zu lassen, was ich will
+EVS_R04_2008_ENG_GB_594	EVS_R04_2008_GER_DE_596	EVS_R04_2008	Perceptions of Life	REQUEST	Q19d		Learning something new	Etwas Neues lernen
+EVS_R04_2008_ENG_GB_1187	EVS_R04_2008_GER_DE_1116	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q49		Show card 49 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 49 VORLEGEN – VORGABEN VORLESEN UND ENTSPRECHENDEN CODE EINTRAGEN
+	EVS_R04_2008_GER_DE_1117	EVS_R04_2008	Perceptions of Life	REQUEST	Q49			Hier stehen zwei Meinungen.
+EVS_R04_2008_ENG_GB_1188	EVS_R04_2008_GER_DE_1118	EVS_R04_2008	Perceptions of Life	REQUEST	Q49		Which of these two statements do you tend to agree with?	Welcher würden Sie eher zustimmen, Meinung A oder Meinung B?
+	EVS_R04_2008_GER_DE_1119	EVS_R04_2008	Perceptions of Life	REQUEST	Q49			Bitte nennen Sie mir den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_1189	EVS_R04_2008_GER_DE_1120	EVS_R04_2008	Perceptions of Life	REQUEST	Q49		A: Regardless of what the qualities and faults of ones parents are, one must always love and respect them,	A  Ganz egal, welche Vorzüge und Fehler die Eltern haben, man muß sie immer lieben und ehren.
+EVS_R04_2008_ENG_GB_1190	EVS_R04_2008_GER_DE_1121	EVS_R04_2008	Perceptions of Life	REQUEST	Q49		B: One does not have the duty to respect and love parents who have not earned it by their behaviour and attitudes	B  Man ist nicht verpflichtet, seine Eltern zu achten, wenn sie es nicht durch ihr Verhalten und ihre Einstellungen verdient haben.
+EVS_R04_2008_ENG_GB_1195	EVS_R04_2008_GER_DE_1126	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q50		Show card 50 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 50 VORLEGEN – VORGABEN VORLESEN UND ENTSPRECHENDEN CODE EINTRAGEN
+EVS_R04_2008_ENG_GB_1196	EVS_R04_2008_GER_DE_1127	EVS_R04_2008	Perceptions of Life	REQUEST	Q50		Which of these statements best describes your views about parents' responsibilities to their children?	Hier stehen zwei Meinungen über die Verantwortung von Eltern gegenüber ihren Kindern.
+	EVS_R04_2008_GER_DE_1128	EVS_R04_2008	Perceptions of Life	REQUEST	Q50			Welche von beiden ist auch Ihre Ansicht?
+	EVS_R04_2008_GER_DE_1129	EVS_R04_2008	Perceptions of Life	REQUEST	Q50			Bitte nennen Sie mir den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_1202	EVS_R04_2008_GER_DE_1135	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q51		SHOW CARD 51 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 51 VORLEGEN – VORGABEN VORLESEN UND NUR EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_1203	EVS_R04_2008_GER_DE_1136	EVS_R04_2008	Perceptions of Life	REQUEST	Q51		Which of the following statements best describes your views about responsibilities of adult children towards their parents when their parents are in need of long-term care?	Welche der folgenden Aussagen beschreibt am besten Ihre Meinung zur Verantwortung erwachsener Kinder ihren Eltern gegenüber, wenn diese langzeitpflegebedürftig sind?
+EVS_R04_2008_ENG_GB_1209	EVS_R04_2008_GER_DE_1142	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q52		Show card 52	LISTE 52 VORLEGEN
+EVS_R04_2008_ENG_GB_1212	EVS_R04_2008_GER_DE_1148	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q52		Please choose up to five	MAXIMAL 5 NENNUNGEN IN DER SPALTE „WICHTIG“!
+	EVS_R04_2008_GER_DE_1143	EVS_R04_2008	Perceptions of Life	REQUEST	Q52			Eine Frage zur Erziehung.
+	EVS_R04_2008_GER_DE_1144	EVS_R04_2008	Perceptions of Life	REQUEST	Q52			Wir haben hier eine Liste zusammengestellt mit verschiedenen Forderungen, was man Kindern für ihr späteres Leben mit auf den Weg geben soll, was Kinder im Elternhaus lernen sollen.
+	EVS_R04_2008_GER_DE_1145	EVS_R04_2008	Perceptions of Life	REQUEST	Q52			Was davon halten Sie für besonders wichtig?
+EVS_R04_2008_ENG_GB_1210	EVS_R04_2008_GER_DE_1146	EVS_R04_2008	Perceptions of Life	REQUEST	Q52		Here is a list of qualities which children can be encouraged to learn at home.	Wählen Sie bitte bis zu fünf Eigenschaften aus.
+EVS_R04_2008_ENG_GB_1211	EVS_R04_2008_GER_DE_1147	EVS_R04_2008	Perceptions of Life	REQUEST	Q52		Which, if any, do you consider to be especially important?	Nennen Sie mir bitte die entsprechenden Kennbuchstaben von der Liste.
+EVS_R04_2008_ENG_GB_1213	EVS_R04_2008_GER_DE_1149	EVS_R04_2008	Perceptions of Life	REQUEST	Q52a		Good manners	Gute Manieren
+EVS_R04_2008_ENG_GB_1218	EVS_R04_2008_GER_DE_1154	EVS_R04_2008	Perceptions of Life	REQUEST	Q52b		Independence	Unabhängigkeit, Selbständigkeit
+EVS_R04_2008_ENG_GB_1223	EVS_R04_2008_GER_DE_1159	EVS_R04_2008	Perceptions of Life	REQUEST	Q52c		Hard work	Hart arbeiten
+EVS_R04_2008_ENG_GB_1228	EVS_R04_2008_GER_DE_1164	EVS_R04_2008	Perceptions of Life	REQUEST	Q52d		Feeling of responsibility	Verantwortungsgefühl
+EVS_R04_2008_ENG_GB_1233	EVS_R04_2008_GER_DE_1169	EVS_R04_2008	Perceptions of Life	REQUEST	Q52e		Imagination	Phantasie
+EVS_R04_2008_ENG_GB_1238	EVS_R04_2008_GER_DE_1174	EVS_R04_2008	Perceptions of Life	REQUEST	Q52f		Tolerance and respect for other people	Andere achten, tolerant sein
+EVS_R04_2008_ENG_GB_1243	EVS_R04_2008_GER_DE_1179	EVS_R04_2008	Perceptions of Life	REQUEST	Q52g		Thrift, saving money and things	Sparsamkeit
+EVS_R04_2008_ENG_GB_1248	EVS_R04_2008_GER_DE_1184	EVS_R04_2008	Perceptions of Life	REQUEST	Q52h		Determination, perseverance	Entschlossenheit, Ausdauer
+EVS_R04_2008_ENG_GB_1253	EVS_R04_2008_GER_DE_1189	EVS_R04_2008	Perceptions of Life	REQUEST	Q52i		Religious faith	Religiöser Glaube
+EVS_R04_2008_ENG_GB_1258	EVS_R04_2008_GER_DE_1194	EVS_R04_2008	Perceptions of Life	REQUEST	Q52j		Unselfishness	Selbstlosigkeit
+EVS_R04_2008_ENG_GB_1263	EVS_R04_2008_GER_DE_1199	EVS_R04_2008	Perceptions of Life	REQUEST	Q52k		Obedience	Gehorsam
+EVS_R04_2008_ENG_GB_1268	EVS_R04_2008_GER_DE_1204	EVS_R04_2008	Perceptions of Life	REQUEST	Q52l		None (spontaneous)	Keine davon (spontan)
+EVS_R04_2008_ENG_GB_1273	EVS_R04_2008_GER_DE_1209	EVS_R04_2008	Perceptions of Life	INSTRUCTION	Q53		Show card 53 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 53 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1274	EVS_R04_2008_GER_DE_1210	EVS_R04_2008	Perceptions of Life	REQUEST	Q53		Do you approve or disapprove of abortion under the following circumstances?	Billigen Sie eine Abtreibung unter den folgenden Umständen oder billigen Sie sie nicht?
+EVS_R04_2008_ENG_GB_1275	EVS_R04_2008_GER_DE_1211	EVS_R04_2008	Perceptions of Life	REQUEST	Q53a		Where the woman is not married	Wenn die Frau ledig ist
+EVS_R04_2008_ENG_GB_1280	EVS_R04_2008_GER_DE_1216	EVS_R04_2008	Perceptions of Life	REQUEST	Q53b		Where a married couple does not want to have any more children	Wenn ein Ehepaar keine weiteren Kinder möchte
+EVS_R04_2008_ENG_GB_380	EVS_R04_2008_GER_DE_379	EVS_R04_2008	Politics and Society	INSTRUCTION	Q12		SHOW CARD 12	LISTE 12 VORLEGEN UND BIS Q13 LIEGENLASSEN
+EVS_R04_2008_ENG_GB_384	EVS_R04_2008_GER_DE_382	EVS_R04_2008	Politics and Society	INSTRUCTION	Q12		SINGLE CODE ONLY	NUR EINE NENNUNG!
+EVS_R04_2008_ENG_GB_381	EVS_R04_2008_GER_DE_380	EVS_R04_2008	Politics and Society	REQUEST	Q12		Why are there people in this country who live in need?	Was ist Ihre Ansicht: Warum gibt es in der Bundesrepublik Bedürftige, Menschen, die in Not geraten sind?
+EVS_R04_2008_ENG_GB_382	EVS_R04_2008_GER_DE_381	EVS_R04_2008	Politics and Society	REQUEST	Q12		Here are four possible reasons.	Hier sind dazu vier mögliche Gründe.
+EVS_R04_2008_ENG_GB_383		EVS_R04_2008	Politics and Society	REQUEST	Q12		Which one reason do you consider to be most important?	
+	EVS_R04_2008_GER_DE_390	EVS_R04_2008	Politics and Society	INSTRUCTION	Q13			LISTE 12 VORLEGEN UND BIS Q13 LIEGENLASSEN
+EVS_R04_2008_ENG_GB_393	EVS_R04_2008_GER_DE_392	EVS_R04_2008	Politics and Society	INSTRUCTION	Q13		SINGLE CODE ONLY	NUR EINE NENNUNG!
+EVS_R04_2008_ENG_GB_392	EVS_R04_2008_GER_DE_391	EVS_R04_2008	Politics and Society	REQUEST	Q13		And which reason do you consider to be the second most important?	Und was ist Ihrer Meinung nach der zweitwichtigste Grund?
+EVS_R04_2008_ENG_GB_1285	EVS_R04_2008_GER_DE_1221	EVS_R04_2008	Politics and Society	INTRODUCTION	Q54		NOW WE ARE GOING TO ASK SOME QUESTIONS ABOUT CONTEMPORARY SOCIAL ISSUES	Nun stellen wir Ihnen einige Fragen zu aktuellen sozialen Fragen
+EVS_R04_2008_ENG_GB_1286	EVS_R04_2008_GER_DE_1222	EVS_R04_2008	Politics and Society	INSTRUCTION	Q54		Show card 54	LISTE 54 VORLEGEN
+EVS_R04_2008_ENG_GB_1287	EVS_R04_2008_GER_DE_1223	EVS_R04_2008	Politics and Society	REQUEST	Q54		How interested would you say you are in politics?	Interessieren Sie sich für Politik?
+	EVS_R04_2008_GER_DE_1224	EVS_R04_2008	Politics and Society	REQUEST	Q54			Würden Sie sagen ...
+EVS_R04_2008_ENG_GB_1294	EVS_R04_2008_GER_DE_1231	EVS_R04_2008	Politics and Society	INSTRUCTION	Q55		Show card 55 - READ OUT - CODE ONE ANSWER PER LINE	LISTE 55 VORLEGEN – VORGABEN VORLESEN UND NUR EINE ANTWORT PRO ZEILE ANKREUZEN!
+EVS_R04_2008_ENG_GB_1295	EVS_R04_2008_GER_DE_1232	EVS_R04_2008	Politics and Society	REQUEST	Q55		Now I'd like you to look at this card.	Wenn Sie sich bitte einmal diese Liste hier anschauen.
+	EVS_R04_2008_GER_DE_1233	EVS_R04_2008	Politics and Society	REQUEST	Q55			Ich lese Ihnen jetzt verschiedene Arten von politischen Aktionen vor, an denen man sich beteiligen kann.
+EVS_R04_2008_ENG_GB_1296	EVS_R04_2008_GER_DE_1234	EVS_R04_2008	Politics and Society	REQUEST	Q55		I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.	Könnten Sie mir zu jedem dieser Punkte sagen, ob Sie sich schon einmal an einer solchen Aktion beteiligt haben, ob Sie das vielleicht einmal tun würden, oder ob Sie sich unter keinen Umständen an so etwas beteiligen würden.
+EVS_R04_2008_ENG_GB_1297	EVS_R04_2008_GER_DE_1235	EVS_R04_2008	Politics and Society	REQUEST	Q55a		Signing a petition	An einer Unterschriftensammlung beteiligen
+EVS_R04_2008_ENG_GB_1303	EVS_R04_2008_GER_DE_1241	EVS_R04_2008	Politics and Society	REQUEST	Q55b		Joining in boycotts	Beteiligung an einem Boykott
+EVS_R04_2008_ENG_GB_1309	EVS_R04_2008_GER_DE_1247	EVS_R04_2008	Politics and Society	REQUEST	Q55c		Attending lawful demonstrations	Teilnahme an einer genehmigten Demonstration
+EVS_R04_2008_ENG_GB_1315	EVS_R04_2008_GER_DE_1253	EVS_R04_2008	Politics and Society	REQUEST	Q55d		Joining unofficial strikes	Beteiligung an einem wilden Streik
+EVS_R04_2008_ENG_GB_1321	EVS_R04_2008_GER_DE_1259	EVS_R04_2008	Politics and Society	REQUEST	Q55e		Occupying buildings or factories	Gebäude oder Fabriken besetzen
+EVS_R04_2008_ENG_GB_1327	EVS_R04_2008_GER_DE_1265	EVS_R04_2008	Politics and Society	INSTRUCTION	Q56		SHOW CARD 56 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 56 VORLEGEN – VORGABEN VORLESEN UND ENTSPRECHENDEN CODE EINTRAGEN
+	EVS_R04_2008_GER_DE_1266	EVS_R04_2008	Politics and Society	REQUEST	Q56			Hier stehen zwei Meinungen.
+EVS_R04_2008_ENG_GB_1328	EVS_R04_2008_GER_DE_1267	EVS_R04_2008	Politics and Society	REQUEST	Q56		Which of these two statements comes closest to your own opinion?	Welcher von beiden würden Sie eher zustimmen, Meinung A oder Meinung B?
+EVS_R04_2008_ENG_GB_1329	EVS_R04_2008_GER_DE_1268	EVS_R04_2008	Politics and Society	REQUEST	Q56		A: I find that both freedom and equality are important.	A  Ich finde Freiheit und Gleichheit eigentlich beide wichtig.
+EVS_R04_2008_ENG_GB_1330	EVS_R04_2008_GER_DE_1269	EVS_R04_2008	Politics and Society	REQUEST	Q56		But if I were to choose one or the other, I would consider personal freedom more important, that is, everyone can live in freedom and develop without hindrance	Aber wenn ich mich für eines davon entscheiden müßte, wäre mir die persönliche Freiheit am wichtigsten, daß also jeder in Freiheit leben und sich ungehindert entfalten kann.
+EVS_R04_2008_ENG_GB_1331	EVS_R04_2008_GER_DE_1270	EVS_R04_2008	Politics and Society	REQUEST	Q56		B: Certainly both freedom and equality are important.	B  Sicher sind Freiheit und Gleichheit wichtig.
+EVS_R04_2008_ENG_GB_1332	EVS_R04_2008_GER_DE_1271	EVS_R04_2008	Politics and Society	REQUEST	Q56		But if I were to choose one or the other, I would consider equality more important, that is, that nobody is underprivileged and that social class differences are not so strong	Aber wenn ich mich für eines davon entscheiden müßte, fände ich Gleichheit am wichtigsten, daß also niemand benachteiligt ist und die sozialen Unterschiede nicht so groß sind.
+	EVS_R04_2008_GER_DE_1272	EVS_R04_2008	Politics and Society	REQUEST	Q56			Bitte nennen Sie mir den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_1338	EVS_R04_2008_GER_DE_1278	EVS_R04_2008	Politics and Society	INSTRUCTION	Q57		Show card 57	LISTE 57 VORLEGEN
+EVS_R04_2008_ENG_GB_1339	EVS_R04_2008_GER_DE_1279	EVS_R04_2008	Politics and Society	REQUEST	Q57		In political matters, people talk of ''the left'' and the ''the right''.	In der Politik spricht man von rechts und links.
+EVS_R04_2008_ENG_GB_1340	EVS_R04_2008_GER_DE_1280	EVS_R04_2008	Politics and Society	REQUEST	Q57		How would you place your views on this scale, generally speaking?	Wie würden Sie ganz allgemein Ihren eigenen politischen Standort beschreiben: Wo auf dieser Skala würden Sie sich selbst einstufen?
+EVS_R04_2008_ENG_GB_1353	EVS_R04_2008_GER_DE_1293	EVS_R04_2008	Politics and Society	INSTRUCTION	Q58a		SHOW CARD 58 – READ OUT	LISTE 58 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1354	EVS_R04_2008_GER_DE_1294	EVS_R04_2008	Politics and Society	REQUEST	Q58a		On this card you see a number of opposite views on various issues.	Nun würde ich Sie bitten, mir Ihre Meinung zu verschiedenen Aussagen zu sagen.
+EVS_R04_2008_ENG_GB_1355	EVS_R04_2008_GER_DE_1295	EVS_R04_2008	Politics and Society	REQUEST	Q58a		How would you place your views on this scale?	Wie würden Sie Ihre Meinung auf dieser Skala einschätzen?
+	EVS_R04_2008_GER_DE_1296	EVS_R04_2008	Politics and Society	REQUEST	Q58a			Wenn Sie voll und ganz die erste Meinung vertreten, geben Sie bitte die 1 an, vertreten Sie voll und ganz die zweite Meinung, wählen Sie die 10.
+	EVS_R04_2008_GER_DE_1297	EVS_R04_2008	Politics and Society	REQUEST	Q58a			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1368	EVS_R04_2008_GER_DE_1310	EVS_R04_2008	Politics and Society	INSTRUCTION	Q58b		SHOW CARD 58 – READ OUT	LISTE 58 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1369	EVS_R04_2008_GER_DE_1311	EVS_R04_2008	Politics and Society	REQUEST	Q58b		On this card you see a number of opposite views on various issues.	Nun würde ich Sie bitten, mir Ihre Meinung zu verschiedenen Aussagen zu sagen.
+EVS_R04_2008_ENG_GB_1370	EVS_R04_2008_GER_DE_1312	EVS_R04_2008	Politics and Society	REQUEST	Q58b		How would you place your views on this scale?	Wie würden Sie Ihre Meinung auf dieser Skala einschätzen?
+	EVS_R04_2008_GER_DE_1313	EVS_R04_2008	Politics and Society	REQUEST	Q58b			Wenn Sie voll und ganz die erste Meinung vertreten, geben Sie bitte die 1 an, vertreten Sie voll und ganz die zweite Meinung, wählen Sie die 10.
+	EVS_R04_2008_GER_DE_1314	EVS_R04_2008	Politics and Society	REQUEST	Q58b			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1383	EVS_R04_2008_GER_DE_1327	EVS_R04_2008	Politics and Society	INSTRUCTION	Q58c		SHOW CARD 58 – READ OUT	LISTE 58 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1384	EVS_R04_2008_GER_DE_1328	EVS_R04_2008	Politics and Society	REQUEST	Q58c		On this card you see a number of opposite views on various issues.	Nun würde ich Sie bitten, mir Ihre Meinung zu verschiedenen Aussagen zu sagen.
+EVS_R04_2008_ENG_GB_1385	EVS_R04_2008_GER_DE_1329	EVS_R04_2008	Politics and Society	REQUEST	Q58c		How would you place your views on this scale?	Wie würden Sie Ihre Meinung auf dieser Skala einschätzen?
+	EVS_R04_2008_GER_DE_1330	EVS_R04_2008	Politics and Society	REQUEST	Q58c			Wenn Sie voll und ganz die erste Meinung vertreten, geben Sie bitte die 1 an, vertreten Sie voll und ganz die zweite Meinung, wählen Sie die 10.
+	EVS_R04_2008_GER_DE_1331	EVS_R04_2008	Politics and Society	REQUEST	Q58c			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1398	EVS_R04_2008_GER_DE_1344	EVS_R04_2008	Politics and Society	INSTRUCTION	Q58d		SHOW CARD 58 – READ OUT	LISTE 58 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1399	EVS_R04_2008_GER_DE_1345	EVS_R04_2008	Politics and Society	REQUEST	Q58d		On this card you see a number of opposite views on various issues.	Nun würde ich Sie bitten, mir Ihre Meinung zu verschiedenen Aussagen zu sagen.
+EVS_R04_2008_ENG_GB_1400	EVS_R04_2008_GER_DE_1346	EVS_R04_2008	Politics and Society	REQUEST	Q58d		How would you place your views on this scale?	Wie würden Sie Ihre Meinung auf dieser Skala einschätzen?
+	EVS_R04_2008_GER_DE_1347	EVS_R04_2008	Politics and Society	REQUEST	Q58d			Wenn Sie voll und ganz die erste Meinung vertreten, geben Sie bitte die 1 an, vertreten Sie voll und ganz die zweite Meinung, wählen Sie die 10.
+	EVS_R04_2008_GER_DE_1348	EVS_R04_2008	Politics and Society	REQUEST	Q58d			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1413	EVS_R04_2008_GER_DE_1361	EVS_R04_2008	Politics and Society	INSTRUCTION	Q58e		SHOW CARD 58 – READ OUT	LISTE 58 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1414	EVS_R04_2008_GER_DE_1362	EVS_R04_2008	Politics and Society	REQUEST	Q58e		On this card you see a number of opposite views on various issues.	Nun würde ich Sie bitten, mir Ihre Meinung zu verschiedenen Aussagen zu sagen.
+EVS_R04_2008_ENG_GB_1415	EVS_R04_2008_GER_DE_1363	EVS_R04_2008	Politics and Society	REQUEST	Q58e		How would you place your views on this scale?	Wie würden Sie Ihre Meinung auf dieser Skala einschätzen?
+	EVS_R04_2008_GER_DE_1364	EVS_R04_2008	Politics and Society	REQUEST	Q58e			Wenn Sie voll und ganz die erste Meinung vertreten, geben Sie bitte die 1 an, vertreten Sie voll und ganz die zweite Meinung, wählen Sie die 10.
+	EVS_R04_2008_GER_DE_1365	EVS_R04_2008	Politics and Society	REQUEST	Q58e			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1428	EVS_R04_2008_GER_DE_1378	EVS_R04_2008	Politics and Society	INSTRUCTION	Q58f		SHOW CARD 58 – READ OUT	LISTE 58 VORLEGEN – VORGABEN VORLESEN
+EVS_R04_2008_ENG_GB_1429	EVS_R04_2008_GER_DE_1379	EVS_R04_2008	Politics and Society	REQUEST	Q58f		On this card you see a number of opposite views on various issues.	Nun würde ich Sie bitten, mir Ihre Meinung zu verschiedenen Aussagen zu sagen.
+EVS_R04_2008_ENG_GB_1430	EVS_R04_2008_GER_DE_1380	EVS_R04_2008	Politics and Society	REQUEST	Q58f		How would you place your views on this scale?	Wie würden Sie Ihre Meinung auf dieser Skala einschätzen?
+	EVS_R04_2008_GER_DE_1381	EVS_R04_2008	Politics and Society	REQUEST	Q58f			Wenn Sie voll und ganz die erste Meinung vertreten, geben Sie bitte die 1 an, vertreten Sie voll und ganz die zweite Meinung, wählen Sie die 10.
+	EVS_R04_2008_GER_DE_1382	EVS_R04_2008	Politics and Society	REQUEST	Q58f			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1443	EVS_R04_2008_GER_DE_1395	EVS_R04_2008	Politics and Society	INSTRUCTION	Q59		SHOW CARD 59 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 59 VORLEGEN – VORGABEN VORLESEN UND NUR EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_1444	EVS_R04_2008_GER_DE_1396	EVS_R04_2008	Politics and Society	REQUEST	Q59		On this card are three basic kinds of attitudes about the society we live in.	Auf dieser Liste stehen drei grundlegende Meinungen zur gesellschaftlichen Ordnung in der wir leben.
+EVS_R04_2008_ENG_GB_1445	EVS_R04_2008_GER_DE_1397	EVS_R04_2008	Politics and Society	REQUEST	Q59		Please choose the one which best describes your own opinion.	Wählen Sie bitte die aus, die Ihre Meinung am besten trifft.
+EVS_R04_2008_ENG_GB_1451	EVS_R04_2008_GER_DE_1403	EVS_R04_2008	Politics and Society	INSTRUCTION	Q60		Show card 60 - READ OUT AND CODE ONE ANSWER ONLY FOR Q60	LISTE 60 VORLEGEN UND BIS FRAGE 61 LIEGENLASSEN!
+	EVS_R04_2008_GER_DE_1404	EVS_R04_2008	Politics and Society	INSTRUCTION	Q60			– VORGABEN VORLESEN!
+	EVS_R04_2008_GER_DE_1405	EVS_R04_2008	Politics and Society	INSTRUCTION	Q60			NUR EINE NENNUNG
+EVS_R04_2008_ENG_GB_1454	EVS_R04_2008_GER_DE_1406	EVS_R04_2008	Politics and Society	REQUEST	Q60		If you had to choose, which of the things on this card would you say is most important?	Es wird ja viel darüber gesprochen, welche Ziele die Bundesrepublik in den nächsten 10 Jahren vor allem verfolgen soll.
+EVS_R04_2008_ENG_GB_1453	EVS_R04_2008_GER_DE_1407	EVS_R04_2008	Politics and Society	REQUEST	Q60		On this card are listed some of the goals which different people would give top priority.	Auf dieser Liste stehen einige Ziele, die verschiedene Leute für besonders wichtig halten.
+EVS_R04_2008_ENG_GB_1452	EVS_R04_2008_GER_DE_1408	EVS_R04_2008	Politics and Society	REQUEST	Q60		There is a lot of talk these days about what the aims of this country should be for the next ten years.	Würden Sie mir bitte sagen, welches davon Sie selbst für am wichtigsten halten?
+	EVS_R04_2008_GER_DE_1409	EVS_R04_2008	Politics and Society	REQUEST	Q60			Nennen Sie mir bitte den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_1461	EVS_R04_2008_GER_DE_1416	EVS_R04_2008	Politics and Society	INSTRUCTION	Q61		STILL KEEP SHOW CARD 60 - READ OUT AND CODE ONE ANSWER ONLY FOR Q61	LISTE 60 LIEGEN LASSEN.
+	EVS_R04_2008_GER_DE_1417	EVS_R04_2008	Politics and Society	INSTRUCTION	Q61			– VORGABEN VORLESEN.
+	EVS_R04_2008_GER_DE_1418	EVS_R04_2008	Politics and Society	INSTRUCTION	Q61			NUR EINE NENNUNG
+EVS_R04_2008_ENG_GB_1462	EVS_R04_2008_GER_DE_1419	EVS_R04_2008	Politics and Society	REQUEST	Q61		And which would be the next most important?	Und welches halten Sie für das zweitwichtigste Ziel?
+	EVS_R04_2008_GER_DE_1420	EVS_R04_2008	Politics and Society	REQUEST	Q61			Nennen Sie mir bitte wieder den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_1469	EVS_R04_2008_GER_DE_1427	EVS_R04_2008	Politics and Society	INSTRUCTION	Q62		Show card 62 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 62 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1470	EVS_R04_2008_GER_DE_1428	EVS_R04_2008	Politics and Society	REQUEST	Q62		Here are two changes changes in our way of life that might take place in the near future.	Hier auf dieser Liste steht Verschiedenes, was sich in Zukunft in unserer Gesellschaft verändern kann.
+EVS_R04_2008_ENG_GB_1471	EVS_R04_2008_GER_DE_1429	EVS_R04_2008	Politics and Society	REQUEST	Q62		Please tell me for each one, if it were to happen whether you think it would be a good thing, a bad thing, or don't you mind?	Sagen Sie mir bitte zu jedem Punkt, ob Sie eine solche Entwicklung begrüßen oder ablehnen würden, oder ob Ihnen das egal ist.
+EVS_R04_2008_ENG_GB_1472	EVS_R04_2008_GER_DE_1430	EVS_R04_2008	Politics and Society	REQUEST	Q62a		Less emphasis on money and material possessions	Weniger Wert auf Geld und Besitz legen
+EVS_R04_2008_ENG_GB_1478	EVS_R04_2008_GER_DE_1436	EVS_R04_2008	Politics and Society	REQUEST	Q62b		Greater respect for authority	Mehr Respekt vor Autorität
+EVS_R04_2008_ENG_GB_1484	EVS_R04_2008_GER_DE_1442	EVS_R04_2008	Politics and Society	INSTRUCTION	Q63		Show card 63 - READ OUT AND CODE ONE ANSWER PER LINE!	LISTE 63 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1485	EVS_R04_2008_GER_DE_1443	EVS_R04_2008	Politics and Society	REQUEST	Q63		Please look at this card and tell me, for each item listed, how much confidence you have in them: is it a great deal, quite a lot, not very much or none at all?	Schauen Sie bitte auf die Liste und sagen Sie mir, ob Sie sehr viel, ziemlich viel, wenig oder überhaupt kein Vertrauen in die jeweils genannten Institutionen haben.
+EVS_R04_2008_ENG_GB_1486	EVS_R04_2008_GER_DE_1444	EVS_R04_2008	Politics and Society	REQUEST	Q63a		The church	Die Kirchen
+EVS_R04_2008_ENG_GB_1493	EVS_R04_2008_GER_DE_1451	EVS_R04_2008	Politics and Society	REQUEST	Q63b		The armed forces	Die Bundeswehr
+EVS_R04_2008_ENG_GB_1500	EVS_R04_2008_GER_DE_1458	EVS_R04_2008	Politics and Society	REQUEST	Q63c		The education system	Die Schulen und das Bildungssystem
+EVS_R04_2008_ENG_GB_1507	EVS_R04_2008_GER_DE_1465	EVS_R04_2008	Politics and Society	REQUEST	Q63d		The press	Das Zeitungswesen
+EVS_R04_2008_ENG_GB_1514	EVS_R04_2008_GER_DE_1472	EVS_R04_2008	Politics and Society	REQUEST	Q63e		Trade unions	Die Gewerkschaften
+EVS_R04_2008_ENG_GB_1521	EVS_R04_2008_GER_DE_1479	EVS_R04_2008	Politics and Society	REQUEST	Q63f		The police	Die Polizei
+EVS_R04_2008_ENG_GB_1528	EVS_R04_2008_GER_DE_1486	EVS_R04_2008	Politics and Society	REQUEST	Q63g		Parliament	Der Bundestag
+EVS_R04_2008_ENG_GB_1535	EVS_R04_2008_GER_DE_1493	EVS_R04_2008	Politics and Society	REQUEST	Q63h		Civil service	Die Verwaltung
+EVS_R04_2008_ENG_GB_1542	EVS_R04_2008_GER_DE_1500	EVS_R04_2008	Politics and Society	REQUEST	Q63i		The social security system	Die Sozialversicherung
+EVS_R04_2008_ENG_GB_1549	EVS_R04_2008_GER_DE_1507	EVS_R04_2008	Politics and Society	REQUEST	Q63j		The European Union	Die Europäische Union
+EVS_R04_2008_ENG_GB_1556	EVS_R04_2008_GER_DE_1514	EVS_R04_2008	Politics and Society	REQUEST	Q63k		NATO	NATO
+EVS_R04_2008_ENG_GB_1563	EVS_R04_2008_GER_DE_1521	EVS_R04_2008	Politics and Society	REQUEST	Q63l		United Nations Organization	Die Vereinten Nationen
+EVS_R04_2008_ENG_GB_1570	EVS_R04_2008_GER_DE_1528	EVS_R04_2008	Politics and Society	REQUEST	Q63m		Health care system	Das Gesundheitswesen
+EVS_R04_2008_ENG_GB_1577	EVS_R04_2008_GER_DE_1535	EVS_R04_2008	Politics and Society	REQUEST	Q63n		The justice system	Die Gerichte
+EVS_R04_2008_ENG_GB_1584	EVS_R04_2008_GER_DE_1542	EVS_R04_2008	Politics and Society	REQUEST	Q63o		Major companies	Große Wirtschaftsunternehmen
+EVS_R04_2008_ENG_GB_1591	EVS_R04_2008_GER_DE_1549	EVS_R04_2008	Politics and Society	REQUEST	Q63p		Environmental organizations	Die Umweltschutzorganisationen
+EVS_R04_2008_ENG_GB_1598	EVS_R04_2008_GER_DE_1556	EVS_R04_2008	Politics and Society	REQUEST	Q63q		Political parties	Die politischen Parteien
+EVS_R04_2008_ENG_GB_1605	EVS_R04_2008_GER_DE_1563	EVS_R04_2008	Politics and Society	REQUEST	Q63r		Government	Die Regierung
+EVS_R04_2008_ENG_GB_1612	EVS_R04_2008_GER_DE_1570	EVS_R04_2008	Politics and Society	INSTRUCTION	Q64		SHOW CARD 64	LISTE 64 VORLEGEN
+EVS_R04_2008_ENG_GB_1613	EVS_R04_2008_GER_DE_1571	EVS_R04_2008	Politics and Society	REQUEST	Q64		On the whole are you very satisfied, rather satisfied, not very satisfied or not at all satisfied with the way democracy is developing in our country?	Sind Sie mit der Art und Weise, wie die Demokratie in der Bundesrepublik Deutschland funktioniert alles in allem ...
+EVS_R04_2008_ENG_GB_1620	EVS_R04_2008_GER_DE_1578	EVS_R04_2008	Politics and Society	INSTRUCTION	Q65		Show card 65	LISTE 65 VORLEGEN
+EVS_R04_2008_ENG_GB_1621	EVS_R04_2008_GER_DE_1579	EVS_R04_2008	Politics and Society	REQUEST	Q65		People have different views about the system for governing this country.	Es gibt verschiedene Ansichten über das Regierungssystem in Deutschland.
+EVS_R04_2008_ENG_GB_1622	EVS_R04_2008_GER_DE_1580	EVS_R04_2008	Politics and Society	REQUEST	Q65		Here is a scale for rating how well things are going: 1 means very bad, 10 means very good	Hier ist eine Skala, mit der man bewerten kann, wie gut oder schlecht es funktioniert.
+	EVS_R04_2008_GER_DE_1581	EVS_R04_2008	Politics and Society	REQUEST	Q65			1 bedeutet sehr schlecht und 10 bedeutet sehr gut.
+	EVS_R04_2008_GER_DE_1582	EVS_R04_2008	Politics and Society	REQUEST	Q65			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1635	EVS_R04_2008_GER_DE_1595	EVS_R04_2008	Politics and Society	INSTRUCTION	Q66		Show card 66 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 66 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1636	EVS_R04_2008_GER_DE_1596	EVS_R04_2008	Politics and Society	REQUEST	Q66		I'm going to describe various types of political systems and ask what you think about each as a way of governing this country.	Ich werde Ihnen nun verschiedene Typen von politischen Systemen beschreiben und fragen, was Sie von jedem einzelnen als Regierungsform für unser Land halten.
+EVS_R04_2008_ENG_GB_1637	EVS_R04_2008_GER_DE_1597	EVS_R04_2008	Politics and Society	REQUEST	Q66		For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country?	Sagen Sie mir bitte jeweils, ob Sie eine solche Regierungsform für unser Land sehr gut, ziemlich gut, ziemlich schlecht oder sehr schlecht finden.
+EVS_R04_2008_ENG_GB_1638	EVS_R04_2008_GER_DE_1598	EVS_R04_2008	Politics and Society	REQUEST	Q66a		Having a strong leader who does not have to bother with parliament and elections	Man sollte einen starken Führer haben, der sich nicht um ein Parlament und um Wahlen kümmern muß
+EVS_R04_2008_ENG_GB_1645	EVS_R04_2008_GER_DE_1605	EVS_R04_2008	Politics and Society	REQUEST	Q66b		Having experts, not government, make decisions according to what they think is best for the country	Experten und nicht die Regierung sollten darüber entscheiden, was für das Land das Beste ist
+EVS_R04_2008_ENG_GB_1652	EVS_R04_2008_GER_DE_1612	EVS_R04_2008	Politics and Society	REQUEST	Q66c		Having the army rule the country	Das Militär sollte regieren
+EVS_R04_2008_ENG_GB_1659	EVS_R04_2008_GER_DE_1619	EVS_R04_2008	Politics and Society	REQUEST	Q66d		Having a democratic political system	Man sollte ein demokratisches politisches System haben
+EVS_R04_2008_ENG_GB_1666	EVS_R04_2008_GER_DE_1626	EVS_R04_2008	Politics and Society	INSTRUCTION	Q67		Show card 67 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 67 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1667	EVS_R04_2008_GER_DE_1627	EVS_R04_2008	Politics and Society	REQUEST	Q67		I'm going to read off some things that people sometimes say about a democratic political system.	Ich lese Ihnen jetzt einige Meinungen vor, die manchmal über Demokratien geäußert werden.
+EVS_R04_2008_ENG_GB_1668	EVS_R04_2008_GER_DE_1628	EVS_R04_2008	Politics and Society	REQUEST	Q67		After I read each one could you please tell me if you agree strongly, agree, disagree, or disagree strongly with it?	Können Sie mir bitte sagen, ob Sie ihnen voll und ganz zustimmen, zustimmen, sie ablehnen oder stark ablehnen.
+EVS_R04_2008_ENG_GB_1669	EVS_R04_2008_GER_DE_1629	EVS_R04_2008	Politics and Society	REQUEST	Q67a		Democracy may have problems but it's better than any other form of government	Die Demokratie mag Probleme mit sich bringen, aber sie ist besser als jede andere Regierungsform
+EVS_R04_2008_ENG_GB_1676	EVS_R04_2008_GER_DE_1636	EVS_R04_2008	Politics and Society	REQUEST	Q67b		In democracy, the economic system runs badly	In Demokratien funktioniert die Wirtschaft schlecht
+EVS_R04_2008_ENG_GB_1683	EVS_R04_2008_GER_DE_1643	EVS_R04_2008	Politics and Society	REQUEST	Q67c		Democracies are indecisive and have too much squabbling	Demokratien sind entscheidungsschwach, und es gibt zuviel Zank und Streit
+EVS_R04_2008_ENG_GB_1690	EVS_R04_2008_GER_DE_1650	EVS_R04_2008	Politics and Society	REQUEST	Q67d		Democracies aren't good at maintaining order	Demokratien sind nicht gut, um die Ordnung aufrechtzuerhalten
+EVS_R04_2008_ENG_GB_1892	EVS_R04_2008_GER_DE_1860	EVS_R04_2008	Politics and Society	REQUEST	Q75		If there were to be a general election tomorrow, would you vote?	Wenn morgen Bundestagswahlen wären, würden Sie dann zur Wahl gehen?
+EVS_R04_2008_ENG_GB_1898	EVS_R04_2008_GER_DE_1866	EVS_R04_2008	Politics and Society	INSTRUCTION	Q75a		SHOW CARD 75a	LISTE 75A VORLEGEN
+EVS_R04_2008_ENG_GB_1900		EVS_R04_2008	Politics and Society	INSTRUCTION	Q75a		Now Go To Q76	
+EVS_R04_2008_ENG_GB_1899	EVS_R04_2008_GER_DE_1867	EVS_R04_2008	Politics and Society	REQUEST	Q75a		IF YES: which party would you vote for?	WENN JA: Welche Partei würden Sie dann wählen?
+EVS_R04_2008_ENG_GB_1911	EVS_R04_2008_GER_DE_1880	EVS_R04_2008	Politics and Society	INSTRUCTION	Q75b		SHOW CARD 75b	LISTE 75B VORLEGEN
+EVS_R04_2008_ENG_GB_1912	EVS_R04_2008_GER_DE_1881	EVS_R04_2008	Politics and Society	REQUEST	Q75b		IF NO: Which party appeals to you most?	WENN NEIN: Welche Partei steht Ihnen am nächsten?
+EVS_R04_2008_ENG_GB_1923	EVS_R04_2008_GER_DE_1894	EVS_R04_2008	Politics and Society	INTRODUCTION	Q76		Ask all	AN ALLE
+EVS_R04_2008_ENG_GB_1924	EVS_R04_2008_GER_DE_1895	EVS_R04_2008	Politics and Society	INSTRUCTION	Q76		Show card 76 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 76 VORLEGEN – VORGABEN VORLESEN UND NUR EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_1925	EVS_R04_2008_GER_DE_1896	EVS_R04_2008	Politics and Society	REQUEST	Q76		How about people from less developed countries coming here to work?	Viele Menschen aus weniger entwickelten Ländern kommen nach Deutschland, um hier zu arbeiten.
+EVS_R04_2008_ENG_GB_1926	EVS_R04_2008_GER_DE_1897	EVS_R04_2008	Politics and Society	REQUEST	Q76		Which one of the following do you think the government should do?	Welche Entscheidung sollte die Regierung Ihrer Meinung nach am ehesten treffen?
+EVS_R04_2008_ENG_GB_1933	EVS_R04_2008_GER_DE_1904	EVS_R04_2008	Politics and Society	INSTRUCTION	Q77		SHOW CARD 77 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 77 VORLEGEN – VORGABEN VORLESEN UND NUR EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_1934	EVS_R04_2008_GER_DE_1905	EVS_R04_2008	Politics and Society	REQUEST	Q77		Terrorism is everyday news.	Über Terrorismus wird täglich berichtet.
+EVS_R04_2008_ENG_GB_1935	EVS_R04_2008_GER_DE_1906	EVS_R04_2008	Politics and Society	REQUEST	Q77		In principle, most people are against it, but there is still room for differences of opinion.	Im Prinzip sind die meisten Menschen dagegen aber es bleibt dennoch Raum für Meinungsunterschiede.
+EVS_R04_2008_ENG_GB_1936	EVS_R04_2008_GER_DE_1907	EVS_R04_2008	Politics and Society	REQUEST	Q77		Which of these two statements do you tend to agree with?	Welcher der beiden Aussagen stimmen Sie eher zu?
+EVS_R04_2008_ENG_GB_2083	EVS_R04_2008_GER_DE_2054	EVS_R04_2008	Politics and Society	INSTRUCTION	Q81		Show card 81	LISTE 81 VORLEGEN
+EVS_R04_2008_ENG_GB_2084	EVS_R04_2008_GER_DE_2055	EVS_R04_2008	Politics and Society	REQUEST	Q81		How often do you follow politics in the news on television or on the radio or in the daily papers?	Wie häufig ungefähr verfolgen Sie politische Nachrichten im Radio, im Fernsehen oder in der Zeitung?
+EVS_R04_2008_ENG_GB_2092	EVS_R04_2008_GER_DE_2063	EVS_R04_2008	Politics and Society	INSTRUCTION	Q82		Show card 82 - READ OUT AND CODE ONE ANSWER PER LINE!	LISTE 82 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN!
+EVS_R04_2008_ENG_GB_2093	EVS_R04_2008_GER_DE_2064	EVS_R04_2008	Politics and Society	REQUEST	Q82		Can you tell me your opinion on each of the following statements?	Bitte sagen Sie mir Ihre Meinung zu den folgenden Aussagen:
+EVS_R04_2008_ENG_GB_2094	EVS_R04_2008_GER_DE_2065	EVS_R04_2008	Politics and Society	REQUEST	Q82a		If someone has information that may help justice be done, generally he or she  should give it to the authorities	Wenn jemand Informationen hat, die der Gerechtigkeit dienlich sein könnten, sollte er/sie diese Informationen im allgemeinen an die staatlichen Stellen weitergeben
+EVS_R04_2008_ENG_GB_2102	EVS_R04_2008_GER_DE_2073	EVS_R04_2008	Politics and Society	REQUEST	Q82b		People should stick to their own affairs and not show too much interest in what others say or do	Jeder sollte sich um seine eigenen Angelebenheiten kümmen und nicht zu sehr um die der anderen
+EVS_R04_2008_ENG_GB_2110	EVS_R04_2008_GER_DE_2081	EVS_R04_2008	Politics and Society	INSTRUCTION	Q83		Show card 83 - READ OUT AND CODE ONE ANSWER PER LINE!	LISTE 83 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN!
+	EVS_R04_2008_GER_DE_2082	EVS_R04_2008	Politics and Society	REQUEST	Q83			Ich lese Ihnen nun verschiedene Personengruppen vor.
+EVS_R04_2008_ENG_GB_2111	EVS_R04_2008_GER_DE_2083	EVS_R04_2008	Politics and Society	REQUEST	Q83		To what extent do you feel concerned about the living conditions of:...	Sagen Sie mir bitte jeweils anhand der Liste: Wieviel liegt Ihnen an den Lebensbedingungen ...
+EVS_R04_2008_ENG_GB_2112	EVS_R04_2008_GER_DE_2084	EVS_R04_2008	Politics and Society	REQUEST	Q83a		Your immediate family	Ihrer Familie?
+EVS_R04_2008_ENG_GB_2120	EVS_R04_2008_GER_DE_2092	EVS_R04_2008	Politics and Society	REQUEST	Q83b		People in your neighbourhood	der Menschen in Ihrer Nachbarschaft?
+EVS_R04_2008_ENG_GB_2128	EVS_R04_2008_GER_DE_2100	EVS_R04_2008	Politics and Society	REQUEST	Q83c		The people of the region you live in	der Menschen in der Region, in der Sie leben?
+EVS_R04_2008_ENG_GB_2136	EVS_R04_2008_GER_DE_2108	EVS_R04_2008	Politics and Society	REQUEST	Q83d		Your fellow countrymen	Ihrer Landsleute?
+EVS_R04_2008_ENG_GB_2144	EVS_R04_2008_GER_DE_2116	EVS_R04_2008	Politics and Society	REQUEST	Q83e		Europeans	der Europäer?
+EVS_R04_2008_ENG_GB_2152	EVS_R04_2008_GER_DE_2124	EVS_R04_2008	Politics and Society	REQUEST	Q83f		All humans all over the world	der Menschheit?
+EVS_R04_2008_ENG_GB_2160	EVS_R04_2008_GER_DE_2132	EVS_R04_2008	Politics and Society	INSTRUCTION	Q84		SHOW CARD 83 AGAIN - READ OUT EACH ITEM AND CODE AN ANSWER FOR EACH	LISTE 84 VORLEGEN – JEDE VORGABE VORLESEN UND PRO VORGABE EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_2161	EVS_R04_2008_GER_DE_2133	EVS_R04_2008	Politics and Society	REQUEST	Q84		To what extent do you feel concerned about the living conditions of:	Und wieviel liegt Ihnen an den Lebensbedingungen ...
+EVS_R04_2008_ENG_GB_2162	EVS_R04_2008_GER_DE_2134	EVS_R04_2008	Politics and Society	REQUEST	Q84a		elderly people in Great Britain	von älteren Menschen in Deutschland?
+EVS_R04_2008_ENG_GB_2170	EVS_R04_2008_GER_DE_2142	EVS_R04_2008	Politics and Society	REQUEST	Q84b		unemployed people in Great Britain	von Arbeitslosen in Deutschland?
+EVS_R04_2008_ENG_GB_2178	EVS_R04_2008_GER_DE_2150	EVS_R04_2008	Politics and Society	REQUEST	Q84c		immigrants in Great Britain	von Ausländern in Deutschland?
+EVS_R04_2008_ENG_GB_2186	EVS_R04_2008_GER_DE_2158	EVS_R04_2008	Politics and Society	REQUEST	Q84d		sick and disabled people in Great Britain	von Kranken und Behinderten in Deutschland?
+EVS_R04_2008_ENG_GB_2194	EVS_R04_2008_GER_DE_2166	EVS_R04_2008	Politics and Society	REQUEST	Q84e		Children in poor families in Great Britain	von Kindern aus armen Familien in Deutschland?
+EVS_R04_2008_ENG_GB_625	EVS_R04_2008_GER_DE_627	EVS_R04_2008	Religion and Morale	INTRODUCTION	Q22		NOW WE ARE GOING TO ASK YOU SOME QUESTIONS ABOUT THE MEANING AND PURPOSE OF LIFE	Wir stellen Ihnen nun einige Fragen zu Bedeutung und Ziel des Lebens
+EVS_R04_2008_ENG_GB_626	EVS_R04_2008_GER_DE_628	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q22		SHOW CARD 22- READ OUT AND CODE ONE ANSWER ONLY	LISTE 22 VORLEGEN – VORGABEN VORLESEN UND ENTSPRECHENDEN CODE EINTRAGEN
+EVS_R04_2008_ENG_GB_633	EVS_R04_2008_GER_DE_629	EVS_R04_2008	Religion and Morale	REQUEST	Q22		C: There can never be absolutely clear guidelines about what is good and evil.	Hier sind drei Meinungen, die Leute manchmal äußern, wenn sie über Gut und Böse diskutieren.
+	EVS_R04_2008_GER_DE_630	EVS_R04_2008	Religion and Morale	REQUEST	Q22			Welche kommt Ihrer Sichtweise am nächsten?
+EVS_R04_2008_ENG_GB_629	EVS_R04_2008_GER_DE_631	EVS_R04_2008	Religion and Morale	REQUEST	Q22		A: There are absolutely clear guidelines about what is good and evil.	A  Es gibt vollkommen klare Maßstäbe, was gut und was böse ist.
+EVS_R04_2008_ENG_GB_630	EVS_R04_2008_GER_DE_632	EVS_R04_2008	Religion and Morale	REQUEST	Q22		These always apply to everyone, whatever the circumstances.	Sie gelten für jeden und unter allen Umständen.
+EVS_R04_2008_ENG_GB_632	EVS_R04_2008_GER_DE_633	EVS_R04_2008	Religion and Morale	REQUEST	Q22		However, deviating from these guidelines is sometimes justified by special circumstances.	B  Es gibt vollkommen klare Maßstäbe, was gut und böse ist.
+EVS_R04_2008_ENG_GB_631	EVS_R04_2008_GER_DE_634	EVS_R04_2008	Religion and Morale	REQUEST	Q22		B: There are absolutely clear guidelines about what is good and evil.	Abweichungen von diesen Maßstäben können aber unter bestimmten Umständen gerechtfertigt werden.
+EVS_R04_2008_ENG_GB_634	EVS_R04_2008_GER_DE_635	EVS_R04_2008	Religion and Morale	REQUEST	Q22		What is good and evil depends entirely upon the circumstances at the time.	C  Es kann niemals vollkommen klare Maßstäbe darüber geben, was gut und was böse ist.
+EVS_R04_2008_ENG_GB_627	EVS_R04_2008_GER_DE_636	EVS_R04_2008	Religion and Morale	REQUEST	Q22		Here are two statements which people sometimes make when discussing good and evil.	Was gut und was böse ist, hängt allein von den jeweiligen Umständen ab.
+EVS_R04_2008_ENG_GB_628	EVS_R04_2008_GER_DE_637	EVS_R04_2008	Religion and Morale	REQUEST	Q22		Which one comes closest to your own point of view?	Bitte nennen Sie mir den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_640	EVS_R04_2008_GER_DE_643	EVS_R04_2008	Religion and Morale	REQUEST	Q23		Do you belong to a religious denomination?	Gehören Sie einer Konfession an?
+EVS_R04_2008_ENG_GB_645	EVS_R04_2008_GER_DE_648	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q23a		SHOW CARD 23a	LISTE 23a VORLEGEN
+	EVS_R04_2008_GER_DE_649	EVS_R04_2008	Religion and Morale	REQUEST	Q23a			Und welcher Konfession gehören Sie an?
+EVS_R04_2008_ENG_GB_646	EVS_R04_2008_GER_DE_650	EVS_R04_2008	Religion and Morale	REQUEST	Q23a		Which religious denomination do you belong to please?	Nennen Sie mir bitte den entsprechenden Kennbuchstaben.
+EVS_R04_2008_ENG_GB_661	EVS_R04_2008_GER_DE_661	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q24		ASK AS APPROPRIATE: IF RESPONDENT IS CURRENTLY A MEMBER (Q23=1), PLEASE ASK:	WENN BEFRAGTER EINER KONFESSION ANGEHÖRT (Q23=1) BITTE FRAGEN:
+EVS_R04_2008_ENG_GB_663	EVS_R04_2008_GER_DE_663	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q24		IF RESPONDENT IS CURRENTLY NOT A MEMBER (Q23=2), PLEASE ASK:	WENN BEFRAGTER DERZEIT KEINER KONFESSION ANGEHÖRT (Q23=2), BITTE FRAGEN:
+EVS_R04_2008_ENG_GB_662	EVS_R04_2008_GER_DE_662	EVS_R04_2008	Religion and Morale	REQUEST	Q24		Have you ever been a member of another religious denomination?	Haben Sie jemals einer anderen Konfession angehört?
+EVS_R04_2008_ENG_GB_664	EVS_R04_2008_GER_DE_664	EVS_R04_2008	Religion and Morale	REQUEST	Q24		Have you ever been a member of a religious denomination?	Haben Sie jemals einer Konfession angehört?
+EVS_R04_2008_ENG_GB_669	EVS_R04_2008_GER_DE_669	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q24a		SHOW CARD 23A AGAIN – ONE ANSWER ONLY	LISTE 24a VORLEGEN – NUR EINE ANTWORT MÖGLICH
+EVS_R04_2008_ENG_GB_670	EVS_R04_2008_GER_DE_670	EVS_R04_2008	Religion and Morale	REQUEST	Q24a		Which religious denomination was that?	Und welcher Konfession haben Sie angehört?
+	EVS_R04_2008_GER_DE_671	EVS_R04_2008	Religion and Morale	REQUEST	Q24a			Nennen Sie mir bitte den entsprechenden Kennbuchstaben von der Liste.
+EVS_R04_2008_ENG_GB_685	EVS_R04_2008_GER_DE_682	EVS_R04_2008	Religion and Morale	INTRODUCTION	Q25		Ask all	AN ALLE
+EVS_R04_2008_ENG_GB_686	EVS_R04_2008_GER_DE_683	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q25		SHOW CARD 25 – READ OUT – CODE ONE ANSWER ONLY	LISTE 25 VORLEGEN – VORGABEN VORLESEN – NUR EINE NENNUNG
+EVS_R04_2008_ENG_GB_687	EVS_R04_2008_GER_DE_684	EVS_R04_2008	Religion and Morale	REQUEST	Q25		Apart from weddings, funerals and christenings, about how often do you attend religious services these days?	Einmal abgesehen von Hochzeiten, Beerdigungen und Taufen: Wie oft nehmen Sie an Gottesdiensten teil?
+EVS_R04_2008_ENG_GB_697	EVS_R04_2008_GER_DE_694	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q26		SHOW CARD 25 AGAIN – READ OUT AND CODE ONE ANSWER ONLY	LISTE 26 VORLESEN – VORGABEN VORLESEN UND EINE ANTWORT ANKREUZEN
+	EVS_R04_2008_GER_DE_695	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q26			Vorgaben vorlesen und nur eine Antwort ankreuzen
+EVS_R04_2008_ENG_GB_698	EVS_R04_2008_GER_DE_696	EVS_R04_2008	Religion and Morale	REQUEST	Q26		Apart from weddings, funerals and christenings, about how often did you attend religious services when you were 12 years old?	Einmal abgesehen von Hochzeiten, Beerdigungen und Taufen: Wie oft nahmen Sie im Alter von 12 Jahren an Gottesdiensten teil?
+EVS_R04_2008_ENG_GB_709	EVS_R04_2008_GER_DE_708	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q27		READ OUT AND CODE ONE ANSWER PER LINE	VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+	EVS_R04_2008_GER_DE_706	EVS_R04_2008	Religion and Morale	REQUEST	Q27			Ich nenne Ihnen nun verschiedene Lebensereignisse.
+EVS_R04_2008_ENG_GB_708	EVS_R04_2008_GER_DE_707	EVS_R04_2008	Religion and Morale	REQUEST	Q27		Do you personally think it is important to hold a religious service for any of the following events?	Sagen Sie mir bitte jeweils, ob Sie dazu eine religiöse Feier für wichtig oder für nicht wichtig halten.
+EVS_R04_2008_ENG_GB_710	EVS_R04_2008_GER_DE_709	EVS_R04_2008	Religion and Morale	REQUEST	Q27a		Birth	Halten Sie eine religiöse Feier bei der Geburt eines Kindes für wichtig?
+EVS_R04_2008_ENG_GB_715	EVS_R04_2008_GER_DE_714	EVS_R04_2008	Religion and Morale	REQUEST	Q27b		Marriage	Und bei einer Hochzeit?
+EVS_R04_2008_ENG_GB_720	EVS_R04_2008_GER_DE_719	EVS_R04_2008	Religion and Morale	REQUEST	Q27c		Death	Wie ist es bei einer Beerdigung?
+EVS_R04_2008_ENG_GB_726	EVS_R04_2008_GER_DE_725	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q28		Read out each item - CODE ONE ANSWER ONLY	VORGABEN VORLESEN UND ANTWORTEN ANKREUZEN!
+	EVS_R04_2008_GER_DE_726	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q28			– NUR EINE NENNUNG
+EVS_R04_2008_ENG_GB_725	EVS_R04_2008_GER_DE_724	EVS_R04_2008	Religion and Morale	REQUEST	Q28		Independently of whether you go to church or not, would you say you are ...	Einmal abgesehen davon, ob Sie in die Kirche gehen oder nicht: Würden Sie sagen, Sie sind...
+EVS_R04_2008_ENG_GB_732	EVS_R04_2008_GER_DE_732	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q29		FOR THOSE BELONGING TO A CHURCH OR A RELIGIOUS COMMUNITY, ASK YOUR CHURCH/ RELIGIOUS COMMUNITY (IF Q23=1)	MITGLIEDER EINER KIRCHE ODER RELIGIONSGEMEINSCHAFT NACH “IHRER KIRCHE/ IHRER RELIGIONSGEMEINSCHAFT”,  (Wenn Q23=1)
+EVS_R04_2008_ENG_GB_734	EVS_R04_2008_GER_DE_734	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q29		FOR THOSE NOT BELONGING TO A CHURCH OR RELIGIOUS COMMUNITY ASK: THE CHURCHES (IF Q23=2)	NICHT-MITGLIEDER NACH “DIE KIRCHEN/ DIE RELIGIONSGEMEIN-SCHAFTEN IN UNSEREM LAND” FRAGEN: (Wenn Q23=2)
+EVS_R04_2008_ENG_GB_736	EVS_R04_2008_GER_DE_736	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q29		READ OUT AND CODE ONE ANSWER PER LINE	VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_733	EVS_R04_2008_GER_DE_733	EVS_R04_2008	Religion and Morale	REQUEST	Q29		Generally speaking, do you think that your church is/the churches are giving, in this country, adequate answers to ...	Glauben Sie ganz allgemein, dass Ihre Kirche/Ihre Religionsgemeinschaft in unserem Land angemessene Antworten gibt auf ...
+EVS_R04_2008_ENG_GB_735	EVS_R04_2008_GER_DE_735	EVS_R04_2008	Religion and Morale	REQUEST	Q29		Generally speaking, do you think that the churches are giving, in your country, adequate answers to ...	Glauben Sie ganz allgemein, dass die Kirchen/ die Religionsgemeinschaften in unserem Land angemessene Antworten geben auf ...
+EVS_R04_2008_ENG_GB_737	EVS_R04_2008_GER_DE_737	EVS_R04_2008	Religion and Morale	REQUEST	Q29a		The moral problems and needs of the individual	moralische Probleme und Nöte des einzelnen geben kann/können?
+EVS_R04_2008_ENG_GB_742	EVS_R04_2008_GER_DE_742	EVS_R04_2008	Religion and Morale	REQUEST	Q29b		The problems of family life	Und für Probleme im Familienleben?
+EVS_R04_2008_ENG_GB_747	EVS_R04_2008_GER_DE_747	EVS_R04_2008	Religion and Morale	REQUEST	Q29c		People's spiritual needs	Und für geistige und spirituelle Bedürfnisse?
+EVS_R04_2008_ENG_GB_752	EVS_R04_2008_GER_DE_752	EVS_R04_2008	Religion and Morale	REQUEST	Q29d		The social problems facing our country today	Aktuelle soziale Probleme unseres Landes?
+EVS_R04_2008_ENG_GB_758	EVS_R04_2008_GER_DE_758	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q30		READ OUT AND CODE ONE ANSWER PER LINE	VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_757	EVS_R04_2008_GER_DE_757	EVS_R04_2008	Religion and Morale	REQUEST	Q30		Which, if any, of the following do you believe in?	Ich möchte Ihnen nun Verschiedenes vorlesen, und Sie sagen mir bitte jeweils, ob Sie daran glauben oder nicht.
+EVS_R04_2008_ENG_GB_759	EVS_R04_2008_GER_DE_759	EVS_R04_2008	Religion and Morale	REQUEST	Q30a		God	An Gott?
+EVS_R04_2008_ENG_GB_764	EVS_R04_2008_GER_DE_764	EVS_R04_2008	Religion and Morale	REQUEST	Q30b		Life after death	An ein Leben nach dem Tod?
+EVS_R04_2008_ENG_GB_769	EVS_R04_2008_GER_DE_769	EVS_R04_2008	Religion and Morale	REQUEST	Q30c		Hell	An die Hölle?
+EVS_R04_2008_ENG_GB_774	EVS_R04_2008_GER_DE_774	EVS_R04_2008	Religion and Morale	REQUEST	Q30d		Heaven	Den Himmel?
+EVS_R04_2008_ENG_GB_779	EVS_R04_2008_GER_DE_779	EVS_R04_2008	Religion and Morale	REQUEST	Q30e		Sin	An Sünde?
+EVS_R04_2008_ENG_GB_784	EVS_R04_2008_GER_DE_784	EVS_R04_2008	Religion and Morale	REQUEST	Q31		Do you believe in re-incarnation, that is, that we are born into this world again?	Glauben Sie an die Wiedergeburt (Reinkarnation), also daran, daß wir noch einmal in diese Welt geboren werden?
+EVS_R04_2008_ENG_GB_789	EVS_R04_2008_GER_DE_789	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q32		SHOW CARD 32 – READ OUT – CODE ONE ANSWER ONLY	LISTE 32 VORLEGEN –VORGABEN VORLESEN!
+	EVS_R04_2008_GER_DE_790	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q32			NUR EINE NENNUNG!
+EVS_R04_2008_ENG_GB_790	EVS_R04_2008_GER_DE_791	EVS_R04_2008	Religion and Morale	REQUEST	Q32		Which of these statements comes closest to your beliefs?	Ich möchte noch einmal zum Glauben an Gott zurückkommen.
+	EVS_R04_2008_GER_DE_792	EVS_R04_2008	Religion and Morale	REQUEST	Q32			Welche von den Aussagen kommt Ihren Überzeugungen am nächsten?
+EVS_R04_2008_ENG_GB_797	EVS_R04_2008_GER_DE_799	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q33		SHOW CARD 33	LISTE 33 VORLEGEN
+EVS_R04_2008_ENG_GB_798	EVS_R04_2008_GER_DE_800	EVS_R04_2008	Religion and Morale	REQUEST	Q33		Please choose a number on the card to describe how true this statement is for you.	Bitte entscheiden Sie anhand dieser Skala wie sehr diese Aussage auf Sie zutrifft: Ich habe meine eigene Art mit dem Göttlichen in Verbindung zu treten, ohne Kirchen oder Gottesdienste
+EVS_R04_2008_ENG_GB_799		EVS_R04_2008	Religion and Morale	REQUEST	Q33		I have my own way of connecting with the Divine without churches or religious services	
+EVS_R04_2008_ENG_GB_807	EVS_R04_2008_GER_DE_808	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q34		SHOW CARD 34	LISTE 34 VORLEGEN
+EVS_R04_2008_ENG_GB_808	EVS_R04_2008_GER_DE_809	EVS_R04_2008	Religion and Morale	REQUEST	Q34		Whether or not you think of yourself as a religious person, how spiritual would you say you are?	Unabhängig davon, ob Sie sich als religiöse Person sehen: wie spirituell würden Sie sich einschätzen, d.h. wie sehr interessieren Sie sich für das Heilige oder das Übernatürliche?
+EVS_R04_2008_ENG_GB_809		EVS_R04_2008	Religion and Morale	REQUEST	Q34		That is, how strongly are you interested in the sacred or the supernatural?	
+EVS_R04_2008_ENG_GB_816	EVS_R04_2008_GER_DE_816	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q35		SHOW CARD 35 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 35 VORLEGEN –  VORGABEN VORLESEN UND NUR EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_817	EVS_R04_2008_GER_DE_817	EVS_R04_2008	Religion and Morale	REQUEST	Q35		These are statements one sometimes hears.	Dies sind Aussagen, die man manchmal hört.
+EVS_R04_2008_ENG_GB_818	EVS_R04_2008_GER_DE_818	EVS_R04_2008	Religion and Morale	REQUEST	Q35		Please choose the statement that best describes your view.	Bitte wählen Sie die Aussage aus, die Ihrer Ansicht am ehesten entspricht.
+EVS_R04_2008_ENG_GB_825	EVS_R04_2008_GER_DE_825	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q36		Show card 36	LISTE 36 VORLEGEN
+EVS_R04_2008_ENG_GB_826	EVS_R04_2008_GER_DE_826	EVS_R04_2008	Religion and Morale	REQUEST	Q36		And how important is God in your life?	Wie wichtig ist Gott in Ihrem Leben?
+EVS_R04_2008_ENG_GB_827	EVS_R04_2008_GER_DE_827	EVS_R04_2008	Religion and Morale	REQUEST	Q36		Please use this card to indicate - 10 means very important and 1 means not at all important.	Wenn Sie es mir wieder nach dieser Skala hier sagen: 1 bedeutet überhaupt nicht wichtig, 10 bedeutet sehr wichtig.
+	EVS_R04_2008_GER_DE_828	EVS_R04_2008	Religion and Morale	REQUEST	Q36			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_840	EVS_R04_2008_GER_DE_841	EVS_R04_2008	Religion and Morale	REQUEST	Q37		Do you find that you get comfort and strength from religion or not?	Ziehen Sie persönlich aus dem Glauben Trost und Kraft?
+EVS_R04_2008_ENG_GB_845	EVS_R04_2008_GER_DE_846	EVS_R04_2008	Religion and Morale	REQUEST	Q38		Do you take some moments of prayer, meditation or contemplation or something like that?	Nehmen Sie sich manchmal Zeit für ein Gebet, zur Meditation, zur inneren Einkehr oder etwas ähnlichem?
+EVS_R04_2008_ENG_GB_850	EVS_R04_2008_GER_DE_851	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q39		Show card 39 - READ OUT AND CODE ONE ANSWER ONLY	LISTE 39 VORLEGEN – VORGABEN VORLESEN UND NUR EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_851	EVS_R04_2008_GER_DE_852	EVS_R04_2008	Religion and Morale	REQUEST	Q39		How often do you pray to God outside religious services?	Einmal abgesehen von Gottesdiensten: Wie oft beten Sie zu Gott?
+EVS_R04_2008_ENG_GB_852	EVS_R04_2008_GER_DE_853	EVS_R04_2008	Religion and Morale	REQUEST	Q39		Would you say ...	Würden Sie sagen.
+	EVS_R04_2008_GER_DE_854	EVS_R04_2008	Religion and Morale	REQUEST	Q39			..
+EVS_R04_2008_ENG_GB_862	EVS_R04_2008_GER_DE_864	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q40		Show card 40	LISTE 40 VORLEGEN
+EVS_R04_2008_ENG_GB_863	EVS_R04_2008_GER_DE_865	EVS_R04_2008	Religion and Morale	REQUEST	Q40		Do you believe that a lucky charm such as a mascot or a talisman can protect or help you?	Glauben Sie, daß ein Glücksbringer Sie schützen oder Ihnen helfen kann?
+	EVS_R04_2008_GER_DE_866	EVS_R04_2008	Religion and Morale	REQUEST	Q40			Wenn Sie glauben, daß ein Glückbringer Sie auf keinen Fall schützen kann, geben Sie bitte eine 1 an, wenn Sie glauben, daß ein Glücksbringer auf jeden Fall schützen kann, geben Sie eine 10 an.
+	EVS_R04_2008_GER_DE_867	EVS_R04_2008	Religion and Morale	REQUEST	Q40			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_876	EVS_R04_2008_GER_DE_880	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q41		SHOW CARD 41 - READ OUT AND CODE ONE ANSWER PER LINE!	LISTE 41 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_877	EVS_R04_2008_GER_DE_881	EVS_R04_2008	Religion and Morale	REQUEST	Q41		How much do you agree or disagree with each of the following:	Sagen Sie mir bitte zu jeder der folgenden Aussagen, ob Sie ihr voll und ganz zustimmen, zustimmen, nicht zustimmen oder überhaupt nicht zustimmen.
+EVS_R04_2008_ENG_GB_878	EVS_R04_2008_GER_DE_882	EVS_R04_2008	Religion and Morale	REQUEST	Q41a		Politicians who do not believe in God are unfit for public office	Politiker, die nicht an Gott glauben, sind ungeeignet für ein öffentliches Amt
+EVS_R04_2008_ENG_GB_886	EVS_R04_2008_GER_DE_890	EVS_R04_2008	Religion and Morale	REQUEST	Q41b		Religious leaders should not influence government decisions	Die Kirchenoberhäupter sollten nicht versuchen, Entscheidungen der Regierung zu beeinflussen
+EVS_R04_2008_ENG_GB_1697	EVS_R04_2008_GER_DE_1657	EVS_R04_2008	Religion and Morale	INSTRUCTION	Q68		SHOW CARD 68 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 68 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_1698	EVS_R04_2008_GER_DE_1658	EVS_R04_2008	Religion and Morale	REQUEST	Q68		Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.	Können Sie mir bitte für jeden der folgenden Punkte sagen, ob Sie das in jedem Fall für in Ordnung halten, oder unter keinen Umständen, oder irgendetwas dazwischen.
+	EVS_R04_2008_GER_DE_1659	EVS_R04_2008	Religion and Morale	REQUEST	Q68			Nennen Sie mir bitte zu jedem Punkt einen Wert anhand der Liste.
+	EVS_R04_2008_GER_DE_1660	EVS_R04_2008	Religion and Morale	REQUEST	Q68			1 bedeutet: Das darf man unter keinen Umständen tun, 10 bedeutet: Das ist in jedem Fall in Ordnung.
+	EVS_R04_2008_GER_DE_1661	EVS_R04_2008	Religion and Morale	REQUEST	Q68			Mit den Werten dazwischen können Sie Ihre Angabe abstufen.
+EVS_R04_2008_ENG_GB_1699	EVS_R04_2008_GER_DE_1662	EVS_R04_2008	Religion and Morale	REQUEST	Q68a		Claiming state benefits which you are not entitled to	Staatliche Leistungen in Anspruch nehmen, auf die man keinen Anspruch hat
+EVS_R04_2008_ENG_GB_1712	EVS_R04_2008_GER_DE_1675	EVS_R04_2008	Religion and Morale	REQUEST	Q68b		Cheating on tax if you have the chance	Steuern hinterziehen, wenn man die Möglichkeit hat
+EVS_R04_2008_ENG_GB_1717	EVS_R04_2008_GER_DE_1680	EVS_R04_2008	Religion and Morale	REQUEST	Q68c		Taking and driving away a car belonging to someone else (joyriding)	Ein Auto, das einem nicht gehört, öffnen und damit eine Spritztour machen
+EVS_R04_2008_ENG_GB_1722	EVS_R04_2008_GER_DE_1685	EVS_R04_2008	Religion and Morale	REQUEST	Q68d		Taking the drug marijuana or hashish	Drogen wie Marihuana oder Haschisch nehmen
+EVS_R04_2008_ENG_GB_1727	EVS_R04_2008_GER_DE_1690	EVS_R04_2008	Religion and Morale	REQUEST	Q68e		Lying in your own interest	Zum eigenen Vorteil lügen
+EVS_R04_2008_ENG_GB_1732	EVS_R04_2008_GER_DE_1695	EVS_R04_2008	Religion and Morale	REQUEST	Q68f		Married men/women having an affair	Wenn verheiratete Männer/Frauen ein Verhältnis haben
+EVS_R04_2008_ENG_GB_1737	EVS_R04_2008_GER_DE_1700	EVS_R04_2008	Religion and Morale	REQUEST	Q68g		Someone accepting a bribe in the course of their duties	Wenn jemand Schmiergelder annimmt
+EVS_R04_2008_ENG_GB_1742	EVS_R04_2008_GER_DE_1705	EVS_R04_2008	Religion and Morale	REQUEST	Q68h		Homosexuality	Homosexualität
+EVS_R04_2008_ENG_GB_1747	EVS_R04_2008_GER_DE_1710	EVS_R04_2008	Religion and Morale	REQUEST	Q68i		Abortion	Abtreibung
+EVS_R04_2008_ENG_GB_1752	EVS_R04_2008_GER_DE_1715	EVS_R04_2008	Religion and Morale	REQUEST	Q68j		Divorce	Sich scheiden lassen
+EVS_R04_2008_ENG_GB_1757	EVS_R04_2008_GER_DE_1720	EVS_R04_2008	Religion and Morale	REQUEST	Q68k		Euthanasia (terminating the life of the incurably sick)	Sterbehilfe (Das Leben unheilbar Kranker beenden) / Das Leben unheilbar Kranker beenden (Euthanasie)
+EVS_R04_2008_ENG_GB_1762	EVS_R04_2008_GER_DE_1728	EVS_R04_2008	Religion and Morale	REQUEST	Q68l		Suicide	Selbstmord
+EVS_R04_2008_ENG_GB_1767	EVS_R04_2008_GER_DE_1733	EVS_R04_2008	Religion and Morale	REQUEST	Q68m		Paying cash for services to avoid taxes	Zum Zwecke der Steuerhinterziehung Dienstleistungen (ohne Rechnung) bar bezahlen
+EVS_R04_2008_ENG_GB_1772	EVS_R04_2008_GER_DE_1738	EVS_R04_2008	Religion and Morale	REQUEST	Q68n		Having casual sex	Geschlechtsverkehr mit häufig wechselnden Partnern in flüchtigen Beziehungen
+EVS_R04_2008_ENG_GB_1777	EVS_R04_2008_GER_DE_1743	EVS_R04_2008	Religion and Morale	REQUEST	Q68o		Avoiding a fare on public transport	Kein Fahrgeld in öffentlichen Verkehrsmitteln zahlen, schwarzfahren
+EVS_R04_2008_ENG_GB_1782	EVS_R04_2008_GER_DE_1748	EVS_R04_2008	Religion and Morale	REQUEST	Q68p		Prostitution	Prostitution
+EVS_R04_2008_ENG_GB_1787	EVS_R04_2008_GER_DE_1753	EVS_R04_2008	Religion and Morale	REQUEST	Q68q		Scientific experiments on human embryos	Wissenschaftliche Experimente an menschlichen Embryonen
+EVS_R04_2008_ENG_GB_1792	EVS_R04_2008_GER_DE_1758	EVS_R04_2008	Religion and Morale	REQUEST	Q68r		Genetic manipulation of food stuffs	Genetische Veränderung von Lebensmitteln
+EVS_R04_2008_ENG_GB_1797	EVS_R04_2008_GER_DE_1763	EVS_R04_2008	Religion and Morale	REQUEST	Q68s		Artificial insemination or in-vitro fertilization	Künstliche Befruchtung (Insemination oder In-vitro Befruchtung)
+EVS_R04_2008_ENG_GB_1802	EVS_R04_2008_GER_DE_1768	EVS_R04_2008	Religion and Morale	REQUEST	Q68t		Death penalty	Todesstrafe
+EVS_R04_2008_ENG_GB_2294	EVS_R04_2008_GER_DE_2303	EVS_R04_2008	Respondent's parents	INTRODUCTION	Q93		ASK ALL	AN ALLE!
+EVS_R04_2008_ENG_GB_2295	EVS_R04_2008_GER_DE_2304	EVS_R04_2008	Respondent's parents	REQUEST	Q93		Was your father born in Great Britain?	Wurde Ihr Vater in Deutschland geboren?
+EVS_R04_2008_ENG_GB_2302	EVS_R04_2008_GER_DE_2311	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q94		CODING INSTRUCTION: TO BE CODED INTO PRE-SPECIFIED ISO 3166-1 (2-CHARACTER) CATEGORIES	KODIERANWEISUNG: NACH FESTGELEGTEM ISO 3166-1 (2 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2300	EVS_R04_2008_GER_DE_2309	EVS_R04_2008	Respondent's parents	REQUEST	Q94		In which country was your father born?	In welchem Land wurde Ihr Vater geboren?
+EVS_R04_2008_ENG_GB_2301	EVS_R04_2008_GER_DE_2310	EVS_R04_2008	Respondent's parents	REQUEST	Q94		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2303	EVS_R04_2008_GER_DE_2312	EVS_R04_2008	Respondent's parents	REQUEST	Q94		Code	Code:
+EVS_R04_2008_ENG_GB_2307		EVS_R04_2008	Respondent's parents	INTRODUCTION	Q95		ASK ALL	
+EVS_R04_2008_ENG_GB_2308	EVS_R04_2008_GER_DE_2316	EVS_R04_2008	Respondent's parents	REQUEST	Q95		Was your mother born in Great Britain?	Wurde Ihre Mutter in Deutschland geboren?
+EVS_R04_2008_ENG_GB_2315	EVS_R04_2008_GER_DE_2323	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q96		CODING INSTRUCTION: TO BE CODED INTO PRE-SPECIFIED ISO 3166-1 (2-CHARACTER) CATEGORIES	KODIERANWEISUNG: NACH FESTGELEGTEM ISO 3166-1 (2 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2313	EVS_R04_2008_GER_DE_2321	EVS_R04_2008	Respondent's parents	REQUEST	Q96		In which country was your mother born?	In welchem Land wurde Ihre Mutter geboren?
+EVS_R04_2008_ENG_GB_2314	EVS_R04_2008_GER_DE_2322	EVS_R04_2008	Respondent's parents	REQUEST	Q96		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2316	EVS_R04_2008_GER_DE_2324	EVS_R04_2008	Respondent's parents	REQUEST	Q96		Code	Code:
+EVS_R04_2008_ENG_GB_2791		EVS_R04_2008	Respondent's parents	INSTRUCTION	Q126		IF RESPONSE TO Q126=3 REPLACE ‘FATHER' BY ‘MOTHER' AND ‘HIS' BY ‘HER' IN QUESTIONS 127 TO 131	
+EVS_R04_2008_ENG_GB_2790	EVS_R04_2008_GER_DE_2779	EVS_R04_2008	Respondent's parents	REQUEST	Q126		When you were 14, did you live with your parents?	Haben Sie mit Ihren Eltern zusammengewohnt als Sie 14 Jahre alt waren?
+EVS_R04_2008_ENG_GB_2817	EVS_R04_2008_GER_DE_2817	EVS_R04_2008	Respondent's parents	REQUEST	Q128		When you were 14, was your father mother employed, self employed or not employed?	War Ihr Vater Ihre Mutter abhängig beschäftigt, selbstständig oder nicht berufstätig als Sie 14 Jahre alt waren?
+EVS_R04_2008_ENG_GB_2825	EVS_R04_2008_GER_DE_2825	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q129		Write in	BITTE NOTIEREN!
+EVS_R04_2008_ENG_GB_2824	EVS_R04_2008_GER_DE_2824	EVS_R04_2008	Respondent's parents	REQUEST	Q129		What was the name or title of your father's mother's job?	Welche berufliche Tätigkeit übte/übt Ihre Vater Ihre Mutter aus?
+EVS_R04_2008_ENG_GB_2826	EVS_R04_2008_GER_DE_2826	EVS_R04_2008	Respondent's parents	REQUEST	Q129		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2828	EVS_R04_2008_GER_DE_2828	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q129a		WRITE IN	BITTE NOTIEREN!
+EVS_R04_2008_ENG_GB_2830	EVS_R04_2008_GER_DE_2830	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q129a		CODING INSTRUCTION: CODE ACCORDING TO ISCO88 (4 DIGITS) AFTER INTERVIEW ON THE BASIS OF Q129 AND Q129A	KODIERANWEISUNG: AUF DER BASIS VON Q129 UND Q129A NACH ISCO88 (4 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2827	EVS_R04_2008_GER_DE_2827	EVS_R04_2008	Respondent's parents	REQUEST	Q129a		In his her job, what kind of work did your father mother mainly do?	Welche Art von Tätigkeit übt/übte er sie in seinem ihrem Hauptberuf aus?
+EVS_R04_2008_ENG_GB_2829	EVS_R04_2008_GER_DE_2829	EVS_R04_2008	Respondent's parents	REQUEST	Q129a		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2831	EVS_R04_2008_GER_DE_2831	EVS_R04_2008	Respondent's parents	REQUEST	Q129a		Code	Code:
+	EVS_R04_2008_GER_DE_2835	EVS_R04_2008	Respondent's parents	INTRODUCTION	Q130			NUR AN BEFRAGTE MIT SELBSTÄNDIGEN VÄTERN/MÜTTERN (Q128=2)
+EVS_R04_2008_ENG_GB_2835		EVS_R04_2008	Respondent's parents	INSTRUCTION	Q130		FOR SELF EMPLOYED FATHERS/MOTHERS (Q128=2)	
+EVS_R04_2008_ENG_GB_2836	EVS_R04_2008_GER_DE_2836	EVS_R04_2008	Respondent's parents	REQUEST	Q130		How many employees did your father mother have?	Wie viele Personen sind/waren bei Ihrem Vater Ihrer Mutter beschäftigt?
+	EVS_R04_2008_GER_DE_2844	EVS_R04_2008	Respondent's parents	INTRODUCTION	Q131			NUR AN BEFRAGTE MIT ABHÄNGIG BESCHÄFTIGTEN VÄTERN/MÜTTERN (Q128=1)
+EVS_R04_2008_ENG_GB_2844		EVS_R04_2008	Respondent's parents	INSTRUCTION	Q131		FOR EMPLOYED FATHERS/MOTHERS (Q128=1)	
+EVS_R04_2008_ENG_GB_2845	EVS_R04_2008_GER_DE_2845	EVS_R04_2008	Respondent's parents	REQUEST	Q131		Did your father mother have any responsibility for supervising the work of other employees?	Gehört/Gehörte es zur beruflichen Tätigkeit Ihres Vaters Ihrer Mutter, die Arbeit von Personen, die ihm/ihr gegenüber direkt verantwortlich sind/waren, anzuleiten und zu beaufsichtigen?
+EVS_R04_2008_ENG_GB_2851	EVS_R04_2008_GER_DE_2851	EVS_R04_2008	Respondent's parents	REQUEST	Q131a		How many employees did your father mother supervise?	Wie viele Personen sind es, deren Arbeit Ihr Vater Ihre Mutter anleitet/anleitete und beaufsichtigt/beaufsichtigte?
+EVS_R04_2008_ENG_GB_2858	EVS_R04_2008_GER_DE_2858	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q132		SHOW CARD 132	LISTE 132 VORLEGEN
+EVS_R04_2008_ENG_GB_2861	EVS_R04_2008_GER_DE_2861	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q132		DO NOT  ASK A, B, C IF RESPONDENT LIVED WITH FATHER ONLY (SEE Q126=2)	FRAGEN SIE A, B UND C NICHT, WENN DER/DIE BEFRAGTE NUR MIT DEM VATER AUFGEWACHSEN IST (Q126=2)
+EVS_R04_2008_ENG_GB_2862	EVS_R04_2008_GER_DE_2862	EVS_R04_2008	Respondent's parents	INSTRUCTION	Q132		DO NOT ASK E, F, G IF RESPONDENT LIVED WITH MOTHER ONLY (SEE Q126=3)	FRAGEN SIE E, F UND G NICHT, WENN DER/DIE BEFRAGTE NUR MIT DER MUTTER AUFGEWACHSEN IST (Q126=3)
+EVS_R04_2008_ENG_GB_2859	EVS_R04_2008_GER_DE_2859	EVS_R04_2008	Respondent's parents	REQUEST	Q132		Could I ask you to you to think back to when you were about 14 years old.	Denken Sie an Ihre Eltern zu einem Zeitpunkt als Sie selbst ungefähr 14 Jahre alt waren.
+EVS_R04_2008_ENG_GB_2860	EVS_R04_2008_GER_DE_2860	EVS_R04_2008	Respondent's parents	REQUEST	Q132		Could you say to what extent these statements correctly describe your parents when you were about 14?	Können Sie mir sagen, in wie weit die folgenden Aussagen auf ihre Eltern zutreffen?
+EVS_R04_2008_ENG_GB_2863	EVS_R04_2008_GER_DE_2863	EVS_R04_2008	Respondent's parents	REQUEST	Q132a		My mother liked to read books	Meine Mutter hat gerne Bücher gelesen
+EVS_R04_2008_ENG_GB_2871	EVS_R04_2008_GER_DE_2871	EVS_R04_2008	Respondent's parents	REQUEST	Q132b		I discussed politics at home with my mother	Ich habe zuhause mit meiner Mutter über Politik diskutiert
+EVS_R04_2008_ENG_GB_2879	EVS_R04_2008_GER_DE_2879	EVS_R04_2008	Respondent's parents	REQUEST	Q132c		My mother liked to follow the news	Meine Mutter hat gerne die Nachrichten verfolgt
+EVS_R04_2008_ENG_GB_2887	EVS_R04_2008_GER_DE_2887	EVS_R04_2008	Respondent's parents	REQUEST	Q132d		My parent(s) had problems making ends meet	Meine Eltern (Elternteil) hatte(n) Schwierigkeiten mit ihrem Einkommen auszukommen
+EVS_R04_2008_ENG_GB_2895	EVS_R04_2008_GER_DE_2895	EVS_R04_2008	Respondent's parents	REQUEST	Q132e		My father liked to read books	Mein Vater hat gerne Bücher gelesen
+EVS_R04_2008_ENG_GB_2903	EVS_R04_2008_GER_DE_2903	EVS_R04_2008	Respondent's parents	REQUEST	Q132f		I discussed politics at home with my father	Ich habe zuhause mit meinem Vater über Politik diskutiert
+EVS_R04_2008_ENG_GB_2911	EVS_R04_2008_GER_DE_2911	EVS_R04_2008	Respondent's parents	REQUEST	Q132g		My father liked to follow the news	Mein Vater hat gerne die Nachrichten verfolgt
+EVS_R04_2008_ENG_GB_2919	EVS_R04_2008_GER_DE_2919	EVS_R04_2008	Respondent's parents	REQUEST	Q132h		My parent(s) had problems replacing broken things	Meine Eltern (Elternteil) hatte(n) Probleme kaputtgegangene Gegenstände zu ersetzen
+	EVS_R04_2008_GER_DE_2617	EVS_R04_2008	Respondent's partner	INTRODUCTION	Q115			FRAGE STELLEN AN BEFRAGTE, DIE MIT EINEM (EHE-) PARTNER / EINER (EHE-) PARTNERIN ZUSAMMENLEBEN (Q97= 1 UND 2 ODER Q99=1), SONST WEITER MIT Q121
+EVS_R04_2008_ENG_GB_2603		EVS_R04_2008	Respondent's partner	INSTRUCTION	Q115		ASK RESPONDENTS WHO LIVE WITH A SPOUSE OR PARTNER (RESPONSE TO Q97=1 OR 2 OR RESPONSE TO Q99=1), FOR ALL OTHER RESPONDENTS, GO TO Q121	
+EVS_R04_2008_ENG_GB_2604	EVS_R04_2008_GER_DE_2618	EVS_R04_2008	Respondent's partner	REQUEST	Q115		Was your partner/spouse born in Great Britain?	Wurde Ihr (Ehe-) Partner / Ihre (Ehe-) Partnerin in Deutschland geboren?
+EVS_R04_2008_ENG_GB_2611	EVS_R04_2008_GER_DE_2625	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q115a		ASK AND WRITE IN, IN FULL DETAIL	FRAGE STELLEN UND SO GENAU WIE MÖGLICH NOTIEREN!
+EVS_R04_2008_ENG_GB_2613	EVS_R04_2008_GER_DE_2627	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q115a		CODING INSTRUCTION: TO BE CODED INTO PRE-SPECIFIED ISO 3166-1 (2-CHARACTER) CATEGORIES	KODIERANWEISUNG:  NACH FESTGELEGTEM ISO 3166-1 (2 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2610	EVS_R04_2008_GER_DE_2624	EVS_R04_2008	Respondent's partner	REQUEST	Q115a		In which country was your spouse/partner born?	In welchem Land wurde Ihr (Ehe-) Partner / Ihre (Ehe-) Partnerin geboren?
+EVS_R04_2008_ENG_GB_2612	EVS_R04_2008_GER_DE_2626	EVS_R04_2008	Respondent's partner	REQUEST	Q115a		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2614	EVS_R04_2008_GER_DE_2628	EVS_R04_2008	Respondent's partner	REQUEST	Q115a		Code	Code:
+EVS_R04_2008_ENG_GB_2640	EVS_R04_2008_GER_DE_2668	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q117		SHOW CARD 117	LISTE 117 VORLEGEN
+EVS_R04_2008_ENG_GB_2643	EVS_R04_2008_GER_DE_2671	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q117		IF RESPONDENT HAS MORE THAN ONE JOB: ONLY FOR THE MAIN JOB	WENN MEHR ALS EINE BESCHÄFTIGUNG: NUR FÜR HAUPTBERUFLICHE TÄTIGKEIT
+EVS_R04_2008_ENG_GB_2641	EVS_R04_2008_GER_DE_2669	EVS_R04_2008	Respondent's partner	REQUEST	Q117		Is your spouse/partner employed at the moment or not?	Ist Ihr (Ehe-) Partner / Ihre (Ehe-) Partnerin zurzeit erwerbstätig oder nicht?
+EVS_R04_2008_ENG_GB_2642	EVS_R04_2008_GER_DE_2670	EVS_R04_2008	Respondent's partner	REQUEST	Q117		Please select from the card the employment status that applies to your him/her.	Bitte wählen Sie aus dieser Liste das aus, was auf ihn / sie zutrifft.
+EVS_R04_2008_ENG_GB_2656	EVS_R04_2008_GER_DE_2685	EVS_R04_2008	Respondent's partner	REQUEST	Q117a		In his/her LAST job was he/she employed (either full time or part time) or was he/she self-employed?	War er / sie bei seiner / ihrer letzen beruflichen Tätigkeit abhängig beschäftigt (voll oder teilzeit) war er / sie selbstständig?
+EVS_R04_2008_ENG_GB_2662	EVS_R04_2008_GER_DE_2691	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118		IF PARTNER IS IN PAID EMPLOYMENT NOW, Q117 = 01-03 ASK:	WENN PARTNER / PARTNERIN DERZEIT BERUFSTÄTIG IST, Q117 = 01 - 03, FRAGEN:
+EVS_R04_2008_ENG_GB_2664	EVS_R04_2008_GER_DE_2693	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118		IF PARTNER WAS IN PAID EMPLOYMENT BEFORE  Q117A = 1-2, ASK:	WENN PARTNER / PARTNERIN FRÜHER BERUFSTÄTIG WAR, Q117A= 1-2, FRAGEN:
+EVS_R04_2008_ENG_GB_2666	EVS_R04_2008_GER_DE_2695	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118		IF PARTNER HAS/HAD MORE THAN ONE JOB, ASK ABOUT HIS/HER OCCUPATION IN THE MAIN JOB	WENN PARTNER / PARTNERIN MEHR ALS EINE BERUFLICHE TÄTIGKEIT AUSÜBT / AUSÜBTE, NACH DER HAUPTBERUFLICHEN TÄTIGKEIT FRAGEN!
+EVS_R04_2008_ENG_GB_2667	EVS_R04_2008_GER_DE_2696	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118		WRITE IN AS MUCH DETAIL AS POSSIBLE	SO GENAU WIE MÖGLICH NOTIEREN!
+	EVS_R04_2008_GER_DE_2697	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118			!
+EVS_R04_2008_ENG_GB_2663	EVS_R04_2008_GER_DE_2692	EVS_R04_2008	Respondent's partner	REQUEST	Q118		What is the name or title of your partner's main job?	Welche berufliche Tätigkeit übt Ihr (Ehe-) Partner / Ihre (Ehe-) Partnerin gegenwärtig aus?
+EVS_R04_2008_ENG_GB_2665	EVS_R04_2008_GER_DE_2694	EVS_R04_2008	Respondent's partner	REQUEST	Q118		What was the name or title of your partner's main job?	Welche berufliche Tätigkeit hat Ihr (Ehe-) Partner / Ihre (Ehe-) Partnerin zuletzt ausgeübt?
+EVS_R04_2008_ENG_GB_2668	EVS_R04_2008_GER_DE_2698	EVS_R04_2008	Respondent's partner	REQUEST	Q118		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2670	EVS_R04_2008_GER_DE_2700	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118a		WRITE IN!	BITTE NOTIEREN!
+	EVS_R04_2008_GER_DE_2701	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118a			!
+EVS_R04_2008_ENG_GB_2672	EVS_R04_2008_GER_DE_2703	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q118a		CODING INSTRUCTION: CODE ACCORDING TO ISCO88 (4 DIGITS) AFTER INTERVIEW ON THE BASIS OF Q118 AND Q118A	AUF DER BASIS VON Q118 UND Q118A NACH ISCO88 (4 ZIFFERN) KODIEREN.
+EVS_R04_2008_ENG_GB_2669	EVS_R04_2008_GER_DE_2699	EVS_R04_2008	Respondent's partner	REQUEST	Q118a		In his or her main job, what kind of work does your partner do/ what kind of work did your partner do, most of the time?	Welche Art von Tätigkeit übt / übte Ihr (Ehe-) Partner / Ihre (Ehe-) Partnerin im Hauptberuf die meiste Zeit über aus?
+EVS_R04_2008_ENG_GB_2671	EVS_R04_2008_GER_DE_2702	EVS_R04_2008	Respondent's partner	REQUEST	Q118a		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2673	EVS_R04_2008_GER_DE_2704	EVS_R04_2008	Respondent's partner	REQUEST	Q118a		Code	Code:
+	EVS_R04_2008_GER_DE_2709	EVS_R04_2008	Respondent's partner	INTRODUCTION	Q119			NUR FRAGEN, WENN (EHE-) PARTNER / (EHE-) PARTNERIN GEGENWÄRTIG SELBSTSTÄNDIG IST (Q117=3) ODER IN DER LETZTEN BERUFLICHEN TÄTIGKEIT SELBSTSTÄNDIG WAR (Q117A=2)
+EVS_R04_2008_ENG_GB_2678		EVS_R04_2008	Respondent's partner	INSTRUCTION	Q119		ASK IF SPOUSE/PARTNER IS CURRENTLY SELF-EMPLOYED (Q117=3) OR IF PARTNER WAS SELF-EMPLOYED IN HIS/HER LAST JOB (Q117A=2)	
+EVS_R04_2008_ENG_GB_2679	EVS_R04_2008_GER_DE_2710	EVS_R04_2008	Respondent's partner	REQUEST	Q119		How many employees does/did he or she have?	Wie viele Personen sind / waren beim Ihm / Ihr beschäftigt?
+	EVS_R04_2008_GER_DE_2718	EVS_R04_2008	Respondent's partner	INTRODUCTION	Q120			NUR FRAGEN, WENN (EHE-) PARTNER / (EHE-) PARTNERIN DERZEIT ABHÄNGIG BESCHÄFTIGT IST (Q117=1 ODER 2) ODER WENN (EHE-) PARTNER / (EHE-) PARTNERIN IN DER LETZTEN BERUFLICHEN TÄTIGKEIT ABHÄNGIG BESCHÄFTIGT WAR (Q117A=1)
+EVS_R04_2008_ENG_GB_2687		EVS_R04_2008	Respondent's partner	INSTRUCTION	Q120		ASK IF SPOUSE/PARTNER IS CURRENTLY EMPLOYED (Q117=1 OR 2), OR IF SPOUSE/PARTNER WAS NOT SELF-EMPLOYED IN HIS/HER LAST JOB (Q117A=1)	
+EVS_R04_2008_ENG_GB_2688	EVS_R04_2008_GER_DE_2719	EVS_R04_2008	Respondent's partner	REQUEST	Q120		Does/did he or she have any responsibility for supervising the work of other employees?	Gehört / Gehörte es zu seiner / ihrer beruflichen Tätigkeit, die Arbeit von Personen, die ihm / ihr direkt gegenüber verantwortlich sind /waren, anzuleiten und zu beaufsichtigen?
+EVS_R04_2008_ENG_GB_2694	EVS_R04_2008_GER_DE_2725	EVS_R04_2008	Respondent's partner	REQUEST	Q120a		How many other employees does/did he or she supervise?	Wie viele Personen sind es, deren Arbeit er / sie beaufsichtigt / beaufsichtigte?
+	EVS_R04_2008_GER_DE_2738	EVS_R04_2008	Respondent's partner	INTRODUCTION	Q122			NUR AN BEFRAGTE, DIE MIT EINEM (EHE-) PARTNER / EINER (EHE-) PARTNERIN ZUSAMMENLEBEN (Q97=1 UND 2 ODER Q99=1), SONST WEITER MIT Q123
+EVS_R04_2008_ENG_GB_2707		EVS_R04_2008	Respondent's partner	INSTRUCTION	Q122		ONLY IF  LIVING  WITH A PARTNER (Q97=1 OR 2  OR Q99=1), OTHERWISE GO TO Q123	
+EVS_R04_2008_ENG_GB_2708	EVS_R04_2008_GER_DE_2739	EVS_R04_2008	Respondent's partner	REQUEST	Q122		And your spouse/partner, has he/she experienced any continuous period of unemployment longer than 3 months during the last five years?	Und wie ist das mit Ihrem (Ehe-) Partner / Ihrer (Ehe-) Partnerin: War er/sie während der letzten fünf Jahre einmal länger als drei Monate am Stück arbeitslos?
+EVS_R04_2008_ENG_GB_2721	EVS_R04_2008_GER_DE_2751	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q124		ONLY IF LIVING WITH A PARTNER (Q97=1 OR 2, OR Q99=1), OTHERWISE GO TO Q125	NUR FRAGEN, WENN BEFRAGTER MIT (EHE-) PARTNER / (EHE-) PARTNERIN ZUSAMMENLEBT (Q97=1 ODER 2, ODER Q99=1), SONST WEITER MIT Q125
+EVS_R04_2008_ENG_GB_2723	EVS_R04_2008_GER_DE_2753	EVS_R04_2008	Respondent's partner	INSTRUCTION	Q124		SOCIAL SECURITY REFERS TO SOCIAL WELFARE BENEFITS (MEANS TESTED).	SOZIALHILFE BEDEUTET NICHT ARBEITSLOSENGELD I, ARBEITSUNFÄHIGKEITSRENTEN ODER RENTEN
+EVS_R04_2008_ENG_GB_2724		EVS_R04_2008	Respondent's partner	INSTRUCTION	Q124		IMPORTANT: THIS DOES NOT INCLUDE ENTITLEMENTS TO UNEMPLOYMENT OR DISABILITY BENEFITS OR TO PENSIONS	
+EVS_R04_2008_ENG_GB_2722	EVS_R04_2008_GER_DE_2752	EVS_R04_2008	Respondent's partner	REQUEST	Q124		And your spouse/partner, has he/she been dependent on social security during the last five years at any time?	Und wie ist das mit Ihrem (Ehe-) Partner / Ihrer (Ehe-) Partnerin: Hat er/sie während der letzten fünf Jahre einmal Sozialhilfe oder Arbeitslosengeld II bezogen?
+EVS_R04_2008_ENG_GB_2254	EVS_R04_2008_GER_DE_2262	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q86		Demographics	Demographie
+EVS_R04_2008_ENG_GB_2255	EVS_R04_2008_GER_DE_2263	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q86		Ask all	AN ALLE
+EVS_R04_2008_ENG_GB_2256	EVS_R04_2008_GER_DE_2264	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q86		Sex of respondent	Geschlecht der Zielperson
+EVS_R04_2008_ENG_GB_2259	EVS_R04_2008_GER_DE_2267	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q87		Can you tell me your year of birth, please.	In welchem Jahr sind Sie geboren?
+EVS_R04_2008_ENG_GB_2260	EVS_R04_2008_GER_DE_2268	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q87		19...	19..
+EVS_R04_2008_ENG_GB_2264	EVS_R04_2008_GER_DE_2272	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q88		NATIONALITY IS DEFINED BY RESPONDENT'S PASSPORT(S)	STAATSBÜRGERSCHAFT LAUT PERSONALAUSWEIS ODER REISEPASS!
+EVS_R04_2008_ENG_GB_2263	EVS_R04_2008_GER_DE_2271	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q88		Do you have British nationality?	Besitzen Sie die deutsche Staatsbürgerschaft?
+EVS_R04_2008_ENG_GB_2270	EVS_R04_2008_GER_DE_2278	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q89		NATIONALITY IS DEFINED BY RESPONDENT'S PASSPORT(S)	STAATSBÜRGERSCHAFT LAUT PERSONALAUSWEIS ODER REISEPASS!
+EVS_R04_2008_ENG_GB_2272	EVS_R04_2008_GER_DE_2280	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q89		CODING INSTRUCTION: TO BE CODED INTO PRE-SPECIFIED ISO 3166-1 (2-CHARACTER) CATEGORIES	KODIERANWEISUNG: NACH FESTGELEGTEM ISO 3166-1 (2 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2269	EVS_R04_2008_GER_DE_2277	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q89		What is your nationality?	Welche Staatsbürgerschaft besitzen Sie?
+EVS_R04_2008_ENG_GB_2271	EVS_R04_2008_GER_DE_2279	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q89		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2273	EVS_R04_2008_GER_DE_2281	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q89		Code	Code:
+EVS_R04_2008_ENG_GB_2277	EVS_R04_2008_GER_DE_2285	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q90		Were you born in Great Britain?	Wurden Sie in Deutschland geboren?
+EVS_R04_2008_ENG_GB_2284	EVS_R04_2008_GER_DE_2292	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q91		CODING INSTRUCTION: TO BE CODED INTO PRE-SPECIFIED ISO 3166-1 (2-CHARACTER) CATEGORIES	KODIERANWEISUNG: NACH FESTGELEGTEM ISO 3166-1 (2 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2282	EVS_R04_2008_GER_DE_2290	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q91		In which country were you born?	In welchem Land wurden Sie geboren?
+EVS_R04_2008_ENG_GB_2283	EVS_R04_2008_GER_DE_2291	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q91		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2285	EVS_R04_2008_GER_DE_2293	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q91		Code	Code:
+EVS_R04_2008_ENG_GB_2289	EVS_R04_2008_GER_DE_2297	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q92		Can you tell me in which year you first came to live in Great Britain?	Bitte sagen Sie mir, in welchem Jahr Sie zum ersten Mal nach Deutschland gekommen sind, um hier zu leben?
+EVS_R04_2008_ENG_GB_2290	EVS_R04_2008_GER_DE_2298	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q92		Write in year:	Bitte notieren!
+	EVS_R04_2008_GER_DE_2299	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q92			Jahr:
+EVS_R04_2008_ENG_GB_2320		EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q97		ASK ALL	
+EVS_R04_2008_ENG_GB_2322	EVS_R04_2008_GER_DE_2329	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q97		WIDOWED AND DIVORCED FROM A MARRIAGE OR REGISTERED CIVIL PARTNERSHIP ONLY, NOT FROM COHABITATION	EINE PERSON IST NUR DANN VERWITWET ODER GESCHIEDEN, WENN SIE ZUVOR IN EINER EHE ODER EINGETRAGENEN LEBENSPARTNERSCHAFT GELEBT HAT.
+	EVS_R04_2008_GER_DE_2330	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q97			EINFACHES ZUSAMMENLEBEN IN EHEÄHNLICHER GEMEINSCHAFT REICHT NICHT.
+EVS_R04_2008_ENG_GB_2321	EVS_R04_2008_GER_DE_2328	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q97		What is your current legal marital status?	Welchen Familienstand haben Sie?
+EVS_R04_2008_ENG_GB_2331	EVS_R04_2008_GER_DE_2339	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q98		Did you live together with your partner before your marriage or registered civil partnership?	Haben Sie mit Ihrer Frau / Ihrem Mann schon vor Ihrer Ehe oder eingetragenen Lebenspartnerschaft zusammengelebt?
+	EVS_R04_2008_GER_DE_2345	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q99			WENN VERHEIRATET ODER EINGETRAGENE LEBENSPARTNERSCHAFT (Q97 IST 1 ODER 2): WEITER MIT Q101
+EVS_R04_2008_ENG_GB_2337		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q99		IF MARRIED OR IN A REGISTERED CIVIL PARTNERSHIP (Q97 IS 1 OR 2) NOW GO TO Q101	
+EVS_R04_2008_ENG_GB_2338	EVS_R04_2008_GER_DE_2346	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q99		Do you live with a partner?	Leben Sie mit einem Partner / einer Partnerin zusammen?
+EVS_R04_2008_ENG_GB_2344	EVS_R04_2008_GER_DE_2352	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q100		Are you in a stable relationship?	Haben Sie eine feste Beziehung?
+EVS_R04_2008_ENG_GB_2350	EVS_R04_2008_GER_DE_2358	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q101		IF DIVORCED, SEPARATED, OR WIDOWED (RESPONSE TO Q97 IS CODED 3, 4 OR 5) GO TO Q105	GESCHIEDENE, GETRENNT LEBENDE, VERWITWETE (Q97 IST 3, 4 ODER 5) WEITER MIT Q105 / VERHEIRATETE ODER IN EINGETRAGENER LEBENSPARTNERSCHAFT (Q97=1 ODER 2) FRAGEN:
+EVS_R04_2008_ENG_GB_2351	EVS_R04_2008_GER_DE_2360	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q101		IF MARRIED OR IN A REGISTERED CIVIL PARTNERSHIP (RESPONSE TO Q97 IS CODED 1 OR 2) ASK:	NIE VERHEIRATETE ODER NIE IN EINGETRAGENER LEBENSPARTNERSCHAFT (Q97=6) FRAGEN:
+EVS_R04_2008_ENG_GB_2353		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q101		FOR THOSE NEVER MARRIED OR NEVER IN A REGISTERED CIVIL PARTNERSHIP (RESPONSE TO Q97 IS 6) ASK:	
+EVS_R04_2008_ENG_GB_2352	EVS_R04_2008_GER_DE_2359	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q101		Before your current relationship, were you married or did you live with a partner?	Haben Sie vor Ihrer derzeitigen Beziehung schon einmal mit einem Partner / einer Partnerin zusammengelebt?
+EVS_R04_2008_ENG_GB_2354	EVS_R04_2008_GER_DE_2361	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q101		Did you live with a partner before?	Haben Sie davor mit einem Partner / einer Partnerin zusammengelebt?
+	EVS_R04_2008_GER_DE_2367	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q102			NIE VERHEIRATET ODER NIE IN EINER EINGETRAGENEN LEBENSGEMEINSCHAFT (Q97 IST 6): WEITER MIT Q104 / FRAGE STELLEN AN DIE, DIE VERHEIRATET SIND ODER IN EINGETRAGENER LEBENSPARTNER-SCHAFT LEBEN (Q97=1 ODER 2)
+EVS_R04_2008_ENG_GB_2360		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q102		FOR THOSE NEVER MARRIED OR NEVER IN A REGISTERED CIVIL PARTNERSHIP (Q97 IS 6) GO TO Q104	
+EVS_R04_2008_ENG_GB_2361		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q102		ASK Q102 OF THOSE WHO ARE MARRIED OR IN A REGISTERED CIVIL PARTNERSHIP (Q97=1 OR 2)	
+EVS_R04_2008_ENG_GB_2362	EVS_R04_2008_GER_DE_2368	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q102		Were you married to this (Q101) partner or were you in a registered civil partnership with this partner?	Waren Sie mit diesem Partner / dieser Partnerin verheiratet oder hatten Sie mit  Ihm / Ihr eine eingetragene Lebenspartnerschaft?
+EVS_R04_2008_ENG_GB_2369	EVS_R04_2008_GER_DE_2375	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q103		Did you live together with this (Q101) partner before your marriage or before your registered civil partnership?	Haben Sie mit diesem Partner / dieser Partnerin vor Ihrer Ehe bzw. vor der eingetragenen Lebenspartnerschaft zusammengelebt?
+EVS_R04_2008_ENG_GB_2375	EVS_R04_2008_GER_DE_2381	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q104		Did this relationship end because you separated or because your partner died?	Endete diese Beziehung, weil sie sich getrennt haben oder weil Ihr Partner / Ihre Partnerin gestorben ist?
+EVS_R04_2008_ENG_GB_2381	EVS_R04_2008_GER_DE_2387	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q105		ASK ALL	AN ALLE!
+EVS_R04_2008_ENG_GB_2382	EVS_R04_2008_GER_DE_2388	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q105		How many children do you have?	Wie viele Kinder haben Sie?
+EVS_R04_2008_ENG_GB_2383	EVS_R04_2008_GER_DE_2389	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q105		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2386	EVS_R04_2008_GER_DE_2392	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q106		Of all your children, in which year was your first child born?	In welchem Jahr wurde das erste von allen Ihren Kindern geboren?
+EVS_R04_2008_ENG_GB_2387	EVS_R04_2008_GER_DE_2393	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q106		Please, include any who are no longer living.	Bitte schließen sie dabei auch gestorbene Kinder mit ein.
+EVS_R04_2008_ENG_GB_2388	EVS_R04_2008_GER_DE_2394	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q106		Write in year:	Bitte notieren!
+	EVS_R04_2008_GER_DE_2395	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q106			Jahr:
+EVS_R04_2008_ENG_GB_2396	EVS_R04_2008_GER_DE_2402	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v323		partner, husband or wife	Partner / Partnerin, Ehemann / Ehefrau
+EVS_R04_2008_ENG_GB_2401	EVS_R04_2008_GER_DE_2407	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v324a		children	Kinder
+EVS_R04_2008_ENG_GB_2412	EVS_R04_2008_GER_DE_2416	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v324b		children	Kinder
+EVS_R04_2008_ENG_GB_2416	EVS_R04_2008_GER_DE_2420	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v325a		parents	Eltern
+EVS_R04_2008_ENG_GB_2421	EVS_R04_2008_GER_DE_2425	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v325b		parents	Eltern
+EVS_R04_2008_ENG_GB_2425	EVS_R04_2008_GER_DE_2429	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v326a		grandparents	Großeltern
+EVS_R04_2008_ENG_GB_2430	EVS_R04_2008_GER_DE_2434	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v326b		grandparents	Großeltern
+EVS_R04_2008_ENG_GB_2434	EVS_R04_2008_GER_DE_2438	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v327a		other relatives (brothers, sisters etc)	Andere Verwandte (Brüder, Schwestern, etc.)
+EVS_R04_2008_ENG_GB_2439	EVS_R04_2008_GER_DE_2443	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v327b		other relatives (brothers, sisters etc)	Andere Verwandte (Brüder, Schwestern, etc.)
+EVS_R04_2008_ENG_GB_2443	EVS_R04_2008_GER_DE_2447	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v328a		Others who are not relatives	Andere nicht verwandte Personen
+EVS_R04_2008_ENG_GB_2448	EVS_R04_2008_GER_DE_2452	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	v328b		Others who are not relatives	Andere nicht verwandte Personen
+EVS_R04_2008_ENG_GB_2515	EVS_R04_2008_GER_DE_2516	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q109		If respondent is still at school, ask:	WENN BEFRAGTER NOCH SCHÜLER, DANN FRAGEN:
+EVS_R04_2008_ENG_GB_2513	EVS_R04_2008_GER_DE_2517	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q109		At what age did you complete your full time education, either at school or at an institution of higher education or further education?	Was erwarten Sie: Mit welchem Alter werden Sie die Schule voraussichtlich abschließen?
+EVS_R04_2008_ENG_GB_2514	EVS_R04_2008_GER_DE_2518	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q109		Please exclude apprenticeships.	Alter notieren!
+EVS_R04_2008_ENG_GB_2516	EVS_R04_2008_GER_DE_2515	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q109		At what age do you expect to complete your education?	In welchem Alter haben Sie Ihren höchsten allgemeinen Schul- oder Hochschulabschluss erworben?
+EVS_R04_2008_ENG_GB_2517		EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q109		Write in age:	
+EVS_R04_2008_ENG_GB_2543	EVS_R04_2008_GER_DE_2557	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q111		SHOW CARD 111	LISTE 111 VORLEGEN
+EVS_R04_2008_ENG_GB_2546	EVS_R04_2008_GER_DE_2560	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q111		IF RESPONDENT HAS MORE THAN ONE JOB: ONLY FOR THE MAIN JOB	WENN MEHR ALS EINE BESCHÄFTIGUNG: NUR FÜR HAUPTBERUFLICHE TÄTIGKEIT
+EVS_R04_2008_ENG_GB_2544	EVS_R04_2008_GER_DE_2558	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q111		Are you yourself employed at the moment or not?	Sind Sie gegenwärtig berufstätig oder nicht?
+EVS_R04_2008_ENG_GB_2545	EVS_R04_2008_GER_DE_2559	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q111		Please select from the card the employment status that applies to you.	Bitte wählen Sie von dieser Liste das aus, was auf Sie zutrifft.
+EVS_R04_2008_ENG_GB_2558	EVS_R04_2008_GER_DE_2573	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q111a		In your LAST job were you employed (either full time or part time) or were you self-employed?	Waren Sie in Ihrer letzten beruflichen Tätigkeit abhängig beschäftigt (voll oder teilzeit) oder waren Sie selbständig?
+EVS_R04_2008_ENG_GB_2564	EVS_R04_2008_GER_DE_2579	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q112		IF RESPONDENT IS IN PAID EMPLOYMENT NOW, Q111 = 01-03, ASK:	WENN BEFRAGTER DERZEIT BERUFSTÄTIG IST, Q111=01-03, FRAGEN:
+EVS_R04_2008_ENG_GB_2566	EVS_R04_2008_GER_DE_2581	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q112		IF RESPONDENT HAS BEEN IN PAID EMPLOYMENT BEFORE, Q111A =1,2 ASK:	BEFRAGTER VORHER BERUFSTÄTIG WAR, Q111A=1,2, FRAGEN:
+EVS_R04_2008_ENG_GB_2568	EVS_R04_2008_GER_DE_2583	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q112		IF RESPONDENT HAS OR HAD MORE THAN ONE JOB, ASK FOR HIS/HER OCCUPATION IN THE MAIN JOB	WENN BEFRAGTER MEHR ALS EINE BERUFLICHT TÄTIGKEIT AUSÜBT/AUSÜBTE, NACH DER HAUPTBERUFLICHEN TÄTIGKEIT FRAGEN!
+EVS_R04_2008_ENG_GB_2569	EVS_R04_2008_GER_DE_2584	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q112		WRITE IN AS MUCH DETAIL AS POSSIBLE	SO GENAU WIE MÖGLICH NOTIEREN!
+EVS_R04_2008_ENG_GB_2565	EVS_R04_2008_GER_DE_2580	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q112		What is the name or title of your main job?	Welche berufliche Tätigkeit üben Sie gegenwärtig aus?
+EVS_R04_2008_ENG_GB_2567	EVS_R04_2008_GER_DE_2582	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q112		What was the name or title of your main job?	Welche berufliche Tätigkeit haben Sie ausgeübt?
+EVS_R04_2008_ENG_GB_2570	EVS_R04_2008_GER_DE_2585	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q112		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2572	EVS_R04_2008_GER_DE_2587	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q112a		WRITE IN, IN DETAIL	MÖGLICHST GENAU NOTIEREN!
+EVS_R04_2008_ENG_GB_2574	EVS_R04_2008_GER_DE_2589	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q112a		CODING INSTRUCTION CODE ACCORDING TO ISCO88 (4 DIGITS) AFTER INTERVIEW ON THE BASIS OF Q112 AND Q112A	AUF DER BASIS VON Q112 UND Q112A NACH ISCO88 (4 ZIFFERN) KODIEREN
+EVS_R04_2008_ENG_GB_2571	EVS_R04_2008_GER_DE_2586	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q112a		In your main job, what kind of work do/did you do most of the time?	Art von Tätigkeit üben / übten Sie in Ihrem Hauptberuf die meiste Zeit über aus?
+EVS_R04_2008_ENG_GB_2573	EVS_R04_2008_GER_DE_2588	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q112a		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2575	EVS_R04_2008_GER_DE_2590	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q112a		Code	Code:
+	EVS_R04_2008_GER_DE_2594	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q113			FRAGE STELLEN AN GEGENWÄRTIG SELBSTSTÄNDIGE (Q111=3) ODER IM LETZTEN BERUF SELBSTSTÄNDIG (Q111A=2)
+EVS_R04_2008_ENG_GB_2579		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q113		ASK THOSE WHO ARE CURRENTLY SELF-EMPLOYED (RESPONSE TO Q111=3) OR SELF-EMPLOYED IN THEIR LAST JOB (RESPONSE TO Q111A=2)	
+EVS_R04_2008_ENG_GB_2580	EVS_R04_2008_GER_DE_2595	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q113		How many employees do/did you have?	Wie viele Personen sind / waren bei Ihnen beschäftigt?
+	EVS_R04_2008_GER_DE_2603	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q114			FRAGE STELLEN AN GEGENWÄRTIG ABHÄNGIG BESCHÄFTIGTE (Q111=1 ODER 2) ODER IM LETZTEN BERUF ABHÄNGIG BESCHÄFTIGTE (Q111A=1)
+EVS_R04_2008_ENG_GB_2588		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q114		ASK THOSE WHO ARE CURRENTLY EMPLOYED (RESPONSE TO Q111=1 OR 2), OR NOT SELF-EMPLOYED IN THEIR LAST JOB (RESPONSE TO Q111A=1)	
+EVS_R04_2008_ENG_GB_2589	EVS_R04_2008_GER_DE_2604	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q114		Do/did you have any responsibility for supervising the work of other employees?	Gehört/Gehörte es zu Ihrer beruflichen Tätigkeit, die Arbeit von Personen, die Ihnen gegenüber direkt verantwortlich sind, anzuleiten und zu beaufsichtigen?
+EVS_R04_2008_ENG_GB_2595	EVS_R04_2008_GER_DE_2610	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q114a		How many people do you supervise?	Wie viele Personen sind es, deren Arbeit Sie beaufsichtigen?
+EVS_R04_2008_ENG_GB_2596		EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q114a		 (write in number)	
+EVS_R04_2008_ENG_GB_2701	EVS_R04_2008_GER_DE_2732	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q121		ASK ALL	AN ALLE!
+EVS_R04_2008_ENG_GB_2702	EVS_R04_2008_GER_DE_2733	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q121		During the last five years, have you experienced any continuous period of unemployment longer than 3 months?	Während der letzten fünf Jahre, waren Sie da einmal länger als drei Monate am Stück arbeitslos?
+EVS_R04_2008_ENG_GB_2715	EVS_R04_2008_GER_DE_2746	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q123		SOCIAL SECURITY REFERS TO SOCIAL WELFARE BENEFITS (MEANS TESTED).	SOZIALHILFE BEDEUTET NICHT ARBEITSLOSENGELD I, ARBEITSUNFÄHIGKEITSRENTEN ODER RENTEN
+EVS_R04_2008_ENG_GB_2716		EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q123		IMPORTANT: THIS DOES NOT INCLUDE ENTITLEMENTS TO UNEMPLOYMENT OR DISABILITY BENEFITS OR TO PENSIONS	
+EVS_R04_2008_ENG_GB_2714	EVS_R04_2008_GER_DE_2745	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q123		During the last five years, have you been dependent on social security at any time?	Während der letzten fünf Jahre, haben Sie da einmal Sozialhilfe oder Arbeitslosengeld II bezogen?
+EVS_R04_2008_ENG_GB_2750	EVS_R04_2008_GER_DE_2759	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q125m		ASK ALL	AN ALLE!
+EVS_R04_2008_ENG_GB_2751	EVS_R04_2008_GER_DE_2760	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q125m		SHOW CARD 125	LISTE 125 VORLEGEN
+EVS_R04_2008_ENG_GB_2752	EVS_R04_2008_GER_DE_2761	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q125m		Here is a list of incomes.	Hier ist eine Liste mit Einkommensklassen.
+EVS_R04_2008_ENG_GB_2753	EVS_R04_2008_GER_DE_2762	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q125m		We would like to know in what income group your household is, counting all wages, salaries, pensions and incomes from other sources.	Bitte sagen Sie mir, in welcher Klasse sich Ihr Haushalt befindet, wenn Sie das Nettoeinkommen aller Haushaltsmitglieder zusammenzählen: Löhne, Renten und andere Einkommen nach allen Abzügen für Steuern und Sozialversicherung.
+EVS_R04_2008_ENG_GB_2754	EVS_R04_2008_GER_DE_2763	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q125m		Could you please tell me the letter of the group your household falls into, after taxes and other deductions.	Sie brauchen mir nur nach dieser Liste hier den Buchstaben der Klasse zu sagen, zu der Ihr Haushalt zählt.
+EVS_R04_2008_ENG_GB_2755	EVS_R04_2008_GER_DE_2764	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q125m		Approximate MONTHLY	ungefähr MONATLICH
+EVS_R04_2008_ENG_GB_2927	EVS_R04_2008_GER_DE_2927	EVS_R04_2008	Socio Demographics and Interview Characteristics	INTRODUCTION	Q133		ASK ALL	AN ALLE
+EVS_R04_2008_ENG_GB_2929	EVS_R04_2008_GER_DE_2929	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q133		Write in  MAJOR TOWN OR COUNTY (IF UK) OR COUNTRY	BITTE NOTIEREN!
+EVS_R04_2008_ENG_GB_2931	EVS_R04_2008_GER_DE_2931	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q133		CODING INSTRUCTION: CODE REGION IN NUTS 3	KODIERANWEISUNG:  NUTS 3 CODE FÜR REGION VERGEBEN
+EVS_R04_2008_ENG_GB_2928	EVS_R04_2008_GER_DE_2928	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q133		Where did you live when you were about 14 years old?	Wo haben Sie gelebt, als Sie 14 Jahre alt waren?
+EVS_R04_2008_ENG_GB_2930	EVS_R04_2008_GER_DE_2930	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q133		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2932	EVS_R04_2008_GER_DE_2932	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q133		Code	Code:
+EVS_R04_2008_ENG_GB_2935	EVS_R04_2008_GER_DE_2933	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q135		Size of town (Inhabitants)	Größe der Stadt
+EVS_R04_2008_ENG_GB_2948	EVS_R04_2008_GER_DE_2946	EVS_R04_2008	Socio Demographics and Interview Characteristics	INSTRUCTION	Q136		CODING INSTRUCTION: CODE REGION IN NUTS 3	KODIERANWEISUNG: NUTS 3 CODE FÜR REGION VERGEBEN
+EVS_R04_2008_ENG_GB_2946	EVS_R04_2008_GER_DE_2944	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q136		Region:	Region
+EVS_R04_2008_ENG_GB_2947	EVS_R04_2008_GER_DE_2945	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q136		Write in:	Bitte notieren!
+EVS_R04_2008_ENG_GB_2949	EVS_R04_2008_GER_DE_2947	EVS_R04_2008	Socio Demographics and Interview Characteristics	REQUEST	Q136		Code	Code:
+EVS_R04_2008_ENG_GB_401	EVS_R04_2008_GER_DE_400	EVS_R04_2008	Work	INSTRUCTION	Q14		SHOW CARD 14 - Code all mentioned	LISTE 14 VORLEGEN – ALLES ANKREUZEN, WAS ZUTRIFFT!
+EVS_R04_2008_ENG_GB_402	EVS_R04_2008_GER_DE_401	EVS_R04_2008	Work	REQUEST	Q14		Here are some aspects of a job that people say are important.	Hier steht Verschiedenes über die berufliche Arbeit.
+EVS_R04_2008_ENG_GB_403	EVS_R04_2008_GER_DE_402	EVS_R04_2008	Work	REQUEST	Q14		Please look at them and tell me which ones you personally think are important in a job?	Suchen Sie bitte heraus, was Sie persönlich an einem Beruf für ganz besonders wichtig halten.
+EVS_R04_2008_ENG_GB_404	EVS_R04_2008_GER_DE_403	EVS_R04_2008	Work	REQUEST	Q14a		Good pay	Gute Bezahlung
+EVS_R04_2008_ENG_GB_409	EVS_R04_2008_GER_DE_408	EVS_R04_2008	Work	REQUEST	Q14b		Pleasant people to work with	Nette Arbeitskollegen, Mitarbeiter
+EVS_R04_2008_ENG_GB_414	EVS_R04_2008_GER_DE_413	EVS_R04_2008	Work	REQUEST	Q14c		Not too much pressure	Wenig Stress
+EVS_R04_2008_ENG_GB_419	EVS_R04_2008_GER_DE_418	EVS_R04_2008	Work	REQUEST	Q14d		Good job security	Sicherer Arbeitsplatz
+EVS_R04_2008_ENG_GB_424	EVS_R04_2008_GER_DE_423	EVS_R04_2008	Work	REQUEST	Q14e		Good hours	Günstige Arbeitszeiten
+EVS_R04_2008_ENG_GB_429	EVS_R04_2008_GER_DE_428	EVS_R04_2008	Work	REQUEST	Q14f		An opportunity to use initiative	Die Möglichkeit, eigene Initiative zu entfalten
+EVS_R04_2008_ENG_GB_434	EVS_R04_2008_GER_DE_433	EVS_R04_2008	Work	REQUEST	Q14g		A useful job for society	Ein Beruf, bei dem man etwas Nützliches für die Allgemeinheit tun kann
+EVS_R04_2008_ENG_GB_439	EVS_R04_2008_GER_DE_438	EVS_R04_2008	Work	REQUEST	Q14h		Generous holidays	Großzügige Urlaubsregelung
+EVS_R04_2008_ENG_GB_444	EVS_R04_2008_GER_DE_443	EVS_R04_2008	Work	REQUEST	Q14i		Meeting people	Ein Beruf, bei dem man mit Menschen zusammentrifft
+EVS_R04_2008_ENG_GB_449	EVS_R04_2008_GER_DE_448	EVS_R04_2008	Work	REQUEST	Q14j		A job in which you feel you can achieve something	Ein Beruf, bei dem man das Gefühl hat, etwas zu erreichen, zu leisten
+EVS_R04_2008_ENG_GB_454	EVS_R04_2008_GER_DE_453	EVS_R04_2008	Work	REQUEST	Q14k		A responsible job	Ein Beruf mit Verantwortung
+EVS_R04_2008_ENG_GB_459	EVS_R04_2008_GER_DE_458	EVS_R04_2008	Work	REQUEST	Q14l		A job that is interesting	Interessante Tätigkeit
+EVS_R04_2008_ENG_GB_464	EVS_R04_2008_GER_DE_463	EVS_R04_2008	Work	REQUEST	Q14m		A job that meets one's abilities	Ein Beruf, der den eigenen Fähigkeiten entspricht
+EVS_R04_2008_ENG_GB_469	EVS_R04_2008_GER_DE_468	EVS_R04_2008	Work	REQUEST	Q14n		Learning new skills	Neue Kompetenzen erwerben
+EVS_R04_2008_ENG_GB_474	EVS_R04_2008_GER_DE_473	EVS_R04_2008	Work	REQUEST	Q14o		Family friendly	Familienfreundlichkeit
+EVS_R04_2008_ENG_GB_479	EVS_R04_2008_GER_DE_478	EVS_R04_2008	Work	REQUEST	Q14p		Have a say in important decisions	Mitspracherecht bei wichtigen Entscheidungen
+EVS_R04_2008_ENG_GB_484	EVS_R04_2008_GER_DE_483	EVS_R04_2008	Work	REQUEST	Q14q		People treated equally in the workplace	Die Gleichbehandlung aller Personen am Arbeitsplatz
+EVS_R04_2008_ENG_GB_490	EVS_R04_2008_GER_DE_489	EVS_R04_2008	Work	INSTRUCTION	Q15		INCLUDING SELF EMPLOYED!	AUCH AN SELBSTSTÄNDIGE!
+EVS_R04_2008_ENG_GB_489	EVS_R04_2008_GER_DE_488	EVS_R04_2008	Work	REQUEST	Q15		Are you yourself employed or not?	Sind Sie erwerbstätig oder nicht erwerbstätig?
+EVS_R04_2008_ENG_GB_495	EVS_R04_2008_GER_DE_494	EVS_R04_2008	Work	INSTRUCTION	Q16		Show card 16	LISTE 16 VORLEGEN
+EVS_R04_2008_ENG_GB_496	EVS_R04_2008_GER_DE_495	EVS_R04_2008	Work	REQUEST	Q16		Overall, how satisfied or dissatisfied are you with your job?	Wie zufrieden sind Sie alles in allem genommen mit Ihrer Arbeit?
+EVS_R04_2008_ENG_GB_510	EVS_R04_2008_GER_DE_509	EVS_R04_2008	Work	INSTRUCTION	Q17		SHOW CARD 17	LISTE 17 VORLEGEN
+EVS_R04_2008_ENG_GB_512	EVS_R04_2008_GER_DE_510	EVS_R04_2008	Work	REQUEST	Q17		Please use this card to indicate how much decision-making freedom you feel you have.	Jeder Berufstätige kann ja bei seiner Arbeit manches frei entscheiden, und in anderem ist er abhängig.
+EVS_R04_2008_ENG_GB_511	EVS_R04_2008_GER_DE_511	EVS_R04_2008	Work	REQUEST	Q17		How free are you to make decisions in your job?	Es fragt sich nun, wie frei der einzelne sich fühlt.
+	EVS_R04_2008_GER_DE_512	EVS_R04_2008	Work	REQUEST	Q17			Wie geht es Ihnen selbst?
+EVS_R04_2008_ENG_GB_526	EVS_R04_2008_GER_DE_526	EVS_R04_2008	Work	INTRODUCTION	Q18		ASK ALL	AN ALLE
+EVS_R04_2008_ENG_GB_527	EVS_R04_2008_GER_DE_527	EVS_R04_2008	Work	INSTRUCTION	Q18		SHOW CARD 18	LISTE 18 VORLEGEN
+	EVS_R04_2008_GER_DE_529	EVS_R04_2008	Work	INSTRUCTION	Q18			VORGABEN VORLESEN UND EINE ANTWORT ANKREUZEN
+EVS_R04_2008_ENG_GB_528	EVS_R04_2008_GER_DE_528	EVS_R04_2008	Work	REQUEST	Q18		Using this card how much do you agree or disagree with the following statements?	Wie sehr stimmen Sie den folgenden Aussagen zu?
+EVS_R04_2008_ENG_GB_529	EVS_R04_2008_GER_DE_530	EVS_R04_2008	Work	REQUEST	Q18a		To fully develop your talents, you need to have a job	Man braucht eine Arbeit, um seine Fähigkeiten voll entwickeln zu können
+EVS_R04_2008_ENG_GB_537	EVS_R04_2008_GER_DE_538	EVS_R04_2008	Work	REQUEST	Q18b		It is humiliating to receive money without having to work for it	Es ist demütigend, Geld zu erhalten, ohne daß man dafür arbeiten muß
+EVS_R04_2008_ENG_GB_545	EVS_R04_2008_GER_DE_546	EVS_R04_2008	Work	REQUEST	Q18c		People who don't work turn lazy	Menschen, die nicht arbeiten, werden faul
+EVS_R04_2008_ENG_GB_553	EVS_R04_2008_GER_DE_554	EVS_R04_2008	Work	REQUEST	Q18d		Work is a duty towards society	Arbeit ist eine Verpflichtung gegenüber der Gesellschaft
+EVS_R04_2008_ENG_GB_561	EVS_R04_2008_GER_DE_562	EVS_R04_2008	Work	REQUEST	Q18e		Work should always come first, even if it means less spare time	Die Arbeit sollte immer zuerst kommen, auch wenn das weniger Freizeit bedeutet
+EVS_R04_2008_ENG_GB_601	EVS_R04_2008_GER_DE_603	EVS_R04_2008	Work	INSTRUCTION	Q20		Show card 20	LISTE 20 VORLEGEN
+EVS_R04_2008_ENG_GB_602	EVS_R04_2008_GER_DE_604	EVS_R04_2008	Work	REQUEST	Q20		People have different ideas about following instruction at work.	Die Leute haben ja unterschiedliche Ansichten darüber, wie weit man bei der Arbeit Anweisungen befolgen soll.
+EVS_R04_2008_ENG_GB_603	EVS_R04_2008_GER_DE_605	EVS_R04_2008	Work	REQUEST	Q20		Some say that one should follow instructions of one's superiors even when one does not fully agree with them.	Die einen sagen, daß man die Anordnungen seines Vorgesetzten befolgen soll, auch wenn man damit nicht völlig übereinstimmt.
+EVS_R04_2008_ENG_GB_604	EVS_R04_2008_GER_DE_606	EVS_R04_2008	Work	REQUEST	Q20		Others say that one should follow one's superior's instructions only when one is convinced that they are right.	Die anderen sagen, daß man die Anordnungen seines Vorgesetzten nur dann befolgen soll, wenn man überzeugt ist, daß sie richtig sind.
+EVS_R04_2008_ENG_GB_605	EVS_R04_2008_GER_DE_607	EVS_R04_2008	Work	REQUEST	Q20		Which of these two opinions do you agree with?	Welcher dieser beiden Ansichten stimmen Sie zu?
+EVS_R04_2008_ENG_GB_611	EVS_R04_2008_GER_DE_613	EVS_R04_2008	Work	INSTRUCTION	Q21		SHOW CARD 21 - READ OUT AND CODE ONE ANSWER PER LINE	LISTE 21 VORLEGEN – VORGABEN VORLESEN UND EINE ANTWORT PRO ZEILE ANKREUZEN
+EVS_R04_2008_ENG_GB_612	EVS_R04_2008_GER_DE_614	EVS_R04_2008	Work	REQUEST	Q21		Do you agree or disagree with the following statements?	Sagen Sie mir bitte zu jeder der folgenden Aussagen, ob Sie zustimmen oder nicht zustimmen.
+EVS_R04_2008_ENG_GB_613	EVS_R04_2008_GER_DE_615	EVS_R04_2008	Work	REQUEST	Q21a		When jobs are scarce, employers should give priority to British people over immigrants	Wenn die Arbeitsplätze knapp sind, sollten die Arbeitgeber Deutsche gegenüber Ausländern vorziehen
+EVS_R04_2008_ENG_GB_619	EVS_R04_2008_GER_DE_621	EVS_R04_2008	Work	REQUEST	Q21b		When jobs are scarce, men have more right to a job than women	Wenn die Arbeitsplätze knapp sind, haben Männer eher ein Recht auf Arbeit als Frauen

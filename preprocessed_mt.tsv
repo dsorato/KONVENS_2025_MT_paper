@@ -1,0 +1,269 @@
+survey_item_ID	human_pe	chat_gpt4_pe	baseline_rev
+MTE_GER_0	nun einige fragen dazu wie unsere gesellschaft funktioniert	nun einige fragen zur funktionsweise der gesellschaft	nun kommen einige fragen dazu wie die gesellschaft funktioniert
+MTE_GER_1	ich werde ihnen jetzt einige fragen zum sozialen status stellen den menschen in verschiedenen altersgruppen in der gesellschaft haben	ich werde ihnen jetzt einige fragen zum sozialen status stellen den menschen in verschiedenen altersgruppen in der gesellschaft haben	ich werde ihnen jetzt einige fragen zum sozialen status stellen den menschen verschiedener altersgruppen in der gesellschaft haben
+MTE_GER_2	mit sozialem status meine ich das prestige das soziales ansehen oder die position in der gesellschaft	mit sozialem status meine ich prestige soziales ansehen oder position in der gesellschaft	mit sozialem status meine ich prestige ansehen oder gesellschaftliche stellung
+MTE_GER_3	ich meine nicht die teilnahme an sozialen gruppen oder aktivitäten	ich meine nicht die teilnahme an sozialen gruppen oder aktivitäten	nicht damit gemeint ist die beteiligung an sozialen gruppen oder aktivitäten
+MTE_GER_4	ich bin daran interessiert was sie meinen wie die meisten menschen in land den status von menschen in ihren 20ern menschen in ihren 40ern und menschen über 70 sehen	ich bin daran interessiert wie sie denken dass die meisten menschen in deutschland den status von menschen in ihren 20ern menschen in ihren 40ern und menschen über 70 sehen	mich interessiert wie die meisten menschen in deutschland ihrer meinung nach den status von menschen in ihren 20ern in ihren 40ern und von menschen über 70 jahre sehen
+MTE_GER_5	bitte sagen sie mir anhand dieser karte wie die meisten menschen den status der folgenden gruppen sehen	wenn sie diese karte verwenden teilen sie mir bitte mit wo die meisten personen den status von	bitte sagen sie mir anhand dieser liste wo die meisten menschen den status von menschen in ihren 20ern und von menschen über 70 jahre einstufen würden
+MTE_GER_6	menschen in ihren 20ern	menschen in ihren 20ern sehen	von menschen in ihren 20ern
+MTE_GER_7	menschen über 70	menschen über 70 sehen	von menschen über 70 jahre
+MTE_GER_8	extrem niedriger status	extrem niedriger status	äußerst niedriger status
+MTE_GER_9	extrem hoher status	extrem hoher status	äußerst hoher status
+MTE_GER_10	verweigerung	verweigerung	verweigert
+MTE_GER_11	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_12	bitte sagen sie mir anhand dieser karte wie sie alles in allem menschen in ihren 20ern und menschen über 70 in land heutzutage sehen	berücksichtigen sie bitte alle aspekte und verwenden sie diese karte um zu sagen wie sie menschen in ihren 20ern und menschen über 70 in deutschland heute sehen	alles in allem wie sehen sie heute menschen in ihren 20ern und menschen über 70 jahre in deutschland bitte sagen sie es mir anhand dieser liste
+MTE_GER_13	ich sehe menschen in ihren 20ern und über 70 als	ich sehe die in ihren 20ern und über 70 als	ich sehe diejenigen in ihren 20ern und über 70 jahre
+MTE_GER_14	eine gruppe	eine gruppe	als eine gruppe
+MTE_GER_15	zwei separate gruppen die teil derselben gemeinschaft sind	zwei separate gruppen die teil derselben gemeinschaft sind	als zwei getrennte gruppen die teil derselben gemeinschaft sind
+MTE_GER_16	zwei separate gruppen die nicht teil derselben gemeinschaft sind	zwei separate gruppen die nicht teil derselben gemeinschaft sind	als zwei getrennte gruppen die nicht teil derselben gemeinschaft sind
+MTE_GER_17	nur als einzelpersonen und nicht als gruppen	nur als einzelpersonen und nicht als gruppen	nur als individuen und nicht als gruppen
+MTE_GER_18	verweigerung	verweigerung	verweigert
+MTE_GER_19	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_20	konnten sie in den letzten 12 monaten also seit monat jahr aus einem der auf dieser karte aufgeführten gründe nicht die medizinische beratung oder die behandlung erhalten die sie benötigten	konnten sie in den letzten 12 monaten also seit monat jahr aus einem der auf dieser karte aufgeführten gründe keine medizinische beratung oder die behandlung erhalten die sie benötigten	in den letzten 12 monaten d h seit monat jahr ist es jemals vorgekommen dass es ihnen aus einem oder mehreren der auf dieser liste aufgeführten gründe nicht möglich war eine ärztliche beratung oder behandlung in anspruch zu nehmen
+MTE_GER_21	interviewer beziehen sie sich auf denselben monat wie das interview jedoch auf das vorjahr	interviewer beziehen sie sich auf denselben monat wie das interview jedoch auf das vorjahr	interviewer bitte beziehen sie sich auf den aktuellen monat in dem das interview stattfindet allerdings im vorjahr
+MTE_GER_22	wenn das interview beispielsweise im september 2014 stattfindet verwenden sie september 2013	wenn das interview beispielsweise im september 2014 stattfindet verwenden sie september 2013	beispiel falls das interview im september 2014 stattfindet verwenden sie september 2013
+MTE_GER_23	konnte nicht dafür bezahlen	konnte nicht dafür bezahlen	konnte ich nicht bezahlen
+MTE_GER_24	konnte mir nicht von der arbeit frei nehmen	konnte keine zeit von der arbeit freinehmen	konnte mir dafür nicht von der arbeit freinehmen
+MTE_GER_25	hatte andere verpflichtungen	hatte andere verpflichtungen	hatte andere verpflichtungen
+MTE_GER_26	die behandlung die sie brauchten war weder dort wo sie leben noch in der nähe verfügbar	die benötigte behandlung war an ihrem wohnort oder in der nähe nicht verfügbar	die behandlung die ich benötigte wurde in meinem wohnort oder in der näheren umgebung nicht angeboten
+MTE_GER_27	die warteliste war zu lang	die warteliste war zu lang	die warteliste war zu lang
+MTE_GER_28	es waren keine termine verfügbar	es waren keine termine verfügbar	es gab keine freien termine
+MTE_GER_29	anderer grund	anderer grund	anderer grund
+MTE_GER_30	ja	ja	ja
+MTE_GER_31	nein	nein	nein
+MTE_GER_32	verweigerung	verweigerung	verweigert
+MTE_GER_33	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_34	ich werde sie jetzt zu den auswirkungen des sozialwesens auf verschiedene lebensbereiche in land befragen	nun werde ich ihnen fragen zu den auswirkungen von sozialleistungen und dienstleistungen auf verschiedene lebensbereiche in deutschland stellen	ich werde sie jetzt nach den auswirkungen von sozialleistungen und sozialen dienstleistungen auf verschiedene lebensbereiche in deutschland fragen
+MTE_GER_35	mit sozialwesen meinen wir dinge wie die gesundheitsversorgung renten und sozialleistungen	bei sozialleistungen und dienstleistungen denken wir an dinge wie gesundheitsversorgung renten und soziale sicherheit	mit sozialleistungen und sozialen dienstleistungen meinen wir dinge wie gesundheitsversorgung renten sowie sozialversicherungsleistungen
+MTE_GER_36	bitte sagen sie mir anhand dieser karte inwieweit sie zustimmen oder nicht zustimmen dass das sozialwesen in land	bitte teilen sie mir anhand dieser karte mit inwieweit sie den folgenden aussagen über sozialleistungen und dienstleistungen in deutschland zustimmen oder nicht zustimmen	bitte sagen sie mir anhand dieser liste inwieweit sie zustimmen bzw nicht zustimmen dass sozialleistungen und soziale dienstleistungen in deutschland
+MTE_GER_37	vorlesen	vorlesen	vorlesen
+MTE_GER_38	die wirtschaft zu stark belastet	sie belasten die wirtschaft zu stark	eine zu große belastung für die wirtschaft sind
+MTE_GER_39	zu einer gleichberechtigten gesellschaft führt	sie führen zu einer gleichberechtigteren gesellschaft	zu mehr gleichheit in der gesellschaft führen
+MTE_GER_40	stimme stark zu	stimme stark zu	stimme voll und ganz zu
+MTE_GER_41	stimme zu	stimme zu	stimme zu
+MTE_GER_42	weder noch	weder zustimmen noch ablehnen	stimme weder zu noch nicht zu
+MTE_GER_43	stimme nicht zu	stimme nicht zu	stimme nicht zu
+MTE_GER_44	stimme überhaupt nicht zu	stimme stark nicht zu	stimme überhaupt nicht zu
+MTE_GER_45	verweigerung	verweigerung	verweigert
+MTE_GER_46	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_47	stellen sie sich eine person in ihren 50ern vor die arbeitslos ist und arbeit sucht	stellen sie sich jemanden in den fünfzigern vor der arbeitslos ist und arbeit sucht	stellen sie sich eine person in ihren 50ern vor die arbeitslos ist und arbeit sucht
+MTE_GER_48	diese person hat früher gearbeitet aber ihren job verloren und erhält jetzt arbeitslosengeld	diese person hat früher gearbeitet aber ihren job verloren und erhält jetzt arbeitslosengeld	diese person hat zuvor gearbeitet hat jedoch ihre arbeit verloren und erhält jetzt arbeitslosengeld
+MTE_GER_49	was sollte ihrer meinung nach mit dem arbeitslosengeld dieser person geschehen wenn	was sollte ihrer meinung nach mit dem arbeitslosengeld dieser person geschehen wenn	was sollte ihrer meinung nach mit dem arbeitslosengeld dieser person passieren wenn
+MTE_GER_50	vorlesen	vorlesen	vorlesen
+MTE_GER_51	sie einen job ablehnt weil sie in diesem weniger geld verdient als zuvor	sie einen job ablehnen weil er deutlich weniger bezahlt als zuvor	sie eine arbeit ablehnt weil sie dabei deutlich weniger verdient als zuvor
+MTE_GER_52	sie sich weigert als gegenleistung für das arbeitslosengeld regelmäßig unbezahlte arbeit in der gegend zu verrichten in der sie lebt	sie sich weigern regelmäßig unbezahlte arbeit in dem gebiet zu verrichten in dem sie für das arbeitslosengeld lebt	sie sich weigert als gegenleistung für arbeitslosengeld regelmäßig eine unbezahlte arbeitstätigkeit in der gegend auszuüben in der sie lebt
+MTE_GER_53	diese person sollte ihr gesamtes arbeitslosengeld verlieren	diese person sollte ihr gesamtes arbeitslosengeld verlieren	diese person sollte ihr arbeitslosengeld komplett verlieren
+MTE_GER_54	diese person sollte ungefähr die hälfte ihres arbeitslosengeldes verlieren	diese person sollte ungefähr die hälfte ihres arbeitslosengeldes verlieren	diese person sollte ihr arbeitslosengeld etwa zur hälfte verlieren
+MTE_GER_55	diese person sollte einen kleinen teil ihres arbeitslosengeldes verlieren	diese person sollte einen kleinen teil ihres arbeitslosengeldes verlieren	diese person sollte ihr arbeitslosengeld zu einem kleinen teil verlieren
+MTE_GER_56	diese person sollte ihr gesamtes arbeitslosengeld behalten dürfen	diese person sollte in der lage sein ihr gesamtes arbeitslosengeld zu behalten	diese person sollte ihr arbeitslosengeld weiterhin in vollem umfang erhalten können
+MTE_GER_57	verweigerung	verweigerung	verweigert
+MTE_GER_58	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_59	bitte schauen sie sich die folgende liste mit organisationen denen man freiwillig angehören kann genau an und sagen sie mir welchen davon sie angehören	bitte schauen sie sich die folgende liste der freiwilligen organisationen und aktivitäten genau an und sagen sie welchen sie gegebenenfalls angehören	bitte sehen sie sich die folgende liste von ehrenamtlichen organisationen genau an und sagen sie mir welchen wenn überhaupt sie angehören
+MTE_GER_60	alle genannten markieren	kreuzen sie alle zutreffenden an	alle antworten erfassen
+MTE_GER_61	religiöse oder kirchliche organisationen	religiöse oder kirchliche organisationen	religiöse oder kirchliche organisationen
+MTE_GER_62	gewerkschaften	gewerkschaften	gewerkschaften
+MTE_GER_63	berufsverbände	berufsverbände	berufsverbände
+MTE_GER_64	keiner	keine	keiner
+MTE_GER_65	verweigerung	verweigerung	verweigert
+MTE_GER_66	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_67	ich werde sie fragen wie oft sie bestimmte dinge tun	ich werde fragen wie oft sie bestimmte dinge tun	ich werde sie jetzt fragen wie häufig sie bestimmte dinge tun
+MTE_GER_68	bitte geben sie für jede aktivität an ob sie sie jede oder fast jede woche ein oder zweimal im monat nur einige male im jahr oder überhaupt nicht tun	würden sie für jede aktivität sagen dass sie sie jede woche oder fast jede woche ein oder zweimal im monat nur einige male im jahr oder überhaupt nicht durchführen	bitte sagen sie mir für jede der folgenden aktivitäten ob sie diese jede woche oder beinahe jede woche ein oder zweimal pro monat nur wenige male pro jahr oder überhaupt nicht tun
+MTE_GER_69	interviewer nicht zutreffend markieren wenn der befragte nicht berufstätig ist nicht zur kirche geht oder keinem verein angehört	interviewer code nicht zutreffend wenn der befragte nicht an arbeit kirche oder club beteiligt ist	interviewer nicht zutreffend auswählen wenn die befragte person nicht beruflich kirchlich oder im verein tätig ist
+MTE_GER_70	zeit mit freunden verbringen	zeit mit freunden verbringen	zeit mit freunden verbringen
+MTE_GER_71	zeit mit kollegen von der arbeit außerhalb des arbeitsplatzes verbringen	zeit mit kollegen von der arbeit oder ihrem beruf außerhalb des arbeitsplatzes verbringen	zeit mit arbeits oder berufskollegen außerhalb des arbeitsplatzes verbringen
+MTE_GER_72	zeit mit menschen in ihrer kirche moschee oder synagoge verbringen	zeit mit menschen in ihrer kirche moschee oder synagoge verbringen	zeit mit menschen in ihrer kirche moschee oder synagoge verbringen
+MTE_GER_73	jede woche	jede woche	jede woche
+MTE_GER_74	ein oder zweimal im monat	ein oder zweimal im monat	ein oder zweimal pro monat
+MTE_GER_75	ein paar mal im jahr	ein paar mal im jahr	wenige male pro jahr
+MTE_GER_76	überhaupt nicht	überhaupt nicht	überhaupt nicht
+MTE_GER_77	verweigerung	verweigerung	verweigert
+MTE_GER_78	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_79	denken sie im allgemeinen dass ihre kirche die kirchen in ihrem land angemessene antworten auf	denken sie im allgemeinen dass ihre kirche die kirchen in ihrem land angemessene antworten auf	ganz allgemein betrachtet denken sie dass ihre kirchedie kirchen in ihrem land angemessene antworten gibtgeben auf
+MTE_GER_80	vorlesen und für jedes item eine antwort markieren	lesen sie jeweils eine antwort vor und codieren sie sie	vorlesen und eine antwort pro aussage erfassen
+MTE_GER_81	nb falls befragte einer kirche oder einer religionsgemeinschaft angehören fragen sie ihre kirche religionsgemeinschaft	nb wenn sie einer kirche oder einer religionsgemeinschaft angehören fragen sie ihre kirche religionsgemeinschaft	hinweis bei personen die einer kirche angehören die formulierung ihre kirche verwenden
+MTE_GER_82	falls befragte keiner kirche oder religionsgemeinschaft angehören fragen sie die kirchen	für diejenigen die keiner kirche oder religionsgemeinschaft angehören fragen sie die kirchen	bei personen die keiner kirche angehören die formulierung die kirchen verwenden
+MTE_GER_83	die moralischen probleme und bedürfnisse des einzelnen	die moralischen probleme und bedürfnisse des einzelnen	die moralischen probleme und bedürfnisse des einzelnen
+MTE_GER_84	die probleme des familienlebens	die probleme des familienlebens	die probleme des familienlebens
+MTE_GER_85	ja	ja	ja
+MTE_GER_86	nein	nein	nein
+MTE_GER_87	verweigerung	verweigerung	verweigert
+MTE_GER_88	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_89	an welche der folgenden dinge glauben sie wenn überhaupt	an welche der folgenden möglichkeiten glauben sie wenn überhaupt	wenn überhaupt an wen oder was von dem folgenden glauben sie
+MTE_GER_90	vorlesen und für jedes item eine antwort markieren	lesen sie jeweils eine antwort vor und codieren sie sie	vorlesen und eine antwort pro aussage erfassen
+MTE_GER_91	gott	gott	gott
+MTE_GER_92	sünde	sünde	sünde
+MTE_GER_93	ja	ja	ja
+MTE_GER_94	nein	nein	nein
+MTE_GER_95	verweigerung	verweigerung	verweigert
+MTE_GER_96	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_97	welche dieser beiden aussagen kommt ihrer eigenen meinung am nächsten	welche dieser beiden aussagen kommt ihrer eigenen meinung am nächsten	welche dieser beiden aussagen kommt ihrer eigenen meinung am nächsten
+MTE_GER_98	a ich finde dass sowohl freiheit als auch gleichheit wichtig sind	a ich finde dass sowohl freiheit als auch gleichheit wichtig sind	a ich finde dass sowohl freiheit als auch gleichheit wichtig sind
+MTE_GER_99	aber wenn ich mich für das eine oder das andere entscheiden müsste würde ich die persönliche freiheit für wichtiger halten das heißt dass jeder in freiheit leben und sich ungehindert entwickeln kann	aber wenn ich mich für das eine oder das andere entscheiden müsste würde ich die persönliche freiheit für wichtiger halten das heißt jeder kann in freiheit leben und sich ungehindert entwickeln	wenn ich mich jedoch für eines von beiden entscheiden müsste würde ich die persönliche freiheit als wichtiger ansehen d h dass jede person in freiheit leben und sich ungehindert entwickeln kann
+MTE_GER_100	b natürlich sind sowohl freiheit als auch gleichheit wichtig	b natürlich sind sowohl freiheit als auch gleichheit wichtig	b sicherlich sind sowohl freiheit als auch gleichheit wichtig
+MTE_GER_101	aber wenn ich mich für das eine oder das andere entscheiden müsste würde ich gleichheit für wichtiger halten das heißt dass niemand unterprivilegiert ist und dass die sozialen klassenunterschiede nicht so stark sind	aber wenn ich mich für das eine oder das andere entscheiden müsste würde ich gleichheit für wichtiger halten das heißt dass niemand unterprivilegiert ist und dass die sozialen klassenunterschiede nicht so stark sind	wenn ich mich jedoch für eines von beiden entscheiden müsste würde ich gleichheit als wichtiger ansehen d h dass niemand benachteiligt ist und soziale klassenunterschiede nicht so stark ausgeprägt sind
+MTE_GER_102	stimme aussage a zu	stimmen sie aussage a zu	stimme aussage a zu
+MTE_GER_103	stimme aussage b zu	stimmen sie aussage b zu	stimme aussage b zu
+MTE_GER_104	stimme keiner aussage zu	weder noch	weder noch
+MTE_GER_105	verweigerung	verweigerung	verweigert
+MTE_GER_106	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_107	nun möchte ich sie bitten dass sie mir ihre ansichten zu verschiedenen themen mitteilen	jetzt möchte ich dass sie mir ihre ansichten zu verschiedenen themen mitteilen	jetzt möchte ich sie bitten mir ihre ansichten zu verschiedenen themen zu sagen
+MTE_GER_108	wie würden sie ihre ansichten auf dieser skala einordnen	wie würden sie ihre ansichten auf dieser skala einordnen	wo würden sie ihre ansichten auf dieser skala einstufen
+MTE_GER_109	der einzelne sollte mehr verantwortung dafür übernehmen für sich selbst zu sorgen	der einzelne sollte mehr verantwortung für sich selbst übernehmen	der einzelne sollte mehr verantwortung übernehmen für sich selbst zu sorgen
+MTE_GER_110	der staat sollte mehr verantwortung dafür übernehmen sicherzustellen dass alle versorgt werden	der staat sollte mehr verantwortung übernehmen um sicherzustellen dass alle versorgt werden	der staat sollte mehr verantwortung übernehmen um sicherzustellen dass alle versorgt sind
+MTE_GER_111	verweigerung	verweigerung	verweigert
+MTE_GER_112	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_113	auf dieser karte stehen drei grundlegende einstellungen gegenüber der gesellschaft in der wir leben	auf dieser karte stehen drei grundlegende einstellungen gegenüber der gesellschaft in der wir leben	auf dieser liste sind drei grundlegende arten von einstellungen gegenüber der gesellschaft in der wir leben aufgeführt
+MTE_GER_114	bitte wählen sie diejenige aus die ihre eigene meinung am besten beschreibt	bitte wählen sie diejenige aus die ihre eigene meinung am besten beschreibt	bitte wählen sie diejenige aus die ihre meinung am besten beschreibt
+MTE_GER_115	nur eine antwort markieren	nur eine antwort codieren	nur eine antwort erfassen
+MTE_GER_116	die gesamte organisation unserer gesellschaft muss durch revolutionäres handeln radikal verändert werden	die gesamte organisation unserer gesellschaft muss durch revolutionäres handeln radikal verändert werden	die gesamte art und weise wie unsere gesellschaft organisiert ist muss durch revolutionäres handeln radikal geändert werden
+MTE_GER_117	unsere gesellschaft muss durch reformen schrittweise verbessert werden	unsere gesellschaft muss durch reformen schrittweise verbessert werden	unsere gesellschaft muss schrittweise durch reformen verbessert werden
+MTE_GER_118	unsere heutige gesellschaft muss tapfer gegen alle aufrührerischen kräfte verteidigt werden	unsere heutige gesellschaft muss entschlossen gegen alle subversiven kräfte verteidigt werden	unsere gegenwärtige gesellschaft muss mutig gegen alle subversiven kräfte verteidigt werden
+MTE_GER_119	verweigerung	verweigerung	verweigert
+MTE_GER_120	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_121	bitte sagen sie mir anhand dieser karte inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen	bitte geben sie anhand dieser karte an inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen	bitte sagen sie mir anhand dieser liste inwieweit sie der folgenden aussage zustimmen bzw nicht zustimmen
+MTE_GER_122	aussage vorlesen und antwort im raster notieren	lesen sie die aussage vor und codieren sie im raster	aussage vorlesen und in antwortmatrix erfassen
+MTE_GER_123	große einkommensunterschiede sind akzeptabel um unterschiede in fähigkeiten und anstrengungen angemessen zu belohnen	große einkommensunterschiede sind akzeptabel um unterschiede in talenten und anstrengungen angemessen zu belohnen	große einkommensunterschiede zwischen personen sind akzeptabel um unterschiede in begabungen und anstrengungen richtig belohnen zu können
+MTE_GER_124	stimme stark zu	stimme stark zu	stimme voll und ganz zu
+MTE_GER_125	stimme zu	stimme zu	stimme zu
+MTE_GER_126	weder noch	weder noch	stimme weder zu noch nicht zu
+MTE_GER_127	stimme nicht zu	stimme nicht zu	stimme nicht zu
+MTE_GER_128	stimme überhaupt nicht zu	stimme stark nicht zu	stimme überhaupt nicht zu
+MTE_GER_129	verweigerung	verweigerung	verweigert
+MTE_GER_130	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_131	um ein guter bürger zu sein wie wichtig ist es für eine person	wie wichtig ist es ihrer meinung nach für eine person um ein guter bürger zu sein	um ein guter bürger zu sein wie wichtig ist es ihrer meinung nach dass eine person
+MTE_GER_132	vorlesen	vorlesen	vorlesen
+MTE_GER_133	menschen zu unterstützen denen es schlechter geht als einem selbst	menschen zu unterstützen denen es schlechter geht als ihnen selbst	menschen unterstützt denen es schlechter geht als ihr selbst
+MTE_GER_134	in der politik aktiv zu sein	in der politik aktiv zu sein	sich aktiv politisch engagiert
+MTE_GER_135	extrem unwichtig	extrem unwichtig	äußerst unwichtig
+MTE_GER_136	extrem wichtig	extrem wichtig	äußerst wichtig
+MTE_GER_137	verweigerung	verweigerung	verweigert
+MTE_GER_138	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_139	jetzt möchte ich sie bitten sich diese karte anzusehen	jetzt möchte ich dass sie sich diese karte ansehen	jetzt möchte ich sie bitten sich diese liste anzusehen
+MTE_GER_140	ich werde ihnen verschiedene arten politischer maßnahmen vorlesen die menschen ergreifen können und ich möchte sie bitten dass sie mir für jede einzelne sagen ob sie das bereits getan haben ob sie es tun würden oder ob sie das unter keinen umständen tun würden	ich werde verschiedene formen politischer maßnahmen vorlesen die menschen ergreifen können und ich möchte dass sie mir für jede einzelne sagen ob sie tatsächlich eines dieser dinge getan haben ob sie es tun könnten oder es unter keinen umständen tun würden	ich werde ihnen unterschiedliche formen des politischen handelns vorlesen die menschen nutzen können ich möchte sie bitten mir jeweils zu sagen ob sie diese dinge tatsächlich schon einmal getan haben ob sie diese dinge möglicherweise tun würden oder ob sie diese dinge niemals und unter keinen umständen tun würden
+MTE_GER_141	eine petition unterzeichnen	eine petition unterschreiben	eine petition unterschreiben
+MTE_GER_142	gebäude oder fabriken besetzen	gebäude oder fabriken besetzen	gebäude oder fabriken besetzen
+MTE_GER_143	habe ich getan	getan haben	habe ich getan
+MTE_GER_144	würde ich tun	könnte tun	würde ich möglicherweise tun
+MTE_GER_145	würde ich niemals tun	würde es nie tun	würde ich niemals tun
+MTE_GER_146	verweigerung	verweigerung	verweigert
+MTE_GER_147	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_148	würden sie mir ihre meinung zu jeder der folgenden aussagen sagen	können sie mir ihre meinung zu jeder der folgenden aussagen sagen	bitte sagen sie mir ihre meinung zu jeder der folgenden aussagen
+MTE_GER_149	wenn jemand informationen hat die helfen können dass gerechtigkeit getan wird sollte er diese generell mit den behörden teilen	wenn jemand informationen hat die helfen können gerechtigkeit zu üben sollte er oder sie diese im allgemeinen den behörden geben	wenn jemand informationen besitzt die dazu beitragen könnten gerechtigkeit herzustellen sollte er oder sie diese in der regel an die behörden weitergeben
+MTE_GER_150	die menschen sollten sich um ihre eigenen angelegenheiten kümmern und nicht um die belange anderer	die menschen sollten sich an ihre eigenen angelegenheiten halten und nicht zu viel interesse an dem zeigen was andere sagen oder tun	menschen sollten sich um ihre eigenen angelegenheiten kümmern und sich nicht zu sehr für das interessieren was andere sagen oder tun
+MTE_GER_151	stimme stark zu	stimme stark zu	stimme voll und ganz zu
+MTE_GER_152	stimme zu	stimme zu	stimme zu
+MTE_GER_153	weder noch	weder zustimmen noch ablehnen	stimme weder zu noch nicht zu
+MTE_GER_154	stimme nicht zu	stimme nicht zu	stimme nicht zu
+MTE_GER_155	stimme überhaupt nicht zu	stimme stark nicht zu	stimme überhaupt nicht zu
+MTE_GER_156	verweigerung	verweigerung	verweigert
+MTE_GER_157	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_158	nun einige fragen zu dingen die sie möglicherweise getan haben	nun einige fragen zu dingen die sie möglicherweise getan haben	jetzt kommen einige fragen zu bestimmten dingen die sie möglicherweise getan haben
+MTE_GER_159	bitte sagen sie mir anhand dieser karte wie oft sie diese dinge in den letzten fünf jahren getan haben	bitte sagen sie mir anhand dieser karte wie oft sie diese dinge in den letzten fünf jahren getan haben	bitte sagen sie mir anhand dieser liste wie oft sie jedes der folgenden dinge in den letzten fünf jahren getan haben
+MTE_GER_160	wie oft haben sie	wie oft haben sie	wie oft haben sie
+MTE_GER_161	vorlesen	vorlesen	vorlesen
+MTE_GER_162	einen zu hohen oder falschen versicherungsanspruch geltend gemacht	einen übertriebenen oder falschen versicherungsanspruch geltend gemacht	übertriebene oder falsche versicherungsansprüche gestellt
+MTE_GER_163	einen verkehrsdelikt wie geschwindigkeitsüberschreitung oder überqueren einer roten ampel begangen	eine verkehrsübertretung wie geschwindigkeitsüberschreitung oder überqueren einer roten ampel begangen	die verkehrsregeln verletzt zb durch zu schnelles fahren oder das überfahren einer roten ampel
+MTE_GER_164	nie	noch nie	nie
+MTE_GER_165	einmal	einmal	einmal
+MTE_GER_166	zweimal	zweimal	zweimal
+MTE_GER_167	3 oder 4 mal	3 oder 4 mal	drei oder viermal
+MTE_GER_168	5 mal oder häufiger	5 mal oder mehr	fünfmal oder mehr
+MTE_GER_169	verweigerung	verweigerung	verweigert
+MTE_GER_170	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_171	angenommen zwei personen aus unterschiedlichen ethnischen gruppen erscheinen vor gericht und werden wegen eines identischen verbrechens angeklagt das sie nicht begangen haben	nehmen wir nun an zwei personen unterschiedlicher rassen oder ethnischer gruppen erscheinen vor gericht und werden wegen eines identischen verbrechens angeklagt das sie nicht begangen haben	stellen sie sich vor dass zwei personen die unterschiedlichen ethnischen gruppen angehören wegen der gleichen straftat vor gericht angeklagt sind die sie jedoch nicht begangen haben
+MTE_GER_172	wählen sie eine antwort von dieser karte um anzugeben wer ihrer meinung nach mit größerer wahrscheinlichkeit für schuldig befunden wird	wählen sie eine antwort von dieser karte um zu zeigen wer ihrer meinung nach mit größerer wahrscheinlichkeit für schuldig befunden wird	wählen sie auf dieser liste aus wer ihrer meinung nach eher schuldig gesprochen wird
+MTE_GER_173	die person die einer anderen ethnischen gruppe angehört als die meisten menschen in land wird mit größerer wahrscheinlichkeit für schuldig befunden	personen aus einer anderen rasse oder ethnischen gruppe als die meisten deutschen werden mit größerer wahrscheinlichkeit für schuldig befunden	die person die einer anderen ethnischen gruppe als die meisten menschen in deutschland angehört wird eher schuldig gesprochen
+MTE_GER_174	die person die derselben ethnischen gruppe angehört wie die meisten menschen in land wird mit größerer wahrscheinlichkeit für schuldig befunden	es ist wahrscheinlicher dass die person derselben rasse oder ethnischen gruppe wie die meisten deutschen für schuldig befunden wird	die person die derselben ethnischen gruppe wie die meisten menschen in deutschland angehört wird eher schuldig gesprochen
+MTE_GER_175	die wahrscheinlichkeit für schuldig befunden zu werden ist für beide gleich groß	beide haben die gleiche chance für schuldig befunden zu werden	für beide ist es gleich wahrscheinlich schuldig gesprochen zu werden
+MTE_GER_176	verweigerung	verweigerung	verweigert
+MTE_GER_177	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_178	schauen sie sich jetzt bitte diese karte an	schauen sie sich jetzt diese karte an	bitte sehen sie sich diese liste an
+MTE_GER_179	wenn sie und ihr mann ihre frau ihr partner entscheidungen über folgendes treffen wer setzt sich im allgemeinen durch bezüglich	wenn sie und ihr mann ihre frau ihr partner entscheidungen über folgendes treffen wer setzt sich im allgemeinen durch	wer setzt sich in der regel durch wenn sie und ihr ehemann bzw ihr partner oder ihre ehefrau bzw ihre partnerin darüber entscheiden
+MTE_GER_180	vorlesen	vorlesen	vorlesen
+MTE_GER_181	gelegentlicher teurerer einkäufe für den haushalt	gelegentlich teurere einkäufe für den haushalt	gelegentlich teurere anschaffungen für den haushalt zu tätigen
+MTE_GER_182	immer ich	immer ich	immer ich
+MTE_GER_183	normalerweise ich	normalerweise ich	gewöhnlich ich
+MTE_GER_184	etwa beide gleich häufig oder beide gemeinsam	etwa gleich oder beide zusammen	etwa beide gleichermaßen oder beide zusammen
+MTE_GER_185	normalerweise meine ehepartnerin partnerin	normalerweise mein ehepartner partner	gewöhnlich mein ehemann bzw partner oder meine ehefrau bzw partnerin
+MTE_GER_186	immer meine ehepartnerin partnerin	immer mein ehepartner partner	immer mein ehepartner bzw partner oder meine ehepartnerin bzw partnerin
+MTE_GER_187	immer oder normalerweise jemand anderes	immer oder normalerweise jemand anderes	immer oder gewöhnlich jemand anderes
+MTE_GER_188	verweigerung	verweigerung	verweigert
+MTE_GER_189	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_190	hier ist eine liste von dingen die manche leute für wichtig für eine erfolgreiche ehe halten	hier ist eine liste von dingen die manche leute für eine erfolgreiche ehe wichtig finden	hier ist eine liste mit punkten die nach meinung einiger menschen eine erfolgreiche ehe ausmachen
+MTE_GER_191	bitte sagen sie mir für jeden aspekt ob sie der meinung sind dass er für eine erfolgreiche ehe sehr wichtig ziemlich wichtig oder nicht sehr wichtig ist	bitte sagen sie mir für jeden punkt ob sie denken dass er für eine erfolgreiche ehe sehr wichtig eher wichtig oder nicht sehr wichtig ist	bitte sagen sie mir zu jedem einzelnen punkt ob dieser ihrer meinung nach für eine erfolgreiche ehe sehr wichtig ist eher wichtig ist oder nicht sehr wichtig ist
+MTE_GER_192	jedes item vorlesen	jeden punkt vorlesen	lesen sie jeden punkt vor
+MTE_GER_193	treue	treue	treue
+MTE_GER_194	ein angemessenes einkommen	ein ausreichendes einkommen	ein angemessenes einkommen
+MTE_GER_195	bereit sein die probleme zu diskutieren die zwischen mann und frau auftreten	bereitschaft die probleme zu besprechen die zwischen ehemann und ehefrau auftreten	die bereitschaft über probleme zu sprechen die zwischen ehemann und ehefrau entstehen
+MTE_GER_196	sehr	sehr wichtig	sehr wichtig
+MTE_GER_197	eher	eher wichtig	eher wichtig
+MTE_GER_198	nicht	nicht sehr wichtig	nicht wichtig
+MTE_GER_199	verweigerung	verweigerung	verweigert
+MTE_GER_200	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_201	wie lange haben sie einschließlich ihrer mutterschafts oder elternzeit insgesamt vollzeit zu hause verbracht weil sie sich um ihr kind ihre kinder gekümmert haben	einschließlich aller zeiten die sie im mutterschafts oder elternurlaub verbracht haben wie lange haben sie insgesamt vollzeit zu hause verbracht weil sie sich um ihr kindihre kinder gekümmert haben	wenn sie mutterschutz oder elternzeit berücksichtigen ungefähr wie lange sind sie insgesamt vollzeit zu hause geblieben um sich um ihr kind bzw ihre kinder zu kümmern
+MTE_GER_202	bitte antworten sie anhand dieser karte	bitte benutzen sie diese karte	bitte benutzen sie diese liste
+MTE_GER_203	keine vollzeit zu hause wegen kindern	keine zeit wegen der kinder vollzeit zu hause verbracht	überhaupt nicht wegen kindern vollzeit zu hause geblieben
+MTE_GER_204	bis zu sechs monate	bis zu sechs monate	bis zu sechs monaten
+MTE_GER_205	mehr als 6 monate bis zu 12 monate	mehr als 6 monate bis zu 12 monate	mehr als 6 monate bis zu 12 monaten
+MTE_GER_206	mehr als ein jahr aber bis zu 2 jahre	mehr als ein jahr aber bis zu 2 jahre	mehr als 1 jahr bis zu 2 jahren
+MTE_GER_207	mehr als 2 jahre aber bis zu 4 jahre	mehr als 2 jahre aber bis zu 4 jahre	mehr als 2 jahre bis zu 4 jahren
+MTE_GER_208	mehr als 4 jahre aber bis zu 10 jahre	mehr als 4 jahre aber bis zu 10 jahre	mehr als 4 jahre bis zu 10 jahren
+MTE_GER_209	mehr als 10 jahre	mehr als 10 jahre	mehr als 10 jahre
+MTE_GER_210	verweigerung	verweigerung	verweigert
+MTE_GER_211	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_212	ich werde jetzt eine liste der arten vorlesen wie sie sich in der letzten woche gefühlt oder verhalten haben könnten	ich werde jetzt eine liste von möglichkeiten vorlesen wie sie sich in der letzten woche gefühlt oder verhalten haben	ich werde ihnen jetzt eine liste mit möglichkeiten vorlesen wie sie sich in der letzten woche möglicherweise gefühlt haben
+MTE_GER_213	bitte sagen sie mir anhand dieser karte wie oft sie sich in der letzten woche	bitte sagen sie mir anhand dieser karte wie oft sie in der letzten woche	sagen sie mir bitte anhand dieser liste wie viel der zeit in der letzten woche
+MTE_GER_214	vorlesen	vorlesen	vorlesen
+MTE_GER_215	sie sich deprimiert gefühlt haben	sich deprimiert gefühlt haben	sie sich deprimiert gefühlt haben
+MTE_GER_216	sie das gefühl hatten dass alles was sie getan haben eine anstrengung war	das gefühl hatten dass alles was sie getan haben eine anstrengung war	sie das gefühl hatten dass alles was sie getan haben anstrengend war
+MTE_GER_217	vorlesen	vorlesen	vorlesen
+MTE_GER_218	nie oder fast nie	keiner oder fast keiner der zeit	keine oder fast keine zeit
+MTE_GER_219	manchmal	einen teil der zeit	einen teil der zeit
+MTE_GER_220	meistens	die meiste zeit	die meiste zeit
+MTE_GER_221	immer oder fast immer	die ganze oder fast die ganze zeit	immer oder fast die ganze zeit
+MTE_GER_222	verweigerung	verweigerung	verweigert
+MTE_GER_223	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_224	bitte sagen sie mir anhand dieser karte inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen	bitte sagen sie mir anhand dieser karte inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen	bitte sagen sie mir anhand dieser liste inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen
+MTE_GER_225	an den meisten tagen verspüre ich ein erfolgserlebnis bei dem was ich tue	an den meisten tagen verspüre ich das gefühl durch meine arbeit etwas erreicht zu haben	an den meisten tagen gibt mir das was ich tue ein gefühl der erfüllung
+MTE_GER_226	stimme stark zu	stimme stark zu	stimme voll und ganz zu
+MTE_GER_227	stimme zu	stimme zu	stimme zu
+MTE_GER_228	weder noch	weder zustimmen noch ablehnen	stimme weder zu noch nicht zu
+MTE_GER_229	stimme nicht zu	stimme nicht zu	stimme nicht zu
+MTE_GER_230	stimme überhaupt nicht zu	stimme stark nicht zu	stimme überhaupt nicht zu
+MTE_GER_231	verweigerung	verweigerung	verweigert
+MTE_GER_232	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_233	ich werde nun eine liste von dingen über ihr arbeitsleben vorlesen	ich werde ihnen eine liste von dingen über ihr arbeitsleben vorlesen	ich werde ihnen jetzt eine liste mit dingen vorlesen die sich auf ihr arbeitsleben beziehen
+MTE_GER_234	bitte sagen sie mir anhand dieser karte inwieweit ihnen ihre vorgesetzten ermöglichen	bitte sagen sie mir anhand dieser karte wie sehr das management an ihrem arbeitsplatz ihnen erlaubt	bitte sagen sie mir anhand dieser liste inwieweit ihr arbeitgeber ihnen erlaubt
+MTE_GER_235	vorlesen	vorlesen	vorlesen
+MTE_GER_236	ihre arbeitszeit flexibel zu gestalten	flexibel in ihrer arbeitszeit zu sein	ihre arbeitszeit flexibel einzuteilen
+MTE_GER_237	ihre arbeitsumgebung zu beeinflussen	ihr arbeitsumfeld zu beeinflussen	einfluss auf ihre arbeitsumgebung zu nehmen
+MTE_GER_238	ich habe keinen einfluss	ich habe keinen einfluss	ich habe keinen einfluss
+MTE_GER_239	ich habe die vollständige kontrolle	ich habe die vollständige kontrolle	ich habe die vollständige kontrolle
+MTE_GER_240	verweigerung	verweigerung	verweigert
+MTE_GER_241	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_242	bitte sagen sie mir anhand dieser karte inwieweit sie der folgenden aussagezustimmen oder nicht zustimmen	bitte sagen sie mir anhand dieser karte inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen	bitte sagen sie mir anhand dieser liste inwieweit sie der folgenden aussage zustimmen oder nicht zustimmen
+MTE_GER_243	arbeitnehmer brauchen starke gewerkschaften zum schutz ihrer arbeitsbedingungen und löhne	die arbeitnehmer brauchen starke gewerkschaften um ihre arbeitsbedingungen und löhne zu schützen	beschäftigte brauchen starke gewerkschaften um ihre arbeitsbedingungen und löhne zu schützen
+MTE_GER_244	stimme stark zu	stimme stark zu	stimme voll und ganz zu
+MTE_GER_245	stimme zu	stimme zu	stimme zu
+MTE_GER_246	weder noch	weder zustimmen noch ablehnen	stimme weder zu noch nicht zu
+MTE_GER_247	stimme nicht zu	stimme nicht zu	stimme nicht zu
+MTE_GER_248	stimme überhaupt nicht zu	stimme stark nicht zu	stimme überhaupt nicht zu
+MTE_GER_249	verweigerung	verweigerung	verweigert
+MTE_GER_250	weiß nicht	weiß nicht	weiß nicht
+MTE_GER_251	welchen beruf üben sie aus	was ist ihr beruf	welchen beruf üben sie aus
+MTE_GER_252	eintragen und unten kodieren	bitte schreiben sie ihn auf und codieren sie unten	offene antwort notieren und unten zuordnen
+MTE_GER_253	arbeitgeber betriebsleiter mit 10 oder mehr mitarbeitern	arbeitgebermanager eines betriebs mit 10 oder mehr mitarbeitern	arbeitgeberin bzw leiterin eines betriebs oder einer einrichtung mit 10 oder mehr beschäftigten
+MTE_GER_254	arbeitgeber betriebsleiter mit weniger als 10 mitarbeitern	arbeitgebermanager eines betriebs mit weniger als 10 mitarbeitern	arbeitgeberin bzw leiterin eines betriebs oder einer einrichtung mit weniger als 10 beschäftigten
+MTE_GER_255	fachkraft anwalt buchhalter lehrer usw	fachkraft anwalt buchhalter lehrer usw	angehöriger eines akademischen berufs anwaltanwältin buchhalterin lehrerin usw
+MTE_GER_256	kaufmännischer beruf auf mittlerer ebene büroangestellte usw	mittlere nicht manuelle tätigkeit büroangestellter usw	mittlerer angestellter büroarbeiterin usw
+MTE_GER_257	kaufmännischer beruf auf junior ebene büroangestellte etc	einfache nicht manuelle tätigkeit büroangestellter usw	einfacher angestellter büroarbeiterin usw
+MTE_GER_258	vorarbeiter und vorgesetzter	vorarbeiter und aufseher	vorarbeiterin und aufsichtsperson
+MTE_GER_259	qualifizierter arbeiter	facharbeiter	facharbeiterin
+MTE_GER_260	angelernter arbeiter	angelernter arbeiter	angelernter arbeiterin
+MTE_GER_261	ungelernter arbeiter	ungelernter arbeiter	ungelernter arbeiterin
+MTE_GER_262	landwirt arbeitgeber vorgesetzter oder selbständiger	landwirt arbeitgeber manager oder selbständiger	landwirtin arbeitgeberin leiterin oder selbstständiger
+MTE_GER_263	landwirschaftlicher arbeiter	landarbeiter	arbeiterin in der landwirtschaft
+MTE_GER_264	soldat	mitglied der streitkräfte	armeeangehöriger
+MTE_GER_265	hatte nie einen job	nie einen job gehabt	ich hatte noch nie eine arbeit
+MTE_GER_266	verweigerung	verweigerung	verweigert
+MTE_GER_267	weiß nicht	weiß nicht	weiß nicht
