@@ -223,7 +223,10 @@ def plot_sentence_level_heatmaps(df, output_folder, item_type):
 
         
         plt.figure(figsize=(12, 8))
-        sns.heatmap(df_pivot, annot=False, cmap="coolwarm", cbar=True, linewidths=0.5, linecolor="black")
+        if metric=='COMET-22' or metric=='BERTScore F1':
+            sns.heatmap(df_pivot, annot=False, cmap="coolwarm", cbar=True, linewidths=0.5, linecolor="black", vmin=0.0, vmax=1.0)
+        else:
+            sns.heatmap(df_pivot, annot=False, cmap="coolwarm", cbar=True, linewidths=0.5, linecolor="black", vmin=0, vmax=100)
         # plt.title(f"Sentence-Level {metric} Heatmap for "+item_type.lower()+" sentences")
         plt.xlabel("Prompt-temperature pair")
         plt.ylabel("Sentence ID")
