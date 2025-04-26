@@ -1,27 +1,27 @@
-question_number	human_translation	mt_translation	participant_0	participant_1	participant_2	chosen_by_majority
-1	A	B	A	A	B	Human
-2	B	A	B	A	B	Human
-3	B	A	B	B	A	Human
-4	A	B	A	A	B	Human
-5	A	B	A	A	A	Human
-6	A	B	A	A	B	Human
-7	A	B	A	A	A	Human
-8	B	A	B	A	B	Human
-9	A	B	B	B	B	MT
-10	B	A	B	A	B	Human
-11	B	A	A	B	B	Human
-12	B	A	B	B	A	Human
-13	A	B	A	B	B	MT
-14	B	A	B	B	B	Human
-15	B	A	B	B	B	Human
-16	A	B	A	B	A	Human
-17	A	B	A	B	A	Human
-18	A	B	A	A	B	Human
-19	A	B	A	B	A	Human
-20	B	A	B	B	B	Human
-21	A	B	B	A	B	MT
-22	B	A	A	B	A	MT
-23	A	B	A	B	B	MT
-24	A	B	A	A	B	Human
-25	B	A	B	A	A	MT
-26	A	B	A	B	A	Human
+question_number	human_translation	mt_translation	participant_0	participant_1	participant_2	participant_3	participant_4	chosen_by_majority
+1	A	B	A	A	B	A	A	Human
+2	B	A	B	A	B	B	B	Human
+3	B	A	B	B	A	B	B	Human
+4	A	B	A	A	B	A	B	Human
+5	A	B	A	A	A	A	A	Human
+6	A	B	A	A	B	A	B	Human
+7	A	B	A	A	A	A	A	Human
+8	B	A	B	A	B	A	B	Human
+9	A	B	B	B	B	A	A	MT
+10	B	A	B	A	B	B	A	Human
+11	B	A	A	B	B	B	B	Human
+12	B	A	B	B	A	B	B	Human
+13	A	B	A	B	B	B	B	MT
+14	B	A	B	B	B	B	B	Human
+15	B	A	B	B	B	B	A	Human
+16	A	B	A	B	A	A	A	Human
+17	A	B	A	B	A	A	A	Human
+18	A	B	A	A	B	A	A	Human
+19	A	B	A	B	A	A	A	Human
+20	B	A	B	B	B	B	B	Human
+21	A	B	B	A	B	B	A	MT
+22	B	A	A	B	A	B	A	MT
+23	A	B	A	B	B	A	A	Human
+24	A	B	A	A	B	A	A	Human
+25	B	A	B	A	A	B	A	MT
+26	A	B	A	B	A	A	A	Human
