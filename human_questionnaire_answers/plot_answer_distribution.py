@@ -60,9 +60,9 @@ colors_A = plot_df[plot_df['option'] == 'A'].apply(get_color, axis=1).values
 colors_B = plot_df[plot_df['option'] == 'B'].apply(get_color, axis=1).values
 
 
-fig, ax = plt.subplots(figsize=(22, 6))
-bars_A = ax.bar([i - bar_width/2 for i in x], votes_A, width=bar_width, color=colors_A, edgecolor='black', label='Option A')
-bars_B = ax.bar([i + bar_width/2 for i in x], votes_B, width=bar_width, color=colors_B, edgecolor='black', label='Option B')
+fig, ax = plt.subplots(figsize=(20, 4))
+bars_A = ax.bar([i - bar_width/2 for i in x], votes_A, width=bar_width, color=colors_A, edgecolor='black')
+bars_B = ax.bar([i + bar_width/2 for i in x], votes_B, width=bar_width, color=colors_B, edgecolor='black')
 
 #indicate MT option with a star
 for i, (row_A, row_B) in enumerate(zip(
@@ -76,10 +76,9 @@ for i, (row_A, row_B) in enumerate(zip(
 
 ax.set_xlabel("Question Number", fontsize=14)
 ax.set_ylabel("Number of Votes", fontsize=14)
-ax.set_title("Answer Distributions per Question (★ = GPT translation)", fontsize=16)
+ax.set_title("Answer distributions per question (★ = GPT translation)", fontsize=16)
 ax.set_xticks(x)
 ax.set_xticklabels(questions, rotation=90)
-ax.legend()
 
 plt.tight_layout()
 plt.show()

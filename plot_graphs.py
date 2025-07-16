@@ -228,8 +228,8 @@ def plot_sentence_level_heatmaps(df, output_folder, item_type):
         else:
             sns.heatmap(df_pivot, annot=False, cmap="coolwarm", cbar=True, linewidths=0.5, linecolor="black", vmin=0, vmax=100)
         # plt.title(f"Sentence-Level {metric} Heatmap for "+item_type.lower()+" sentences")
-        plt.xlabel("Prompt-temperature pair")
-        plt.ylabel("Sentence ID")
+        plt.xlabel("Prompt-temperature pair", fontsize=16)
+        plt.ylabel("Sentence ID", fontsize=16)
         plt.tick_params(axis='both', labelsize=13)
         # plt.xticks(rotation=50)
         
